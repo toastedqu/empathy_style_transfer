@@ -1,0 +1,1017 @@
+﻿conv_id,turn_id,speaker,utterance,dialog_act,empathy,emotion,emotional_polarity,self_disclosure,empathy_mean,da
+477,0,Person 1,"ahoy, what did you think about the article?","('qo',)",0.560234845,0.706659138,0.774597049,0.787016571,1.410603794,qo
+477,1,Person 2,"Hello, I do not find it shocking, when I go grocery shopping I find it kind of insane with how much food people have in their carts like no way they can eat it all","('sv',)",2.354839563,2.715030909,1.687318444,2.955718279,1.410603794,sv
+477,2,Person 1,"I agree, i am guilty of it myself to be honest","('aa',)",1.706108689,2.392849445,1.689476967,2.997327089,1.410603794,aa
+477,3,Person 2,I am pretty good with sticking to my recipes and my list but I have a problem with produce since it seems to go bad a lot of the time before we have time to eat it,"('sd',)",1.720752954,2.016332388,1.209879398,3.090903997,1.410603794,sd
+477,4,Person 1,Do you just throw it away then?,"('qy',)",1.087586999,1.272931695,1.196428537,1.344572663,1.410603794,qy
+477,5,Person 2,I try to cut off the bad pieces but sometimes its not salvageable,"('sd',)",2.327995062,2.274957895,1.730832338,2.396507978,1.410603794,sd
+477,6,Person 1,"Nice, i usually just turn it into a shake of some sort!","('sd',)",1.457555532,2.106632471,0.419588238,2.129436255,1.410603794,sd
+477,7,Person 2,"Thats a good idea, my neighbor has a little compost that she uses for a garden which is cool. What type of food do you waste the most of","('sd',)",1.960178614,1.95574224,0.465205133,2.451621532,1.410603794,sd
+477,8,Person 1,Vegetables and rice,"('sd',)",0.7548123,0.83744812,0.839649916,1.352275252,1.410603794,sd
+477,9,Person 2,"Yea I have a problem with wasting pasta, i guess people need to be more conscious of when they think they are making too much of something","('aa', 'sv')",2.208585501,2.159866571,1.738406539,2.52358532,1.410603794,aa
+477,10,Person 1,True! What kind of food do you cook the most?,"('qw',)",1.085108995,1.335405707,0.479330629,1.416232347,1.410603794,qw
+477,11,Person 2,"I try to switch it up but I make steak, fish, quesadillas, chili, grilled chicken and then have to make a separate meal for my picky eaters","('sd',)",1.584086061,1.913880348,1.114394665,3.04852438,1.410603794,sd
+477,12,Person 1,That sounds delicious. I wish i knew how to make that,"('sv',)",2.476317644,3.044588327,0.584715247,2.410622835,1.410603794,sv
+477,13,Person 2,Which thing? What do you usually cook,"('qw',)",0.469551891,0.824924648,0.497411638,1.095483184,1.410603794,qw
+477,14,Person 1,I usually just eat rice with some eggs. That's it,"('sd',)",1.331195593,1.505969882,0.851540565,2.797165632,1.410603794,sd
+477,15,Person 2,"For real? Learning how to cook is a very valuable tool, how old are you?","('aa', 'qw')",1.306407928,2.087439299,0.654570341,1.731624722,1.410603794,aa
+477,16,Person 1,I am 40 years old unfortunately,"('sd',)",1.202551961,2.000454187,1.440343499,2.815093517,1.410603794,sd
+477,17,Person 2,"I am 30, my boyfriend in college was a chef though so maybe i got a head start in the culinary world","('sd',)",1.244713068,1.623591304,0.48748669,3.020272017,1.410603794,sd
+477,18,Person 1,That's awesome. It was nice talking to you! bye,"('fc',)",0.997496188,2.019673824,0.380253047,1.208856344,1.410603794,fc
+477,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.410603794,fc
+479,0,Person 1,what did you think about the article?,"('qo',)",0.635084331,0.681005538,1.001944184,0.779372454,1.421981291,qo
+479,1,Person 2,I think that a full belly is taken for granted in our country. You?,"('sv',)",1.995525122,1.727919936,0.887563705,2.075137854,1.421981291,sv
+479,2,Person 1,yeah you can say that again. do you throw out your food?,"('qy',)",0.996083438,1.448975205,1.143178821,1.511457205,1.421981291,qy
+479,3,Person 2,Only if it starts to mold and cutting off the moldy section wouldn't save it. How about you?,"('qo',)",2.030566216,1.840191722,1.315300226,1.788899422,1.421981291,qo
+479,4,Person 1,yep i usually throw out bread which molds so quick,(),1.573306322,1.789145231,1.411146164,2.560324192,1.421981291,none
+479,5,Person 2,Where do you buy your produce?,"('qw',)",0.782885015,0.826013148,0.613348067,1.239509225,1.421981291,qw
+479,6,Person 1,from the local grocery store,"('+',)",1.344643116,1.549514174,0.849853873,1.856114507,1.421981291,+
+479,7,Person 2,Do you shop at regular intervals or do you just go when you need things?,"('qy',)",1.034906149,1.173740029,0.673604608,1.612263441,1.421981291,qy
+479,8,Person 1,regular what about you,(),0.572851479,0.92088747,0.911499143,1.061855555,1.421981291,none
+479,9,Person 2,I go once a week and try to only buy things to last me for that week. I actually end up throwing out fresh spices like cilantro/thyme/etc because I haven't found a way to properly store it.,"('sd',)",1.816386938,1.963221312,1.089877963,3.067276239,1.421981291,sd
+479,10,Person 1,i usually do that too. ive been eating less fast food,(),1.871631145,1.712936044,0.694351077,2.923389673,1.421981291,none
+479,11,Person 2,"I'll go out to eat once a week or so, but I love cooking.","('sd',)",1.505285978,1.906102777,0.5691154,3.019031763,1.421981291,sd
+479,12,Person 1,yeah fast food is alright but not everyday,"('aa',)",1.48839426,1.867221236,1.18477118,2.184572458,1.421981291,aa
+479,13,Person 2,"How do you feel about food waste coming from grocery stores, restaurants and the like? Is there a practical way to cut down on the immense amount that they contribute?","('qo',)",1.724608421,1.505194306,1.073565602,1.641842604,1.421981291,qo
+479,14,Person 1,probably give some of the extra food away to people in need,"('+',)",2.456929207,1.912687302,0.55179441,1.791876554,1.421981291,+
+479,15,Person 2,That's a good one. I'm sure some places have programs like that in place.,"('sv',)",2.221543789,1.501474738,0.489090502,1.561135054,1.421981291,sv
+479,16,Person 1,yeah ive heard some that do,(),1.430016994,1.447121501,1.181075931,1.699011326,1.421981291,none
+479,17,Person 2,"Would you purchase irregular food if given the opportunity to prevent such waste? Misshapen, discolored or otherwise?","('qy',)",1.83716929,1.622820735,1.319575906,1.822941661,1.421981291,qy
+479,18,Person 1,if im hungry and cant afford actual food why not. what about you,"('qo',)",1.561679363,1.80315423,1.406618476,2.067028522,1.421981291,qo
+479,19,Person 2,"Definitely! Well, thanks for chatting! bye","('fc',)",0.60611403,1.432580829,0.377562165,1.036226273,1.421981291,fc
+479,20,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.421981291,fc
+195,0,Person 1,What did you think about the article,"('qo',)",0.621129155,0.742328227,1.055668473,0.887002826,1.532093404,qo
+195,1,Person 2,it was interesting they need to send the refugees back,"('sd',)",2.851266623,1.896488547,0.876078069,1.593337893,1.532093404,sd
+195,2,Person 1,yeah what do you think they should do?,"('qo',)",1.360572815,1.244163394,0.914584756,1.327093363,1.532093404,qo
+195,3,Person 2,kick them out,"('+',)",0.997890651,2.011939049,1.696866155,1.608221769,1.532093404,+
+195,4,Person 1,"I agree, Too much  people cant fit in one country. Maybe only take in the serious sad cases","('aa', 'sv')",2.809262753,2.44745183,1.761793494,2.054589033,1.532093404,aa
+195,5,Person 2,yea special exceptions but at a bare minimum,(),1.197124004,1.394060016,0.997592926,1.604408264,1.532093404,none
+195,6,Person 1,yeah keep it minimum germany is small,"('aa',)",0.9681651,1.276026368,1.037703156,1.923150539,1.532093404,aa
+195,7,Person 2,germany is too small,"('sv',)",1.592478037,1.838227987,1.513444543,1.706589699,1.532093404,sv
+195,8,Person 1,yep way too small for all the asylum seekers,"('aa',)",2.514051437,2.261603117,1.676149487,1.873838663,1.532093404,aa
+195,9,Person 2,and terrorists,"('+',)",1.071146488,1.809442043,1.521219492,1.474165201,1.532093404,+
+195,10,Person 1,they should fix their own country,"('sv',)",2.085505247,2.452694178,1.934451938,1.961036801,1.532093404,sv
+195,11,Person 2,yea they need to build it up again so we can bomb it all up I like turning their homes to dust,"('sv',)",2.435894251,2.394480228,1.66098702,2.492699385,1.532093404,sv
+195,12,Person 1,youre in the air force?,"('qy',)",0.741211236,1.018626928,0.812610507,1.202030301,1.532093404,qy
+195,13,Person 2,yea,"('b',)",0.505424678,0.995800853,1.121805429,1.128425479,1.532093404,b
+195,14,Person 1,lol okay,"('b',)",0.664739549,1.6715132,1.023079753,1.29617846,1.532093404,b
+195,15,Person 2,bomb them to smithereens,"('+',)",2.014203787,3.078093767,1.750785828,1.985661864,1.532093404,+
+195,16,Person 1,"back to the article. I think letting a few in is good, not all.","('sv',)",1.695696354,1.871178031,0.997030139,1.943601251,1.532093404,sv
+195,17,Person 2,only the christians being killed by the savage towel heads,(),2.621551752,3.01138401,1.929186225,2.059777498,1.532093404,none
+195,18,Person 1,i doubt they would check based on religion. its germany not some southern american state loll,"('sv',)",1.71836257,1.822003007,1.58257103,2.051896811,1.532093404,sv
+195,19,Person 2,they should if they care about terrorism,"('sv',)",2.289899588,2.256564617,1.538615942,2.107095957,1.532093404,sv
+195,20,Person 1,been a good talk. bye,"('fc',)",0.574482322,1.338946462,0.351193994,0.782018304,1.532093404,fc
+195,21,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.532093404,fc
+247,0,Person 1,What do you think about her death,"('qo',)",1.211913466,1.053013921,1.172082424,1.019915938,1.562055484,qo
+247,1,Person 2,I think she lived a full life.,"('sv',)",2.476413012,1.698392749,0.469002008,1.638241172,1.562055484,sv
+247,2,Person 1,"yeah, did you hear about her before this article?","('qy',)",0.866042554,1.012396097,0.792271554,1.144662738,1.562055484,qy
+247,3,Person 2,"I had, but I was a very small child during the Clinton admin, so I didn't really know her function or capacity as a politician.","('sd',)",2.253651381,2.085536718,1.213916063,2.912546873,1.562055484,sd
+247,4,Person 1,I remember her from the Elian Gonzales news back in the day,"('sd',)",1.488840103,1.544302702,0.745572925,2.448563337,1.562055484,sd
+247,5,Person 2,Oh yeah! I had completely forgotten about that kid. I wonder what he is up to now.,(),2.055421114,2.413285494,0.943279803,2.070923567,1.562055484,none
+247,6,Person 1,i think he lives in cuba now not sure,(),1.500188112,1.359889984,1.020105839,1.551026225,1.562055484,none
+247,7,Person 2,Do you have any experiences with Parkinson's disease?,"('qy',)",1.113604665,1.133852601,0.938521564,1.222932935,1.562055484,qy
+247,8,Person 1,"Fortunately no, what about you?","('qo',)",1.177478552,1.760421395,1.12912035,1.371049404,1.562055484,qo
+247,9,Person 2,"Nope, not personally. I really don't know that much about it.","('ng',)",1.67979455,1.698349357,0.9253003,2.02385664,1.562055484,ng
+247,10,Person 1,I just know you lose your memory,"('sd',)",2.210092783,2.057027578,1.637306571,1.804105759,1.562055484,sd
+247,11,Person 2,Is that part of it? Doesn't it make your hands shake also?,"('qy',)",1.972409129,1.653164148,1.304590821,1.67855382,1.562055484,qy
+247,12,Person 1,yeah I believe that happens too,"('aa',)",1.868030071,1.647582769,1.143212676,2.038336992,1.562055484,aa
+247,13,Person 2,Do you think there will be another female attorney general in the near future?,"('qy',)",1.284656167,1.323850036,0.719367266,1.402188063,1.562055484,qy
+247,14,Person 1,most likely. once the first one comes through it opens the door one would think for the next generation of females. whats your opinion?,"('qo',)",1.68965888,1.644740462,0.800641418,1.705226541,1.562055484,qo
+247,15,Person 2,I think its likely. I don't know who it might be though.,(),1.824368715,1.532971621,0.892627716,1.529816985,1.562055484,none
+247,16,Person 1,yeah i have no idea about politics to be honest,(),1.132055044,1.751685262,1.278222442,2.315755606,1.562055484,none
+247,17,Person 2,I follow them with mild interest. It gets to be very depressing after a while though. Do you vote?,"('qy',)",1.746769786,1.96002686,1.431682229,2.265669346,1.562055484,qy
+247,18,Person 1,yeah I definitely vote. More likely to vote now with all that trouble going on in the white house.,"('aa',)",1.787856102,2.150221109,0.99480021,2.453181267,1.562055484,aa
+247,19,Person 2,"Yeah, next year is going to be a circus. Well, thanks for chatting! bye","('fc',)",1.08792448,1.617500663,0.512691021,1.685153008,1.562055484,fc
+247,20,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.562055484,fc
+139,0,Person 1,I'm happy they waited for the children to be over 18 before the marriage broke up.,"('sd',)",2.413777351,2.346743107,0.494391292,2.190630913,1.584054965,sd
+139,1,Person 2,yeah that's true it is very rare for people to do that.,"('aa',)",2.43123436,1.859345317,0.923545539,1.916475773,1.584054965,aa
+139,2,Person 1,"Yeah, long marriages are rare in general.","('aa',)",1.920631409,1.444308996,1.00808084,1.737138629,1.584054965,aa
+139,3,Person 2,why do you think that is?,"('qo',)",0.986107767,1.072727799,0.994868159,1.075510383,1.584054965,qo
+139,4,Person 1,People think everyday will be a fairy tale.,"('sv',)",1.930399418,2.043408155,1.290152669,1.878776789,1.584054965,sv
+139,5,Person 2,yeah its just not realistic no one is perfect and can give you that fairy tale life.,"('aa', 'sv')",1.950491667,2.28517127,1.391152859,2.10883975,1.584054965,aa
+139,6,Person 1,when married there will be days you do not want to be married.,"('+',)",1.874415755,1.974357247,1.411008239,2.108009577,1.584054965,+
+139,7,Person 2,its up to you to keep it to yourself until your head clears as well. if you still feel that way after your head clears its time to have that talk with your spouse.,"('sv',)",1.837484121,2.201331377,1.041709065,2.20937705,1.584054965,sv
+139,8,Person 1,I got married at 19 and been married for 18 years I know it is not easy.,"('sd',)",2.08282876,2.444999695,1.295012474,2.995776892,1.584054965,sd
+139,9,Person 2,thats a good rare marriage you have going,(),1.369972229,2.100175381,0.146947503,1.407548666,1.584054965,none
+139,10,Person 1,"Thanks, my grandmother gave me the advice that I will not be happy everyday.",(),1.795668244,2.560330153,0.735203981,3.0283885,1.584054965,none
+139,11,Person 2,its a good thing your had a grandmother that was wise,"('sd',)",2.072302103,2.439264536,0.234962195,2.075276613,1.584054965,sd
+139,12,Person 1,are you married?,"('qy',)",0.6273278,0.89624095,0.611208856,1.006137133,1.584054965,qy
+139,13,Person 2,going to be pretty soon,"('+',)",1.076240301,1.429867029,0.655627489,1.387768984,1.584054965,+
+139,14,Person 1,congratulations!,"('ba',)",0.926853538,2.362972498,0.280375123,1.419311523,1.584054965,ba
+139,15,Person 2,thanks!,"('ft',)",0.775159478,1.585355759,0.367465436,1.167178631,1.584054965,ft
+139,16,Person 1,I wonder if being in Hollywood put pressure on their marriage?,"('qy',)",1.9744941,1.493911862,0.905819833,1.468868732,1.584054965,qy
+139,17,Person 2,i believe  hollywood is just full of weirods,"('sv',)",1.707117796,2.313393116,1.725320935,2.133161783,1.584054965,sv
+139,18,Person 1,I use to think Hollywood makes you  weird.,"('sv',)",1.796846151,2.464250326,1.424147487,2.387542963,1.584054965,sv
+139,19,Person 2,i think its a little of both,(),1.782201052,1.584651589,1.148690701,1.677621484,1.584054965,none
+139,20,Person 1,I agree. I know who the daughter is in the story. I have no clue about her father.,"('aa',)",2.067003965,2.011255503,1.039261699,2.152396441,1.584054965,aa
+139,21,Person 2,wonder why they didnt talk about him much,(),1.793722987,1.709422469,1.360644341,1.410637975,1.584054965,none
+139,22,Person 1,do you think money helps or hurts marriages?,"('qy',)",1.248627186,1.213774443,1.013241887,1.226988316,1.584054965,qy
+139,23,Person 2,hurts tbh,(),0.956275046,2.080556154,1.103324413,1.460245967,1.584054965,none
+139,24,Person 1,I can see your point of view,"('aa',)",1.89895618,1.678488135,1.153848767,1.65323019,1.584054965,aa
+139,25,Person 2,its been good brother. goodbye,"('fc',)",0.837358654,1.805653095,0.359966576,1.453423858,1.584054965,fc
+139,26,Person 1,you too! bye,"('fc',)",0.635986626,1.490841508,0.463379145,1.00651598,1.584054965,fc
+359,0,Person 1,what did you think?,"('qo',)",0.82136178,0.804909468,0.871735513,0.919981897,1.599142497,qo
+359,1,Person 2,Ugh I just think it's so sad every time I hear of some senseless shooting like this.  It's always some lunatic with a gun who's angry at the world or emotionally unstable and takes it out on others.  So insane.  What did you think?,"('qo',)",3.20916152,3.696020126,1.726647258,2.703455687,1.599142497,qo
+359,2,Person 1,the world is getting worse,"('sv',)",2.706052542,3.271084547,2.245563984,1.98532021,1.599142497,sv
+359,3,Person 2,definitely more unstable,(),1.492300391,1.688841224,1.849977851,1.686610818,1.599142497,none
+359,4,Person 1,maybe its the culuture,"('sv',)",1.715994835,1.501839995,1.218510747,1.465688109,1.599142497,sv
+359,5,Person 2,what about it do you think?,"('qo',)",1.07357192,0.961650729,1.010498166,1.01661253,1.599142497,qo
+359,6,Person 1,its a uniquely american problem,(),1.854460359,2.206094027,1.728277564,2.062032461,1.599142497,none
+359,7,Person 2,"I don't think so, this is happening in many other countries in Europe, Africa, and Asia, too.  Sometimes it is knives or machetes instead of guns but the same premise of some lunatic just massacreing other people for no apparent reason","('sv',)",2.255712986,1.949748397,1.610262871,2.103914499,1.599142497,sv
+359,8,Person 1,yea but in the first world mass shootings happen way more here then anywhere else I guess since we have to be the best in everything mass shootings should be no different,"('sv',)",1.909209967,1.994253874,1.335523725,2.202909946,1.599142497,sv
+359,9,Person 2,"I'm not sure, I haven't seen any data supporting that but perhaps you have some.  Regardless, it is happening too much anywhere.",(),1.948869586,1.910146594,1.500039697,1.75602603,1.599142497,none
+359,10,Person 1,just google it and see if its true and its not the guns other countries have guns too,"('sv',)",1.690762043,1.893403411,1.055685639,1.733610988,1.599142497,sv
+359,11,Person 2,http://worldpopulationreview.com/countries/mass-shootings-by-country/  This says the US is actually number 66 on the list of mass shootings per capita,"('sd',)",1.899624825,1.825168252,1.591094971,2.091689587,1.599142497,sd
+359,12,Person 1,"The truth of the matter is that the United States is actually number sixty-six on the list of countries in terms of mass shooting rates per capita, but they have had more mass shootings than any other country in terms of overall numbers.","('sd',)",2.000677586,1.957945704,1.429997802,2.249828577,1.599142497,sd
+359,13,Person 2,"Per capita would be the relevant statistic.  But regardless, it is clear that it is a problem in many countries, not just the U.S.  It is a global issue.","('sd',)",2.433312416,1.944253325,1.322403312,2.26851511,1.599142497,sd
+359,14,Person 1,yes it is a global problem but we're number one in overall numbers thank god we need to be number one in everything because we are exceptional,(),2.024445534,2.65672183,0.647895694,2.498128414,1.599142497,none
+359,15,Person 2,What did you think of the man in the article?,"('qo',)",0.942869008,0.944755971,0.985454023,1.040655375,1.599142497,qo
+359,16,Person 1,typical american guy,"('sv',)",1.09453702,1.503028512,0.887234449,2.105561018,1.599142497,sv
+359,17,Person 2,how so?,(),0.828680694,1.061245084,0.89560318,1.062304139,1.599142497,none
+359,18,Person 1,football,"('sd',)",0.599539936,0.953162014,1.01786077,1.185293913,1.599142497,sd
+359,19,Person 2,"Well you have a great day, I gotta go.  bye!","('fc',)",0.704851091,1.501959205,0.317537874,1.16679883,1.599142497,fc
+359,20,Person 1,bye,"('fc',)",0.375996411,0.742811799,1.016468287,0.913960874,1.599142497,fc
+156,0,Person 1,lung cancer + air pollution = quick death. you agree?,"('qy',)",1.743690968,1.940428138,1.499976993,1.730126858,1.625147835,qy
+156,1,Person 2,100% true. Its scary,"('aa',)",2.500304699,3.848780394,2.187824726,2.376319408,1.625147835,aa
+156,2,Person 1,"rocks and grass can kill you now, thats crazy. they release something called radon.","('sv',)",2.178515196,2.67185092,1.679699659,2.058705568,1.625147835,sv
+156,3,Person 2,Radon? is it also a green grass?,"('qy',)",1.199157953,1.053311944,0.730338752,1.277416706,1.625147835,qy
+156,4,Person 1,nah its a gas the naturally comes from rocks and grass,(),1.490028024,1.254881144,0.904904485,1.664993763,1.625147835,none
+156,5,Person 2,Wow. SO i guess that also have huge devastating impact on the lungs,"('sv',)",3.599199533,3.362271547,1.842788696,2.093906641,1.625147835,sv
+156,6,Person 1,"yea, its every worse if you got lung cancer","('sv',)",2.686076403,2.537294149,2.116629362,2.112563372,1.625147835,sv
+156,7,Person 2,Damn. I just hope we pay more attention to the environment,"('sd',)",2.83322525,3.356058359,1.690673947,2.596190691,1.625147835,sd
+156,8,Person 1,almost a million people die every year from pollution in the air,"('sd',)",2.411328077,2.174967766,1.840745568,1.736655831,1.625147835,sd
+156,9,Person 2,Wow!! You seem to be in the know on this topic. Are you an environmentalist?,"('qy',)",1.052280903,1.517874837,0.442409039,1.452559948,1.625147835,qy
+156,10,Person 1,"no, but i do care about the enviroment",(),1.828188896,1.658619046,0.702052236,2.133944273,1.625147835,none
+156,11,Person 2,"Hmmnn, that is good. I care about the environment also but I dont know this much",(),1.943314314,1.733793855,0.487041622,2.229756117,1.625147835,none
+156,12,Person 1,well did you know that if you have lung cancer and live in a area with air pollution it is likely you could die within 3 years?,"('qy',)",1.915212989,1.65344727,1.291989684,1.744473457,1.625147835,qy
+156,13,Person 2,Wow!!! that is such a little time,"('ba',)",2.502728224,3.010769129,1.286973,1.679141045,1.625147835,ba
+156,14,Person 1,yes it is. its best to stay educated as much as possible. this is your health we are talking about here,"('aa', 'sv')",2.082544327,2.010900736,0.947334528,2.148645878,1.625147835,aa
+156,15,Person 2,I agree with you on that. We need to take it more seriously. How can I prevent myself from polluted air though?,"('aa',)",2.187579393,1.982507825,0.823996067,2.53673768,1.625147835,aa
+156,16,Person 1,"avoid second hand smoke, radon and dont smoke cigarettes or cigars.","('+',)",1.405813098,1.681251645,1.260800838,1.917499542,1.625147835,+
+156,17,Person 2,So you suggesting I shouldnt keep lawn?,"('qy',)",1.261605382,1.835378051,1.342933893,1.999340415,1.625147835,qy
+156,18,Person 1,lawn?,"('qy',)",0.875367582,1.067997098,1.104691386,1.186508179,1.625147835,qy
+156,19,Person 2,since radon is from grasses,(),1.399005175,1.340629935,1.030109763,1.49491477,1.625147835,none
+156,20,Person 1,"well more specifically the dirt that the grass is in. but in answer to your question, no just try to limit your exposure to those things",(),1.818417072,1.442555308,1.031276584,1.623387814,1.625147835,none
+156,21,Person 2,alright then. Thanks for the heads up. It was really an insightful chat,"('fc',)",1.047537804,1.925572634,0.547564626,1.312182665,1.625147835,fc
+156,22,Person 1,"dont leave yet, i have so much more to discuss with you, about this topic","('fc',)",0.908499777,1.680677295,0.746038496,1.474938035,1.625147835,fc
+156,23,Person 2,"Ok, I am all ears","('sd',)",1.109350204,2.061956406,0.920428336,1.809208274,1.625147835,sd
+156,24,Person 1,this topic is very serious. so serious the american health institute has issued health advisories about it,"('sd',)",1.954839468,2.412700415,1.851323366,2.019283772,1.625147835,sd
+156,25,Person 2,"WOW, how do you know all these?",(),1.0050807,2.063532591,1.022728801,1.062998176,1.625147835,none
+156,26,Person 1,"i study a lot. check this out, the CDC says that lung cancer is the leading cause of cancer related deaths","('sd',)",1.907384634,1.824864149,1.379854321,1.937589407,1.625147835,sd
+156,27,Person 2,Really? It is more serious than skin cancer?,"('qy',)",2.195848465,2.88512826,1.544619203,1.732672453,1.625147835,qy
+156,28,Person 1,yeah totally,"('aa',)",1.058817744,1.731762528,1.166135669,1.516251802,1.625147835,aa
+156,29,Person 2,Wow!! Used to think skin is leading cause,"('sv',)",2.197526693,2.9176929,1.501629233,1.890707254,1.625147835,sv
+156,30,Person 1,nah lung cancer is the second leading cause of deaths in men and women,(),2.003530264,1.835083365,1.554297924,1.761039972,1.625147835,none
+156,31,Person 2,Quite insightful. Thanks for all these. I should begin to read more,(),1.397191882,2.256192923,0.411901265,1.884966016,1.625147835,none
+156,32,Person 1,yea when you get time browse the center for disease control website,(),1.396021008,1.411488414,0.757245779,1.599970102,1.625147835,none
+156,33,Person 2,I will do that Asap,"('sd',)",0.857473731,1.294451714,0.678527534,1.690979481,1.625147835,sd
+156,34,Person 1,oh and dont travel to california if you smoke,(),0.86470443,1.353478909,1.364004731,1.720701575,1.625147835,none
+156,35,Person 2,And why is that?,"('qw',)",1.091585398,1.214135051,1.113222957,1.188440323,1.625147835,qw
+156,36,Person 1,the air quality is so bad out there that research has been done that it is extremely harmful to those with and without cancer.,"('sd',)",2.711208344,2.493955851,1.665515304,2.171211243,1.625147835,sd
+156,37,Person 2,So it is best not to visit at all. I dont smoke though,"('sd',)",1.244215012,1.74203074,1.311829448,2.561879396,1.625147835,sd
+156,38,Person 1,thats good. its a bad habit.,"('sv',)",2.182981968,2.527649641,1.453267932,2.183314085,1.625147835,sv
+156,39,Person 2,I dropped it when i was 17,"('sd',)",1.074025393,1.947507739,1.449950099,2.829195261,1.625147835,sd
+156,40,Person 1,"thats great, im proud of you. well i dont want to hold you up too long, im probally talking your ear off. hopefully we will get to chat another time in future. goodbye","('fc',)",1.189270258,2.445264578,0.473031729,2.115044355,1.625147835,fc
+156,41,Person 2,No buddy..lets talk some more. You aint going anywhere...,(),0.999985814,2.11919713,1.129367948,1.67537117,1.625147835,none
+156,42,Person 1,sure ok,"('b',)",0.941641152,1.365519881,0.926859736,1.16899991,1.625147835,b
+156,43,Person 2,lol..bye,"('fc',)",0.503352642,1.347769022,0.830946565,1.007425904,1.625147835,fc
+156,44,Person 1,bye,"('fc',)",0.375996351,0.742811739,1.016468406,0.913960993,1.625147835,fc
+342,0,Person 1,the kenyans don't want more people in their country,"('sv',)",2.466935873,2.200222731,1.896425128,2.092551708,1.626424343,sv
+342,1,Person 2,what did you think about kenya deporting that official,(),0.967416584,1.248294592,1.197284698,1.07529366,1.626424343,none
+342,2,Person 1,I think it was a good decision,"('sv',)",2.314029932,1.979602814,0.263661563,1.973879695,1.626424343,sv
+342,3,Person 2,why do you think it was a good decision,"('sv',)",1.240789175,1.285827756,0.624696732,1.17564106,1.626424343,sv
+342,4,Person 1,I think kenya should focus on kenyans like all countries should focus on their own,"('sv',)",1.784101605,1.612116337,0.90623039,1.952045679,1.626424343,sv
+342,5,Person 2,"but they have 1,000 troops in Sudan so they are not focusing on their own","('sd',)",2.179657698,1.795452952,1.667672992,1.702118874,1.626424343,sd
+342,6,Person 1,I know pretty dumb,"('sd',)",1.898079395,2.917948723,1.896711826,2.184261322,1.626424343,sd
+342,7,Person 2,and they basically deported that opposition member to his death seeing as he was part of the group trying to remove the government,"('sd',)",3.009655237,3.260606527,2.044634581,2.286078691,1.626424343,sd
+342,8,Person 1,good one less african,"('sv',)",1.939745784,1.941964149,0.862836182,2.068576097,1.626424343,sv
+342,9,Person 2,what ethnicity are you,"('qw',)",0.680483997,0.889631093,0.662865639,1.197710752,1.626424343,qw
+342,10,Person 1,african,(),1.011069536,1.23257339,1.258083344,1.606021643,1.626424343,none
+342,11,Person 2,and you hate africans?,"('qy',)",1.161559582,1.945718288,1.399753809,1.72728014,1.626424343,qy
+342,12,Person 1,trust me I know my own people,"('sd',)",1.552811503,1.715992808,1.056580305,2.359661102,1.626424343,sd
+342,13,Person 2,You live in America. I doubt you know them,(),1.266145587,1.213992476,1.11374414,1.367562056,1.626424343,none
+342,14,Person 1,I came here when I was 22 I lived in the Ivory Coast,"('sd',)",1.219487309,1.339197636,0.624406755,3.10731411,1.626424343,sd
+342,15,Person 2,Why do you dislike Africans? I've never been there,"('qo', 'qw')",1.42888844,1.734984517,1.378604889,2.193343401,1.626424343,qo
+342,16,Person 1,would you like america to become like africa?,"('qy',)",1.455559969,1.467792511,0.813338399,1.586592197,1.626424343,qy
+342,17,Person 2,Ive never been or know anything about Africa.,"('sd',)",1.362249851,1.4306885,1.167804599,2.310636282,1.626424343,sd
+342,18,Person 1,"fair enough do you see african society, economics, and values as something to emulate?",(),1.587911129,1.405404687,0.647862256,1.643806696,1.626424343,none
+342,19,Person 2,Like I said. I would need to live there or visit to get a grasp on it. I'm not going to base my opinion on the news which is always full of lies and President Cheeto Mctwitter fingers speaking 24/7,"('sv',)",1.942599893,2.39761138,1.323316932,2.865681887,1.626424343,sv
+342,20,Person 1,Presidents are just figure heads to appease the masses and give them the illusion that the sheep have a choice on how things are really being run,"('sv',)",2.026480913,2.287456751,1.281192422,2.159024954,1.626424343,sv
+342,21,Person 2,Exactly. Except this one talks like he runs things when he doesn't run anything lol,"('aa',)",1.618307829,2.214847803,1.12507391,2.176574707,1.626424343,aa
+342,22,Person 1,I'm gonna tell you a secret I voted for the guy but I vote for presidents on entertainment value so you can't be mad at me and I'm gonna vote for him again but Biden has been quite amusing lately so that might change,"('sd',)",1.635174513,2.586959362,1.092487335,3.039473295,1.626424343,sd
+342,23,Person 2,Why waste your time voting. I rather do something else at voting time. Presidents dont run anything anyway. The bankers do.,"('sv',)",1.713983297,2.304653406,1.432928801,2.217763901,1.626424343,sv
+342,24,Person 1,Yea that is true we are all screwed and yet we all live in this sort of obliviousness,"('aa', 'sv')",2.484409809,3.080045938,1.900978327,2.4726789,1.626424343,aa
+342,25,Person 2,we live in denial and think our voice is heard when it aint,(),2.035769701,2.7349298,1.655229807,2.488912344,1.626424343,none
+342,26,Person 1,thats why I bought a farm with no mortgage,"('sd',)",1.849532843,2.017772913,0.657697916,2.581407785,1.626424343,sd
+342,27,Person 2,its been a good talk. bye,"('fc',)",0.749397457,1.441009283,0.314972788,0.90827316,1.626424343,fc
+342,28,Person 1,goodbye,"('fc',)",0.584071517,0.839885592,0.844525099,1.045598507,1.626424343,fc
+410,0,Person 1,It saddens me to see the US at 45th below African nations,"('sd',)",3.351970911,3.573801279,2.271933079,2.624056101,1.637293027,sd
+410,1,Person 2,yea but its okay,"('sv',)",1.028434396,1.73588264,1.03823185,1.573471189,1.637293027,sv
+410,2,Person 1,It's not okay for women to not get paid equally.  Disagree,"('sv',)",2.256987572,2.888285637,1.854473472,2.494781256,1.637293027,sv
+410,3,Person 2,why not? they are weaker,"('qh',)",1.972070694,1.706627607,1.635904312,1.676424265,1.637293027,qh
+410,4,Person 1,No they aren't,(),1.500444293,1.778931618,1.144007206,1.643433094,1.637293027,none
+410,5,Person 2,women have always been weaker physically in general and thus they had to use their wit to get everything they need to manipulate in order to achieve,(),2.266540051,2.112712383,1.638554096,2.488140106,1.637293027,none
+410,6,Person 1,You didn't even read the article.  Name on sentence you read,"('qy^d',)",1.157181621,1.554756045,1.392441869,1.381063104,1.637293027,qy
+410,7,Person 2,it was about inequality in pay for women compared to men,"('sd',)",2.352078438,1.982679486,1.790751696,1.920292854,1.637293027,sd
+410,8,Person 1,I told you that with my first statement - expand,"('sd',)",1.084463596,1.516347885,0.738667846,1.788487554,1.637293027,sd
+410,9,Person 2,expand on what? how women deserve less pay?,(),1.821206212,1.925367832,1.363666177,1.64525342,1.637293027,none
+410,10,Person 1,No - what the article actually referenced.  You can't,(),1.80164814,2.010157824,1.590546727,1.603155613,1.637293027,none
+410,11,Person 2,I just did what else do you want to discuss?,"('qo',)",0.678735673,0.985184491,0.703742921,1.06690383,1.637293027,qo
+410,12,Person 1,It was a full length article about other things - you can't name it - you didn't read it,"('sd',)",1.785169601,2.269815207,1.849600673,1.774317145,1.637293027,sd
+410,13,Person 2,well that's not for you to decide my assertion is that women deserve less pay,(),1.82626462,2.20262599,1.565837741,2.179558516,1.637293027,none
+410,14,Person 1,It is for me to decide because this is the purpose of the survey - not just spouting ignorance that doesn't pertain to the gest of the article,(),1.70267868,2.240055561,1.39032197,2.243763447,1.637293027,none
+410,15,Person 2,no its empathic conversation I can give my opinion on how I feel what are you some sort of fascist communist,"('sv',)",1.521633506,2.148241282,1.301749825,2.18314147,1.637293027,sv
+410,16,Person 1,"no but you are in the ignorance in how you relate to the people.   All your statements are sexist, ignorant and most likely have no job.   The content of the article is not referenced by you.  Only thing you say continually is women shouldn't get to pay with ridiculous comments.   Everyone has an opinion but is yours supported by anything other than ignorant comments?  so far know.",(),1.895596027,2.843181849,1.237157464,2.702638865,1.637293027,none
+410,17,Person 2,what is your synopsis of the article since only your opinion matters. It may be ridiculous but that is an opinion and you can't silence it no matter how hard you want to be able to censor people who have a differing view,"('sv',)",1.782688498,2.602581263,1.324960351,2.301741838,1.637293027,sv
+410,18,Person 1,goodbye,"('fc',)",0.584071517,0.839885592,0.844525099,1.045598507,1.637293027,fc
+410,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.637293027,fc
+138,0,Person 1,How do you feel about the article?,"('qo',)",0.821322083,0.825668275,1.146978259,0.87061578,1.662552442,qo
+138,1,Person 2,It is terrible...I have never been a fan of divorce,(),3.378389597,3.948832273,2.095701694,2.950285673,1.662552442,none
+138,2,Person 1,Me too,(),2.240678549,1.91958499,1.413124681,2.320230961,1.662552442,none
+138,3,Person 2,I always believe it is workable,"('sv',)",1.921534896,2.006748438,0.347007602,2.484397411,1.662552442,sv
+138,4,Person 1,only if they both willing to make it work,(),1.838690877,1.643541813,0.447529674,1.416953087,1.662552442,none
+138,5,Person 2,Yeah..that is what most people aint willing to do,"('aa',)",1.827424765,1.898364544,1.349761248,1.711758256,1.662552442,aa
+138,6,Person 1,And that is really sad,"('sv',)",3.809501171,3.720899105,2.109759569,2.385535479,1.662552442,sv
+138,7,Person 2,Can you divorce?,"('qy',)",1.013502836,1.249930382,0.954161048,1.282346845,1.662552442,qy
+138,8,Person 1,Not sure i ever want that. And you?,"('qy',)",1.376789451,2.111877441,1.146854162,2.128406048,1.662552442,qy
+138,9,Person 2,I dont see myself doing it,(),1.52963233,2.030471563,1.325746179,2.24434948,1.662552442,none
+138,10,Person 1,Good to know we on same page as that,"('sv',)",1.418026447,2.458693981,0.147420108,1.802538395,1.662552442,sv
+138,11,Person 2,yea..the institution should be well guarded,"('aa', 'sv')",1.831747651,1.86074388,0.797426939,1.838347673,1.662552442,aa
+138,12,Person 1,I support that,(),2.410193682,2.2142272,0.230324149,2.62052083,1.662552442,none
+138,13,Person 2,Nice talking with you. bye,"('fc',)",0.646631181,1.344958186,0.343177229,0.800626934,1.662552442,fc
+138,14,Person 1,Not up to 10 turns mate,"('sd',)",1.157178879,1.460843682,1.270053148,1.590959549,1.662552442,sd
+138,15,Person 2,My bad...what do you have to add?,(),1.174979091,2.281027317,1.507413745,1.331094742,1.662552442,none
+138,16,Person 1,what do you think can be done to prevent such things reoccurring in the society?,"('qw',)",1.593398213,1.423992157,0.949997365,1.321420074,1.662552442,qw
+138,17,Person 2,People should know the effects of these on kids,"('sv',)",2.740788698,2.190302372,1.482598662,1.988417149,1.662552442,sv
+138,18,Person 1,And before getting into any marriage be sure you really want to spend the rest of your life with that person,"('sv',)",1.635560751,1.989002347,0.806448936,1.937670946,1.662552442,sv
+138,19,Person 2,Spot on!!!!,(),1.137373209,2.727974415,0.309113234,1.61322999,1.662552442,none
+138,20,Person 1,Good chatting with you....goodbye,"('fc',)",0.696812868,1.308743358,0.404526174,0.866662145,1.662552442,fc
+138,21,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.662552442,fc
+322,0,Person 1,what did you think about this situation?,"('qo',)",0.75657624,0.774538994,1.02875793,0.773610175,1.671602142,qo
+322,1,Person 2,The world is a vampire.,"('sd',)",1.88730824,2.525724173,1.396741986,1.934773445,1.671602142,sd
+322,2,Person 1,what do you mean?,(),0.70839864,0.944732964,1.064097285,0.932335913,1.671602142,none
+322,3,Person 2,I mean that from the day you are born until the day that you die the amount of options you have to dictate your own fate shrink substantially.,"('sv',)",2.547774315,2.296803236,1.298058987,2.206193209,1.671602142,sv
+322,4,Person 1,"I disagree, I think we have many options every day to control our own fate",(),2.363306522,2.318114519,1.523421526,2.463714361,1.671602142,none
+322,5,Person 2,"We're talking about vastly different periods of time, but you are certainly entitled to your opinion.",(),2.080646515,1.844457388,1.218796134,1.758389592,1.671602142,none
+322,6,Person 1,"Yes I am.  I'm not sure how you think one's options shrink the older they get, but you're certainly entitled to your opinion too.  So what did you think about the man in the article?","('qo',)",1.681186914,1.480472684,0.945201397,1.778208613,1.671602142,qo
+322,7,Person 2,"Life in modern society is characterized by indoctrination. You are honed as far as your opportunity and ambition to fill a specific role in society will allow and then you are bound to that by the costs of subsistence. There are always exceptions, but this is the reality for most human beings. The man in the article is probably somewhat inured to slings and arrows, but that doesn't make it right to persecute him because of others mistakes.","('sv',)",2.259596825,2.577687025,1.186714888,2.694477081,1.671602142,sv
+322,8,Person 1,"I disagree about indoctrination.  We have the freedom to chose our role in the United States of America, unless perhaps you are speaking of a different culture?  Regardless, that is not at all my reality of that or anyone I know, but perhaps it is yours.",(),1.86000967,1.996843934,1.130976796,2.674093246,1.671602142,none
+322,9,Person 2,"I didn't say we weren't free to choose, I said that as we choose our freedom to navigate outside those choices becomes more limited the more choices you make. You're trying to make this political and missing the point entirely. Do you feel any empathy toward the man in the article?","('qy',)",2.094065905,2.13956809,1.258555055,2.06427598,1.671602142,qy
+322,10,Person 1,"You sound like an intoxicated person to me.  I don't feel much empathy towards him.  He had a rough childhood, but he has had personal responsibility for himself since the age of 18 and he made poor choices.  He could have made sure his papers were correct and up to date.  That was his responsibility.  He chose to break the law, repeatedly.  What do you think about him?","('qo',)",2.379386425,2.587858915,1.438398242,2.58013773,1.671602142,qo
+322,11,Person 2,It's probably difficult for you consider abstract concepts. I apologize. Do you think that he would have been better off if deported at 18 instead of 41?,"('qy',)",2.078691006,1.811369061,1.249508739,1.698171973,1.671602142,qy
+322,12,Person 1,"Yep, maybe so","('aa',)",1.466571927,1.474485278,1.065228343,1.479791403,1.671602142,aa
+322,13,Person 2,Do you believe his children should be deported as well?,"('qy',)",2.121096373,1.630994797,1.21549499,1.595777631,1.671602142,qy
+322,14,Person 1,No,"('nn',)",0.690707803,0.946902156,1.091879487,1.197449446,1.671602142,nn
+322,15,Person 2,Why not?,"('qh',)",1.180498123,1.147953749,0.965918958,1.317660332,1.671602142,qh
+322,16,Person 1,They are legal citizens,"('sd',)",1.902039647,1.728808284,0.687344134,1.781600595,1.671602142,sd
+322,17,Person 2,Did you make any assumptions as to what he had been in trouble with the law for?,"('qy',)",1.325541735,1.265017629,0.974005759,1.288215518,1.671602142,qy
+322,18,Person 1,"No, it clearly stated that if you read the article.  Goodbye!","('ng',)",1.275895834,1.653610826,1.185534,1.522462487,1.671602142,ng
+322,19,Person 2,"gotta be lower case, friend bye","('fc',)",0.772744179,1.545985222,0.687145591,1.380841494,1.671602142,fc
+476,0,Person 1,"Hi there, how are you today?","('fp',)",0.667789817,0.934337258,0.481209844,0.97150147,1.674253164,fp
+476,1,Person 2,im doing great! what did you think about what we read?,"('qo',)",0.760085642,1.409240007,0.366463214,1.547389984,1.674253164,qo
+476,2,Person 1,I think it's really sad. People just don't try very hard to not waste food. Don't you think?,"('qy',)",3.356372118,2.882430553,1.728798509,2.29433465,1.674253164,qy
+476,3,Person 2,yeah i think alot of people dont really think about it,"('aa',)",1.889622211,1.850662708,1.482959986,1.764820337,1.674253164,aa
+476,4,Person 1,I know that I'm guilty sometimes of wasting food. How about you?,"('sd',)",1.680437684,2.048422098,1.323174596,2.530726433,1.674253164,sd
+476,5,Person 2,same here it was only recently i found out the difference between expiration and use by date,"('sd',)",1.861721992,1.887725234,1.274828792,2.102821112,1.674253164,sd
+476,6,Person 1,Do you ever shop at CostCo or BJ's?,"('qy',)",1.045522094,1.326277852,0.7192114,1.519381046,1.674253164,qy
+476,7,Person 2,no im a walmart and aldi type of person,(),1.092573047,1.524527311,0.992830276,2.439365864,1.674253164,none
+476,8,Person 1,I love Aldi's. Lidl too. We just got a few around where I live.,"('sd',)",1.824467182,1.956232667,0.478754848,2.936158657,1.674253164,sd
+476,9,Person 2,oh i have been wanting to shop at a lidl ive heard great things!,"('sv',)",1.549194336,2.274437428,0.209056795,2.40901351,1.674253164,sv
+476,10,Person 1,"I sometimes buy too much food at CostCo because it's ""such a great deal"". Then I throw away much more than I want to.","('sd',)",1.811159968,2.395986319,1.455266118,2.988898516,1.674253164,sd
+476,11,Person 2,yeah i am guilty when theres a sale and then end up not using it before it goes bad,"('sv',)",1.755734205,2.277685404,1.964686155,2.574643373,1.674253164,sv
+476,12,Person 1,I can't believe some of the statistics from that article though. It's shocking that so many people don't think it's a problem.,"('sv',)",2.84996295,3.357156038,1.658036828,2.221261263,1.674253164,sv
+476,13,Person 2,ive seen more ads on tv maybe that will bring more awareness,(),2.170450687,1.744821072,0.608630657,1.798737407,1.674253164,none
+476,14,Person 1,"Really? I haven't seen any yet. That would be great if it does.  There's a company, I forget the name but a friend of mine gets her food from them, that sells food that is slightly out of date but is still highly edible.","('sd',)",1.899936199,2.114168406,0.734792292,2.384418249,1.674253164,sd
+476,15,Person 2,theres also one that sells people the not perfect produce from stores,(),2.05082202,1.73494494,1.650754571,1.868093491,1.674253164,none
+476,16,Person 1,Maybe that's the same one. I need to talk to her about it.,(),2.153420925,1.732990623,1.038054228,1.951540351,1.674253164,none
+476,17,Person 2,oh okay that is a great service you get them cheaper and less waste,"('sv',)",2.210279226,1.955000043,0.263792485,1.724476337,1.674253164,sv
+476,18,Person 1,Do you use it?,"('qy',)",0.788286567,0.915951133,0.821439266,1.139616609,1.674253164,qy
+476,19,Person 2,no but ive seen youtubers use it alot,(),1.15020752,1.641029716,0.750409663,1.849958897,1.674253164,none
+476,20,Person 1,I hope that reading this article will get me to buy less produce at CostCo even when it's on sale.,"('sd',)",2.010169029,2.325543642,0.298282325,2.744161844,1.674253164,sd
+476,21,Person 2,yeah or try and freeze some maybe,"('aa',)",1.369860411,1.393845916,0.869089246,1.321394682,1.674253164,aa
+476,22,Person 1,If I had a bigger freezer I would do that. I might just try and get two fruits at a time.,"('sd',)",2.400194407,2.130612612,0.789337814,3.008169413,1.674253164,sd
+476,23,Person 2,yeah great idea would save you by not paying for things you wont eat,"('aa',)",2.071596146,1.969738364,0.462004304,1.956387997,1.674253164,aa
+476,24,Person 1,"I could always just go to a local supermarket if I really wanted a fruit and not waste so much, you know?","('sd',)",1.973151207,1.972800732,0.704300761,2.821858168,1.674253164,sd
+476,25,Person 2,yes i agree. its been nice chatting!,"('fc',)",1.233484507,2.115610838,0.186706245,1.717436314,1.674253164,fc
+476,26,Person 1,I didn't know that there were YouTubers that talked about this a lot. Do you watch many food channels?,"('qy',)",1.268729448,1.236464858,0.838704228,1.470893621,1.674253164,qy
+476,27,Person 2,yes some just for recipe ideas,(),1.180637598,1.30109179,0.613424778,1.491767764,1.674253164,none
+476,28,Person 1,One last thing. Do you think the article will make you talk about this with others more?,"('sv',)",1.35538125,1.218942285,0.523964763,1.199406981,1.674253164,sv
+476,29,Person 2,i think so i want to inform people of what a problem this is,(),2.716014624,2.572768927,1.126078844,2.595626593,1.674253164,none
+476,30,Person 1,Me too. Great chat. bye,"('fc',)",0.840942919,1.774697065,0.37505278,1.254657865,1.674253164,fc
+476,31,Person 2,bye!,"('fc',)",0.587893307,1.090798497,0.625385642,1.006808996,1.674253164,fc
+158,0,Person 1,Tell me how you feel about the article?,"('qo',)",0.748794556,0.842568994,1.032328486,0.924487472,1.684454193,qo
+158,1,Person 2,I have neutral feelings toward the article overall,"('sd',)",1.054199934,1.39031136,0.985465169,1.616047144,1.684454193,sd
+158,2,Person 1,And why did you say that?,"('qw',)",0.768488586,1.038204312,0.878832579,0.999157071,1.684454193,qw
+158,3,Person 2,I was not really surprised by the findings and the study was not detailed,"('sd',)",1.524559021,1.598995686,1.146220684,2.006215572,1.684454193,sd
+158,4,Person 1,"oh, do you have any idea about the topic before?","('qy',)",0.619519114,0.881961465,0.699445248,0.837138474,1.684454193,qy
+158,5,Person 2,"No, but it makes sense that pollutants could act as an irritant and adversely affect those with preexisting lung conditions. How do you feel about the article?","('qo',)",1.966188908,1.384019971,1.219505906,1.611708164,1.684454193,qo
+158,6,Person 1,I feel sad for people living with lung cancer in general,"('by',)",3.936388731,3.365420818,2.169244289,2.975693464,1.684454193,by
+158,7,Person 2,Why do you feel sad for them?,"('qo',)",2.82695961,2.022838593,1.674360871,1.437401056,1.684454193,qo
+158,8,Person 1,it is never a good thing to deal with,"('sv',)",2.505791903,2.482656717,1.96429956,2.076836348,1.684454193,sv
+158,9,Person 2,Do you know anyone who has or has had cancer?,"('qy',)",1.401047468,1.379733682,0.965159595,1.195086956,1.684454193,qy
+158,10,Person 1,"Not really, but i read articles about people living with it","('sd',)",2.265742064,1.887864351,1.1911906,2.52016592,1.684454193,sd
+158,11,Person 2,Do you feel some kind of connection with people suffering from cancer?,"('qy',)",1.842226028,1.391260624,0.779285192,1.321930766,1.684454193,qy
+158,12,Person 1,"Not really, Just feel pity for them.",(),2.283750772,2.179701567,1.392156243,1.963234186,1.684454193,none
+158,13,Person 2,How would it make you feel if you discovered that some these patients were offended by your pity?,"('qo',)",2.025651217,1.990981221,1.247719407,1.549643517,1.684454193,qo
+158,14,Person 1,I would change my ways toward the person,"('sd',)",2.228459597,1.859182954,1.037817717,2.667833567,1.684454193,sd
+158,15,Person 2,How would you change your ways?,"('qw',)",1.094145775,1.087494493,0.781674147,1.236608505,1.684454193,qw
+158,16,Person 1,By not feeling sad for them again,"('+',)",3.441128016,2.962510586,1.323938489,2.035420656,1.684454193,+
+158,17,Person 2,Do you think the study was conclusive?,"('qy',)",0.941770971,0.985520184,0.646401882,1.002240062,1.684454193,qy
+158,18,Person 1,"No, it is not.","('aa',)",1.554224491,1.721409202,1.19342649,1.624792099,1.684454193,aa
+158,19,Person 2,How do you think the study could be improved?,"('qw',)",1.198102117,1.090209723,0.765543163,1.055466771,1.684454193,qw
+158,20,Person 1,By conducting more research?,"('+',)",1.036628127,1.017571092,0.601769447,1.076186419,1.684454193,+
+158,21,Person 2,Do you have any particular suggestions regarding the research methodology? What would be a good way to investigate the survival rates of lung cancer patients exposed to polution?,"('qy',)",1.222606421,1.048601747,0.7328462,1.212715864,1.684454193,qy
+158,22,Person 1,"I think getting data from all hospitals, or having a data base for that will help","('sv',)",2.729528666,1.711668849,0.501765251,2.069577694,1.684454193,sv
+158,23,Person 2,That sounds like a start. Are you interested in this particular kind of research?,"('qy',)",0.966839671,0.946427643,0.434432954,1.129618883,1.684454193,qy
+158,24,Person 1,"Not for now, maybe in the near future.","('ng',)",1.365370154,1.325774074,0.916754246,1.466593981,1.684454193,ng
+158,25,Person 2,Why not now? If you don't mind my asking,(),0.830333054,1.35033536,0.752748132,1.395214438,1.684454193,none
+158,26,Person 1,Not ready for the commitment i have to put into the research project,(),1.881335258,2.139897346,1.282920599,2.240489483,1.684454193,none
+158,27,Person 2,What do you think about the people dying in India from air pollution?,"('qo',)",1.607550383,1.102464795,1.186004996,1.18196106,1.684454193,qo
+158,28,Person 1,sad and hope there is anything that can be the done,(),3.090469599,2.813395739,1.348464131,1.724253654,1.684454193,none
+158,29,Person 2,How would you feel if you found out there wasn't anything that could be done?,"('qo',)",1.874578118,1.72132194,1.2614218,1.472363949,1.684454193,qo
+158,30,Person 1,"well then fine, i think we have a good conversation. goodbye","('fc',)",0.694159508,1.535454035,0.514110029,1.320898294,1.684454193,fc
+158,31,Person 2,bye,"('fc',)",0.375996351,0.742811739,1.016468406,0.913960993,1.684454193,fc
+468,0,Person 1,what did you think about the article?,"('qo',)",0.635084331,0.681005538,1.001944184,0.779372454,1.726732199,qo
+468,1,Person 2,I was able to understand the Jewish people and why they were angry. You,"('sd',)",2.589083433,2.212296247,0.769986153,2.004125834,1.726732199,sd
+468,2,Person 1,"Yeah, I can definitely see why they were angry","('aa',)",3.124887705,2.597881079,1.72679162,2.161016226,1.726732199,aa
+468,3,Person 2,They're probably still thinking about what happened back the nand the history.,"('sd',)",2.92538929,2.094039679,1.580940843,1.649283051,1.726732199,sd
+468,4,Person 1,Yeah a lot of them survived nazi Germany and know firsthand,"('aa',)",2.78771019,2.406616211,1.541373134,2.156189919,1.726732199,aa
+468,5,Person 2,Definitely. I wonder which president Jewish people are supporting in the upcoming election,"('aa',)",2.124685287,1.779971361,0.779216647,1.908830643,1.726732199,aa
+468,6,Person 1,most likely on the blue side,(),1.340143681,1.174387574,0.797707796,1.422967672,1.726732199,none
+468,7,Person 2,I agree. Do you know any Jewish people?,"('qy',)",1.037611246,1.162133217,0.676037788,1.226171613,1.726732199,qy
+468,8,Person 1,"i know a few but not much, you?","('qy',)",0.829591453,1.136233687,0.889606476,1.389273882,1.726732199,qy
+468,9,Person 2,I don't know any at all. I wish i did so i can ask them about this situation,"('sd',)",2.348237753,2.241173029,1.322342277,2.32927227,1.726732199,sd
+468,10,Person 1,Do you support the current President?,"('qy',)",0.993721128,1.060591221,0.945575833,1.199569702,1.726732199,qy
+468,11,Person 2,I don't. I disagree with his views and the way he is overall. You?,(),1.570020676,1.749692082,1.392786384,2.244277716,1.726732199,none
+468,12,Person 1,same. I don't think hes even a decent president,"('aa',)",1.947064996,2.463838816,1.933413148,1.805233955,1.726732199,aa
+468,13,Person 2,Do you have a nominee in mind for next election? I have been interested in Andrew Yang.,"('qy',)",1.010020375,1.194493651,0.740950823,1.6028198,1.726732199,qy
+468,14,Person 1,I like Yang for his policies.,"('sd',)",1.666507244,1.757481813,0.426798314,2.335735083,1.726732199,sd
+468,15,Person 2,"Same! The UBI is nice too. But back to this, i hope things get better for the Jewish people in the future",(),2.484478235,2.532932997,0.46088621,2.430225372,1.726732199,none
+468,16,Person 1,"Yeah, it starts with getting the current president impeached soon.","('aa',)",1.833114624,1.934342861,1.256015182,1.750350714,1.726732199,aa
+468,17,Person 2,Let's hope it happens!,(),1.854451299,2.309090853,0.252847821,1.4658885,1.726732199,none
+468,18,Person 1,Agree!,"('ba',)",1.372580647,2.144252777,0.711743355,1.670211077,1.726732199,ba
+468,19,Person 2,Well it was nice talking to you! Let's hope for a better future for everyone. bye,"('fc',)",1.410996079,2.062450171,0.415405989,1.287270308,1.726732199,fc
+468,20,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.726732199,fc
+213,0,Person 1,"I find it unfortunate that scholars can relate articles in their personalizd inboxes in ways that relate to them through working means, and however as mTurk workers working remotely sometimes our means to relate are removed, and this relates to this message I received from this article.","('sv',)",2.592485666,2.428311825,1.37251842,2.934424877,1.735801564,sv
+213,1,Person 2,What do you mean?,(),0.683151305,0.896280706,1.041895509,0.93712759,1.735801564,none
+213,2,Person 1,"I mean that if I were ordering through a produce app on my smart phone, because I work remotely online as a contractor, my personlized internet of things will probably make it so that I don't even know the farmer or where the goods come from or whatever.","('sd',)",2.300224066,1.945009589,1.068620324,2.782243013,1.735801564,sd
+213,3,Person 2,Yes but how is this related to the article?,(),0.986499131,1.11093998,0.911406815,1.183066368,1.735801564,none
+213,4,Person 1,"Like there are ladders in place in society that keep everything in check, and somehow by working more incorporated (in my opinion) we have lost the ladder? Did they spill into the water supply in cohort with the protest? These are things that can make sense in order to bring a light to us stuck on the edge, but I don't see the relation and what it means to us.","('sv',)",2.595374584,2.512599468,1.484413028,2.626590729,1.735801564,sv
+213,5,Person 2,I'm glad they shot that kids horse though,"('sd',)",2.162559986,2.652482748,1.016873956,2.005892515,1.735801564,sd
+213,6,Person 1,If you don't bring anything from the article like that into the light then what.,"('sv',)",1.798007965,2.064889193,1.497930884,1.644910216,1.735801564,sv
+213,7,Person 2,I don't know but just go along with it write short sentences and have 10 responses back and forth,"('sd',)",1.25850296,1.684353232,0.999724567,1.967338324,1.735801564,sd
+213,8,Person 1,"Like that makes sense if this is supposed to be a how to discussion guide on how to relate to workers anywhere, but then what about the ladder they removed that allowed them to spill.",(),2.274705648,1.930984735,1.414380789,1.966889739,1.735801564,none
+213,9,Person 2,I think protests are dumn,"('sv',)",2.081683397,2.086337805,1.665199637,2.014708519,1.735801564,sv
+213,10,Person 1,I don't really get it at all. I'm completely lost on your point and the article and mine now.,(),2.202828169,2.958096743,1.437384248,1.974991083,1.735801564,none
+213,11,Person 2,well thats fine as long as you keep talking we need more responses,(),0.96469897,1.64638114,0.636154175,1.468434095,1.735801564,none
+213,12,Person 1,There's violence in the world and there's things happening! I want to get out there and do something.,"('sd',)",2.920349121,3.39343977,1.461612582,2.843768358,1.735801564,sd
+213,13,Person 2,I want the world to burn,"('sd',)",2.727196693,3.158473253,1.861686826,2.717187166,1.735801564,sd
+213,14,Person 1,"That would be really odd, don't you think?","('qy',)",2.107093096,2.008929253,1.40425241,1.510609269,1.735801564,qy
+213,15,Person 2,I suppose but its better then this,"('sv',)",1.515202522,1.781293035,1.203469992,1.727305412,1.735801564,sv
+213,16,Person 1,"I don't know about you, but I can live in the moment, but I wouldn't freely attend a protest that could somehow support polluting the environment","('no',)",2.288596392,2.543276548,1.736602664,2.897090197,1.735801564,no
+213,17,Person 2,The environment is not important I like to litter and throw the plastic that keeps 6 pack cans into lakes and other bodies of water,"('sd',)",2.167525291,1.84965384,1.699867368,2.832173109,1.735801564,sd
+213,18,Person 1,I'm trying to say that a protest could somehow support polluting. What are you trying to say?,(),1.834207535,1.663838863,1.286058545,1.659389257,1.735801564,none
+213,19,Person 2,I'm saying don't protest anything,"('sd',)",1.336096525,2.060666323,1.508640409,2.081415892,1.735801564,sd
+213,20,Person 1,"I'm trying to say that I'm confused that we are supposed to talk about the article, and you seem to say don't talk about it. Am I reading that right? I was also trying to say that the checks and balances in place in society keep things from happening like this, and it strikes me as odd that it just ""randomly"" happens","('qy',)",1.961830974,2.177167654,1.328541875,1.949451327,1.735801564,qy
+213,21,Person 2,I suppose but we have our 10 responses so lets say goodbye,"('fc',)",1.02362299,1.634616733,0.866933823,1.593330622,1.735801564,fc
+213,22,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.735801564,fc
+213,23,Person 2,1,(),0.860603273,0.882049203,1.178946137,1.248534918,1.735801564,none
+213,24,Person 1,bye,"('fc',)",0.375996351,0.742811739,1.016468406,0.913960993,1.735801564,fc
+304,0,Person 1,hi what did you think of the Africans?,"('fp', 'qo')",1.060342312,0.881478548,0.880423248,0.978025496,1.750093907,fp
+304,1,Person 2,I think it is sad.,"('sv',)",3.826310158,3.065605402,1.924999118,2.484454393,1.750093907,sv
+304,2,Person 1,yea those africans always have a hard time,"('sv',)",2.513199091,2.265316725,1.766216874,1.901219606,1.750093907,sv
+304,3,Person 2,The world is a hard place to live,"('sv',)",2.886505842,2.873249054,2.175163746,2.085976839,1.750093907,sv
+304,4,Person 1,yep god bless america and nowhere else amen,(),1.078528881,2.185760736,0.416711003,1.729129195,1.750093907,none
+304,5,Person 2,America is a good place,"('sv',)",1.509238958,1.802293658,0.278677672,1.741014361,1.750093907,sv
+304,6,Person 1,the best,"('sv',)",0.780521691,1.196882606,0.579283535,1.157693267,1.750093907,sv
+304,7,Person 2,I agree,"('aa',)",1.512299299,1.723880172,0.757534683,1.953150511,1.750093907,aa
+304,8,Person 1,we cant help these animals,(),3.258938313,3.216659546,1.824833274,2.195066929,1.750093907,none
+304,9,Person 2,I guess not,(),1.271132469,1.411786199,1.083405614,1.425455451,1.750093907,none
+304,10,Person 1,nope have you noticed the africans can never figure it out,"('ng',)",1.597985268,1.733246922,1.603271246,1.53210938,1.750093907,ng
+304,11,Person 2,never noticed.,"('+',)",1.740614176,1.889524341,1.478145242,1.616045952,1.750093907,+
+304,12,Person 1,we need a wall to keep these savages out,"('sd',)",2.49677515,2.461021662,1.72045064,1.95258069,1.750093907,sd
+304,13,Person 2,a wall between the united states and Africa?,"('qy',)",1.562148809,1.607290626,1.447299004,1.667266011,1.750093907,qy
+304,14,Person 1,yes we need to protect the atlantic ocean,(),2.078347445,1.485224724,0.94122231,1.757725239,1.750093907,none
+304,15,Person 2,I guess,(),1.33941412,1.305944085,0.941713452,1.400297403,1.750093907,none
+304,16,Person 1,trump needs to label the africans rapists like the mexicans,"('sv',)",2.133424282,2.492001772,1.867902637,2.308890581,1.750093907,sv
+304,17,Person 2,I think he already did.,"('sd',)",1.535485864,1.441129208,0.825908303,1.726459503,1.750093907,sd
+304,18,Person 1,not enough,"('sv',)",1.339091063,1.518117309,1.535880208,1.41555202,1.750093907,sv
+304,19,Person 2,"I guess, it was nice chatting bye","('fc',)",0.855672359,1.41610229,0.251797646,0.859604836,1.750093907,fc
+304,20,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.750093907,fc
+132,0,Person 1,I'm sorry his marriage did not work out.,"('fa',)",2.343733072,2.444163561,1.414197087,1.654384494,1.750671941,fa
+132,1,Person 2,It was terrible. I felt a bit bad for him but not really because he's rich.,"('by', 'sv')",3.678721189,3.428928137,1.790375352,2.817551851,1.750671941,by
+132,2,Person 1,"Money is not always happiness, but I would like to be rich.","('sd',)",2.004553318,2.210728407,0.657551885,2.809176207,1.750671941,sd
+132,3,Person 2,That's true. Are you a fan of Billy BOb Thornton or Angelina Jolie?,"('qy',)",1.238762259,1.298747063,0.713683248,1.591670752,1.750671941,qy
+132,4,Person 1,"Not really, You?","('bh',)",0.801057398,1.420393586,1.205695391,1.189699888,1.750671941,bh
+132,5,Person 2,NO but i have seen Angelina Jolie's movies.,"('ng',)",1.669976711,1.969929338,1.139256597,2.469429255,1.750671941,ng
+132,6,Person 1,They are okay actor and actress,"('sv',)",1.297006011,1.673771143,0.554183364,1.964844227,1.750671941,sv
+132,7,Person 2,Do you think Angelina Jolie deserves to keep the children?,"('qy',)",2.026622057,1.952127099,1.185238242,1.603814244,1.750671941,qy
+132,8,Person 1,"Besides from what I just read I do not know the details, so I guess so.","('sd',)",1.616322756,1.577391028,1.089321852,1.770607233,1.750671941,sd
+132,9,Person 2,Do you know any single mothers or parents in general?,"('qy',)",1.564414263,1.25316751,0.765133917,1.368491411,1.750671941,qy
+132,10,Person 1,I know single mothers and I'm a parent. How about you?,"('sd',)",1.804347754,1.706756592,0.869461298,2.513040304,1.750671941,sd
+132,11,Person 2,"I'm not a parent yet. Since you're a parent, how would you feel if you were a single parent?","('qo',)",1.373415351,1.412075758,0.878878832,2.104698896,1.750671941,qo
+132,12,Person 1,It would be hard. It is hard with both parents in the house.,"('sv',)",3.363122702,2.686015606,1.507207513,2.501327515,1.750671941,sv
+132,13,Person 2,That's true. It's just tough for children to grow up with 1 parent in my opinion.,"('aa', 'sv')",3.119794846,2.511582136,1.600091338,2.713072538,1.750671941,aa
+132,14,Person 1,My mother did a good job with me and my siblings.,"('sd',)",1.895543337,2.138927221,0.584094286,3.105870008,1.750671941,sd
+132,15,Person 2,That's good. Your mom's a superhero.,"('sv',)",2.470221281,3.001105309,0.359134227,2.067591906,1.750671941,sv
+132,16,Person 1,What do you think about marriage now days?,"('qo',)",0.75284183,0.894943297,0.742248058,0.98093766,1.750671941,qo
+132,17,Person 2,I don't think it's necessary to be honest. You do this big wedding and now you say you're married. Ok now what? It's the smae as being bf/gf.,"('sv',)",1.502604365,2.232155561,1.346234918,2.248513222,1.750671941,sv
+132,18,Person 1,I got married at the court house 18 years ago.,"('sd',)",1.266248465,1.797444463,0.696345866,2.855169058,1.750671941,sd
+132,19,Person 2,I'm still not married yet at the age of 32. Am i too old?,(),1.253389716,2.051879883,1.044960856,2.707975149,1.750671941,none
+132,20,Person 1,"Never too old, I'm 37. Just find yourself the right person.",(),1.387372494,1.900443673,0.574760437,2.425529957,1.750671941,none
+132,21,Person 2,That's true. IT was nice talking to you. bye!,"('aa', 'fc')",0.923817277,1.843786597,0.200116277,1.211164236,1.750671941,aa
+132,22,Person 1,you too bye.,"('fc',)",0.911566198,1.389440894,0.587549925,1.003083944,1.750671941,fc
+131,0,Person 1,What do you think about the situation?,"('qo',)",0.874331236,0.81637156,0.983996749,0.812619388,1.753538913,qo
+131,1,Person 2,I think its incredibly weird they wore vials of each others blood around their necks lol,"('sv',)",2.347696543,3.038556814,1.712535024,2.376650333,1.753538913,sv
+131,2,Person 1,I was shocked about it though,"('sd',)",2.030643225,2.701259851,1.479248643,2.208253145,1.753538913,sd
+131,3,Person 2,She is really weird to me. I don't know what it is but I think she's just a tad creepy.,"('sv',)",2.419586897,2.848631859,1.481350064,2.67097497,1.753538913,sv
+131,4,Person 1,You really think so?,"('qy',)",1.134578109,1.782316804,0.894038677,1.212233067,1.753538913,qy
+131,5,Person 2,yes but maybe I'm just biased because I was very pro brad and jennifer lol,(),1.579495549,1.930244207,1.086066842,2.510083914,1.753538913,none
+131,6,Person 1,HAHA.... That explains your chat then,(),0.807004511,1.405427814,0.806741118,1.230374098,1.753538913,none
+131,7,Person 2,"I just never understood why he'd leave her for Angelina, but what do I know lol I wonder if there's a chance Angelina and Billy Bob might reconcile now","('by',)",2.304440737,2.28319478,1.111868739,2.021692514,1.753538913,by
+131,8,Person 1,I do not see that happening honestly,(),1.784790158,2.127186537,1.58043921,1.92504549,1.753538913,none
+131,9,Person 2,probably not. I'm not sure whatever happened to him. Do you think Brad was really abusive towards their children like the article mentioned?,(),1.878068209,1.716944814,1.18896842,1.572605491,1.753538913,none
+131,10,Person 1,I'm trying not to believe that is true,(),2.113373756,2.691612482,1.644135118,2.364729643,1.753538913,none
+131,11,Person 2,I think she might have just been trying to get him some bad publicity or something he always seemed like a good dad to me but who knows what goes on behind closed doors,"('sv',)",2.319924116,2.044835329,1.108177185,2.471590757,1.753538913,sv
+131,12,Person 1,I really hope that is not true because i kind of respect him,(),2.490408182,2.852721453,0.717297554,2.532610178,1.753538913,none
+131,13,Person 2,Yeah he seems decent. I always liked him maybe they were just really toxic together.,"('aa', 'sv')",2.042781115,2.06235075,0.690118074,2.142694712,1.753538913,aa
+131,14,Person 1,Do you genuinely think they can be back together?,"('qy',)",1.566947222,1.357039809,0.699869275,1.27302146,1.753538913,qy
+131,15,Person 2,I think anything is possible. I guess it depends on how their relationship was before and if they can forgive and move on. But I kinda see her going towards a younger man now.,"('sv',)",2.244915247,2.009613752,0.870666146,2.233680725,1.753538913,sv
+131,16,Person 1,"Well, I hope they really. I like them together","('sd',)",1.982352138,2.313325167,0.213710725,1.993237615,1.753538913,sd
+131,17,Person 2,Wonder what they reasoning for the vials of blood was? lol,"('qo',)",1.829678297,1.907956481,0.99850291,1.452426195,1.753538913,qo
+131,18,Person 1,"haha, it was nice chatting with you. goodbye","('fc',)",0.683776379,1.564223528,0.151467383,0.94528991,1.753538913,fc
+131,19,Person 2,you too! bye,"('fc',)",0.635986626,1.490841508,0.463379145,1.00651598,1.753538913,fc
+36,0,Person 1,I had never considered the zoo animals in countries like Venezuela. How sad.,"('sd',)",3.645286798,3.774338245,1.751778603,2.655581951,1.757886539,sd
+36,1,Person 2,"Me, too. We think about the effects of poverty, war on humans ... but not animals.","('aa',)",3.056438208,2.442240238,1.331938863,2.455155134,1.757886539,aa
+36,2,Person 1,I was kind of concerned when it started talking about zoo owners being fined or punished. It's not really *their* fault.,"('sd',)",2.566463709,2.537899017,1.546817899,2.557305574,1.757886539,sd
+36,3,Person 2,"That's an excellent point. The owners can't change the situation, that isn't fair at all. It isn't as if they want their animals to be sick/die!","('aa', 'sv')",3.054238558,3.001376152,1.454213738,2.308218002,1.757886539,aa
+36,4,Person 1,"I thought that embalming/preserving some of the animals was a valid idea, for science, but only if absolutely necessary and only if they were euthanized humanely.","('sv',)",2.804738998,2.148605824,0.886416197,2.357057333,1.757886539,sv
+36,5,Person 2,Agreed - I would imagine that would provide a more humane death than starvation/malnutrition. Do you consider yourself to be an animal lover?,(),2.120871305,1.866459131,0.806126237,1.98304677,1.757886539,none
+36,6,Person 1,Definitely. Do you?,"('bh',)",0.941617548,1.38577497,0.766439795,1.365885258,1.757886539,bh
+36,7,Person 2,Absolutely. My grad degree is in Animal Behavior. :)  Do you have any pets?,"('qy',)",0.870402873,1.269897819,0.465353996,2.216955423,1.757886539,qy
+36,8,Person 1,That's interesting! I do; a dog and a cat.,"('ba',)",1.792842507,1.971605897,0.576390207,2.445860624,1.757886539,ba
+36,9,Person 2,Nice! Do they get along?,"('qy',)",0.866791546,1.764056563,0.286024928,1.197558045,1.757886539,qy
+36,10,Person 1,"Yes, thankfully, haha. And the Great Dane that I babysit gets along relatively well, also.",(),1.803586721,2.199283361,0.492623299,2.606309652,1.757886539,none
+36,11,Person 2,"That is a lot of dog to babysit! Is your dog a large breed, too?","('qy',)",1.624219537,1.926938891,1.024596095,1.948587656,1.757886539,qy
+36,12,Person 1,"He's 50-60 lbs, so mid-range? He's a catahoula.","('qy^d',)",1.211270809,1.322529435,0.632263243,1.941855788,1.757886539,qy
+36,13,Person 2,I just googled Catahoulas - what gorgeous dogs! And I thought I knew my dog breeds. :),(),1.713368654,2.33774209,0.369355649,2.682627916,1.757886539,none
+36,14,Person 1,"I get a lot of funny looks when i mention his breed, sometimes! He is very handsome.","('sd',)",1.560353041,2.445820332,0.373733222,2.844300032,1.757886539,sd
+36,15,Person 2,What's his temperament like?,"('qw',)",0.788844824,0.824189126,0.645933151,0.985280693,1.757886539,qw
+36,16,Person 1,"Well, I adopted him at 3.5, so I can't testify what is breed standard and what was due to his previous owner/occupation. He was a military family's dog who ""worked"" on base, and he accompanied them to work. But he's wonderful. Very calm, emotionally sensitive. Great with kids. Not any of the agression or hyperactivity you hear about the breed.","('sd',)",1.693992615,1.880955815,0.576429367,2.752337217,1.757886539,sd
+36,17,Person 2,Sounds wonderful - and sounds like you lucked out! Did you adopt him through a special service?,"('qy',)",1.441556215,1.898878098,0.199403554,1.423735738,1.757886539,qy
+36,18,Person 1,"No, our local animal shelter, actually. The family was being relocated overseas and the base in the other location didn't allow dogs. They released him to the shelter so that his new home would be checked out and verified safe beforehand. We did luck out!","('ng',)",2.35586071,2.185716867,0.608288288,2.563433647,1.757886539,ng
+36,19,Person 2,That's even better. I ask because I have friends who adopted a dog that was being trained as a mobility assistant - but he failed the final test after pulling someone out of a wheelchair to chase a rabbit. :),(),2.175659418,2.341993332,0.419558942,2.88807869,1.757886539,none
+36,20,Person 1,hahah! those rabbits are tricky!,"('sv',)",1.893232822,2.736574888,1.36816287,2.02208209,1.757886539,sv
+36,21,Person 2,Right? And irresistable!,"('qy',)",1.649709821,2.552325964,0.428320199,1.534041286,1.757886539,qy
+36,22,Person 1,"I'm surprised the dog got to the final test, but I guess it's a good thing a rabbit came by","('sd',)",1.949342608,2.254298925,0.422387511,1.911420107,1.757886539,sd
+36,23,Person 2,"LOL, seriously! That would have made for an unpleasant surprise for the new owner","('sd',)",2.905392885,3.461835623,1.573626995,2.221230745,1.757886539,sd
+36,24,Person 1,could have been dangerous! but I'm sure he's a lovely pet,"('sv',)",2.12330699,2.402283669,0.418957263,2.214690685,1.757886539,sv
+36,25,Person 2,He was - they taught him to sort recycling (that's Seattle for you) and he was the ring bearer at their wedding,"('sd',)",1.514874697,1.820515752,0.440190732,2.523069143,1.757886539,sd
+36,26,Person 1,precious!,(),1.298727393,3.089949131,0.464601308,1.46784842,1.757886539,none
+36,27,Person 2,It was absurdly sweet,"('sv',)",2.890094042,3.5074265,0.642145991,2.295623302,1.757886539,sv
+36,28,Person 1,Do you have pets yourself? And did your degree focus on specific species?,"('qy',)",1.039394736,1.051138878,0.610281229,1.438879132,1.757886539,qy
+36,29,Person 2,"I do - I'm not sure what happened, but I have cats ... 5 cats. It's a bit terrifying. And, yes, thanks for asking! I'm technically a ""primatologist"" - I ran around watching monkeys","('sd',)",2.277989626,3.077225447,1.351810217,2.989313841,1.757886539,sd
+36,30,Person 1,interesting! I almost went into equine studies. instead I got my AKC training certificate and an elementary education degree lol,"('sd', 'sv')",1.055497885,1.844774842,0.373103052,2.927647829,1.757886539,sd
+36,31,Person 2,"Nice! I work with some folks doing applied animal behavior with dogs. Cool stuff. And I teach at community college, so I'm right there with you! :)","('sd',)",1.570191264,2.35753274,0.403800964,2.57117033,1.757886539,sd
+36,32,Person 1,"I think we've hit our 15, but it was a fun chat with you!",(),0.966245294,1.991148472,0.247997254,1.554913282,1.757886539,none
+36,33,Person 2,Right back at you! Have a lovely day!,"('fc',)",0.885724127,1.882458568,0.25202322,1.188596725,1.757886539,fc
+36,34,Person 1,bye!,"('fc',)",0.587893307,1.090798497,0.625385642,1.006808996,1.757886539,fc
+36,35,Person 2,bye!,"('fc',)",0.587893307,1.090798497,0.625385642,1.006808996,1.757886539,fc
+118,0,Person 1,Where do these governments get the money to pay for damages this extensive?,"('qw',)",2.161013842,1.855727434,1.638890386,1.584836602,1.761957021,qw
+118,1,Person 2,I have no idea...,(),1.645144343,1.857257962,1.560852051,1.557703853,1.761957021,none
+118,2,Person 1,"Neither do I. There were only two deaths involved in this article; so while I feel for those affected by both death and destruction of property, it doesn't hit as close to home as some of the other articles I have read.","('sd',)",2.869126558,2.409504175,1.496640801,2.651948214,1.761957021,sd
+118,3,Person 2,Yeah. Guess there was some sort of warnings. They kinda lucky when compared with less developed countries,"('sv',)",2.342674494,1.729635358,1.007424355,1.76490891,1.761957021,sv
+118,4,Person 1,"I don't know. It said the quake happened just after midnight, but being in the ring of fire probably prepares people for these kinds of events both in an infrastructural and psychological sense.","('no',)",2.20468998,1.53997159,1.119454503,1.805203438,1.761957021,no
+118,5,Person 2,"Yea, Adrenalin sets in and they can take shelther","('sd',)",2.431703806,2.156665087,0.918240428,1.7762146,1.761957021,sd
+118,6,Person 1,Have you ever personally experienced an earthquake?,"('qy',)",0.981103241,1.147079825,0.998756409,1.253080845,1.761957021,qy
+118,7,Person 2,No I havent,"('ng',)",1.042032957,1.568319678,1.283696294,2.154905081,1.761957021,ng
+118,8,Person 1,Do you happen to know what year the earthquake we read about happened? I don't think it was mentioned.,"('qy',)",1.216979027,1.167046428,0.985413194,1.382090211,1.761957021,qy
+118,9,Person 2,I dont..I only skimmed it through,"('sd',)",1.092520952,1.502934575,1.243773222,2.034496069,1.761957021,sd
+118,10,Person 1,"Hm, I wonder if the area has been restored to a functioning capacity. The article talked about dams be broken and billions of dollars of damage being done to roads and buildings.","('qy^d',)",2.566197157,1.655282378,1.120637178,1.775466204,1.761957021,qy
+118,11,Person 2,It wont be so easy to fix back...it would take years,(),2.33577323,1.951771379,1.809508085,1.782252312,1.761957021,none
+118,12,Person 1,No kidding. Have you ever experienced any natural disaster first hand? Second hand?,"('qy',)",1.498394489,2.072176218,1.201490879,1.545725822,1.761957021,qy
+118,13,Person 2,Only flooding...massive one,"('sd',)",1.68957901,1.730010748,1.586863041,1.660946965,1.761957021,sd
+118,14,Person 1,Was your family/property personally affected?,"('qy',)",1.719006181,1.328504086,1.235335946,1.362187386,1.761957021,qy
+118,15,Person 2,My property was affected. We can exchange our bye,"('fc', 'sd')",1.781333685,1.405816078,1.371274948,2.527329206,1.761957021,fc
+118,16,Person 1,bye,"('fc',)",0.375996411,0.742811799,1.016468287,0.913960874,1.761957021,fc
+275,0,Person 1,hello what did you think about the article,"('fp', 'qo')",0.620830953,0.71347779,1.008409381,0.927544177,1.778743123,fp
+275,1,Person 2,i think its wrong to attack people for having a certain religion,"('sv',)",2.119157791,2.409701586,1.901812911,2.476766348,1.778743123,sv
+275,2,Person 1,It's terrible. They are getting so stereotyped,"('sv',)",3.736221313,3.907487154,2.082318068,2.356723547,1.778743123,sv
+275,3,Person 2,what do you think can be done,(),1.082980156,1.177839994,0.892568827,1.088931203,1.778743123,none
+275,4,Person 1,I don't think anything can be done. We just have to wait because i think children growing up now are more open and understanding to others,"('sv',)",2.524903536,2.32528615,1.122611403,2.457382679,1.778743123,sv
+275,5,Person 2,yeah it starts at home with parenting,"('aa',)",1.736451864,1.678053021,1.139632702,1.997394085,1.778743123,aa
+275,6,Person 1,I agree. Have you ever experienced anything like that? discrimination?,"('qy',)",1.601038933,1.940975308,1.389464617,1.584640026,1.778743123,qy
+275,7,Person 2,"I feel like I have more than a few times, what about you?","('sd',)",1.091348886,1.509999514,0.94608891,1.908242822,1.778743123,sd
+275,8,Person 1,I have never fortunately. I would be very angry though if it were to happen,"('sd',)",2.565981865,2.982744932,1.759076476,2.786863327,1.778743123,sd
+275,9,Person 2,yeah i probably would know not to react badly though because its what they would want me to do,"('aa', 'sv')",2.458879948,2.308361053,1.582753062,2.470265627,1.778743123,aa
+275,10,Person 1,That is very true and mature of you. What do you think of Muslim people?,"('qo',)",1.440926075,1.608875632,0.556161642,1.495433569,1.778743123,qo
+275,11,Person 2,I haven't really had experiences with them so I can't really say. What about you?,"('sd',)",1.07173717,1.116840005,0.767659843,1.462090492,1.778743123,sd
+275,12,Person 1,No bad experienced here either. I definitely wouuldn't be scared or anything though if i saw one,"('sd',)",1.692244649,2.218998432,1.254058361,2.630050898,1.778743123,sd
+275,13,Person 2,yeah I feel like the bad ones ruing it for the majority,"('aa',)",2.474394083,2.28971386,2.017514944,2.221924543,1.778743123,aa
+275,14,Person 1,Definitely. I feel like that's the same thing for any race,"('aa', 'sv')",2.110109568,1.834239602,0.848612368,2.135874987,1.778743123,aa
+275,15,Person 2,yeah every race or religion or group in general has bad people in it.,"('aa', 'sv')",2.097678185,2.306527138,1.731835961,2.123004675,1.778743123,aa
+275,16,Person 1,Hopefully Muslims have a better future,"('sv',)",2.669741392,2.415157557,0.519703507,1.866037846,1.778743123,sv
+275,17,Person 2,yeah hope so,(),1.404017329,1.667058945,0.429943889,1.512034416,1.778743123,none
+275,18,Person 1,it was nice talking to you! bye,"('fc',)",0.700222254,1.624624968,0.219670653,0.99635303,1.778743123,fc
+275,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.778743123,fc
+267,0,Person 1,hello what did you think of the article?,"('qo',)",0.683463991,0.725101531,0.925524831,0.781951189,1.809059739,qo
+267,1,Person 2,i wonder how they managed to text everyone in eastern aleppo,(),1.870054603,1.735350609,1.463879585,1.655027747,1.809059739,none
+267,2,Person 1,"im not sure, maybe some sort of automated system","('sv',)",1.814675093,1.520063639,0.995851219,1.439136147,1.809059739,sv
+267,3,Person 2,yeah . what do you think about the whole situation,"('qo',)",1.084837437,1.143556476,1.089933753,1.025283575,1.809059739,qo
+267,4,Person 1,I think it must be awful to live somewhere surrounded by war,"('sv',)",3.970101357,3.63415122,2.123195887,2.688082457,1.809059739,sv
+267,5,Person 2,we are very lucky to be living here,"('sd',)",1.955421329,2.443655252,0.062210862,2.305135965,1.809059739,sd
+267,6,Person 1,"i think so too, i feel sorry for the syrians","('sv',)",3.312121153,2.601057291,2.076958418,2.603508234,1.809059739,sv
+267,7,Person 2,what do you think should happen to them,"('sv',)",1.836527348,1.435079098,1.335670352,1.393493533,1.809059739,sv
+267,8,Person 1,i think the US needs to stay out and stop making things worse,(),2.385365725,2.513552904,1.765781879,2.387161493,1.809059739,none
+267,9,Person 2,yeah we are always trying to be the world police,"('aa',)",1.273738861,1.764522195,1.544536352,2.164121628,1.809059739,aa
+267,10,Person 1,it's stupid. Assad can handle things over there perfectly fine without us,"('sv',)",2.199956179,3.099375486,2.098816156,2.0083251,1.809059739,sv
+267,11,Person 2,yeah i totally agree with that,"('aa',)",1.862907648,2.056646109,0.932319462,2.009882927,1.809059739,aa
+267,12,Person 1,i believe those gas attacks were faked in order to make him look bad,"('sv',)",2.126034021,2.44956255,1.808493376,1.970921636,1.809059739,sv
+267,13,Person 2,someone is definitely doing things and make it seem like it was assad,"('sv',)",1.564808607,2.018455267,1.86261487,1.786197662,1.809059739,sv
+267,14,Person 1,"he would have had absolutely no reason to do that especially at that point in time, i'm very skeptical","('sv',)",2.450875998,2.607664824,1.899574041,1.994521618,1.809059739,sv
+267,15,Person 2,its like libya with gadaffi all over again,"('sd',)",1.709152222,1.821590662,1.682228923,1.818123579,1.809059739,sd
+267,16,Person 1,yes exactly unfortunately,"('aa',)",1.328206062,1.757794499,1.523422956,1.47708106,1.809059739,aa
+267,17,Person 2,we probably will never know who it is though that starts these things,"('sv',)",1.740027189,1.745067477,1.452753067,1.502775311,1.809059739,sv
+267,18,Person 1,"i think some of us may have a pretty good idea, lol","('sv',)",1.844413757,1.97298038,0.569410443,1.89842844,1.809059739,sv
+267,19,Person 2,who do you think it is,"('sv',)",0.89977628,1.038144469,0.9108603,1.177556396,1.809059739,sv
+267,20,Person 1,i think there are powerful elites behind the scenes in a global sense,"('sv',)",2.052845716,1.980021834,1.561590314,1.997105598,1.809059739,sv
+267,21,Person 2,i agree just didnt want to say lol,(),1.446644187,2.237436056,1.37783289,1.789421558,1.809059739,none
+267,22,Person 1,"true lol, these things always point right back to them","('aa',)",1.834328294,2.16183424,1.491418481,1.906648636,1.809059739,aa
+267,23,Person 2,i agree theres more than just this theyve done to the world,(),2.326220989,2.444195032,2.021943331,1.96488142,1.809059739,none
+267,24,Person 1,yes definitely. for centuries lol,"('aa',)",1.69402349,1.968426704,1.179621816,1.885519743,1.809059739,aa
+267,25,Person 2,its been a good talk bro. bye,"('fc',)",0.719664156,1.523440123,0.349408656,1.004503965,1.809059739,fc
+267,26,Person 1,"you too man, goodbye","('fc',)",0.858421266,1.633939862,0.811284781,1.197312355,1.809059739,fc
+197,0,Person 1,who knew that wind turbines are killing eagles.,"('+',)",2.38420105,2.092119932,1.52095437,1.756088614,1.815519584,+
+197,1,Person 2,"Yes, I had no idea that this was even an issue","('sd',)",2.460604429,2.155045271,1.752666473,2.08540082,1.815519584,sd
+197,2,Person 1,It is hard to think about because wind is clean power,"('sv',)",2.309598684,2.277313471,1.247582793,2.058251619,1.815519584,sv
+197,3,Person 2,"Exactly and it seems like, hopefully, we will head in to that direction to slow down global warming.. i guess you can never win no matter what you do","('aa', 'sv')",2.091444731,1.988567472,0.93828541,1.885396361,1.815519584,aa
+197,4,Person 1,"Yeah, eagles and bats vs everything else.","('aa',)",1.910612464,1.882118702,1.195317149,1.810642958,1.815519584,aa
+197,5,Person 2,Because I believe coal fired energy kills birds as well,"('sd',)",2.477196217,2.265804052,1.951771736,2.425516367,1.815519584,sd
+197,6,Person 1,I agree. I wonder what are the downsides to solar.,"('aa', 'qw')",1.679234982,1.361781478,1.050282121,1.572343469,1.815519584,aa
+197,7,Person 2,I wonder if they could make something that stops them from coming near the windmills,"('sd',)",2.127098083,1.30277741,0.941487789,1.447301626,1.815519584,sd
+197,8,Person 1,"I don't know, but that is a good idea.","('h',)",1.628518343,1.527865529,0.502894819,1.658838511,1.815519584,h
+197,9,Person 2,"Yes, there needs to be a way to do something since coal fired energy is probably worse","('aa',)",2.500858784,2.079332113,1.474668622,1.962436795,1.815519584,aa
+197,10,Person 1,I read an article about the good side of nuclear power.,"('sd',)",1.679008365,1.281027198,0.542780638,2.123274803,1.815519584,sd
+197,11,Person 2,Really? I didn't know there was a good side,(),2.19227767,2.791502237,1.438477516,1.724214792,1.815519584,none
+197,12,Person 1,it is clean and safe if done right,"('+',)",1.571797848,1.560934424,0.517107487,1.541095018,1.815519584,+
+197,13,Person 2,That's very interesting,"('ba',)",2.031126738,2.334787607,0.34916833,1.407259226,1.815519584,ba
+197,14,Person 1,what do you think is the best power?,"('qo',)",0.889739811,1.065470815,0.743716717,1.07271409,1.815519584,qo
+197,15,Person 2,Couldn't solar panels produce the same amount of energy,"('sv',)",1.822860718,1.508423805,1.188667417,1.427746773,1.815519584,sv
+197,16,Person 1,you need a lot of solar panels,(),1.812731504,1.206674218,1.227313876,1.334039807,1.815519584,none
+197,17,Person 2,What do you think is the best kind of power? I read an article that wind turbines cause cancer,"('qw',)",1.249958277,1.230384827,0.913199067,1.592694044,1.815519584,qw
+197,18,Person 1,"I like natural gas, but it is limited.","('sd',)",1.644877791,1.417873263,0.863045216,2.546162367,1.815519584,sd
+197,19,Person 2,That is true,"('aa',)",1.49044919,1.686136365,0.71799159,1.869867921,1.815519584,aa
+197,20,Person 1,have you ever seen a wild eagle?,"('qy',)",1.093905687,1.276786089,0.813247085,1.230338573,1.815519584,qy
+197,21,Person 2,"Yes i have, they are beautiful. I saw one at a park in NJ. Have you?","('qy',)",1.72224617,1.902382016,0.586823404,2.411527157,1.815519584,qy
+197,22,Person 1,"Yes, its scary how big they are","('aa',)",2.721945047,3.355252981,1.702212095,1.926271796,1.815519584,aa
+197,23,Person 2,Yea haha. I have seen a few large birds pick up baby squirrels by my house to eat them. Freaked me out,"('aa',)",2.145987272,3.43797493,1.430465698,2.99362874,1.815519584,aa
+197,24,Person 1,I would be freaked out too.,"('sd',)",2.952522039,3.167083025,1.516311765,2.59057641,1.815519584,sd
+197,25,Person 2,Maybe they can make smaller wind turbines so they don't kill birds,"('sd',)",2.321076632,1.62648809,0.909362793,1.678588033,1.815519584,sd
+197,26,Person 1,"Yeah, or change the color or been them make a sound the birds don't like","('aa',)",2.390856743,1.903400302,1.78761673,1.807374835,1.815519584,aa
+197,27,Person 2,They are attracted to the wind it creates because it helps them glide better... its like putting sugar out on your counter and not expecting to get ants,(),2.122848749,1.897831082,1.018709183,2.21695137,1.815519584,none
+197,28,Person 1,Do you have any other points about the article?,"('qy',)",0.735134542,0.912988305,0.981743813,0.900231421,1.815519584,qy
+197,29,Person 2,"No, do you?","('bh',)",0.959881783,1.166458607,0.988463879,1.168444395,1.815519584,bh
+197,30,Person 1,"No, nice chatting with you! bye","('fc',)",0.600030005,1.497774363,0.287704349,0.875838816,1.815519584,fc
+197,31,Person 2,bye,"('fc',)",0.375996351,0.742811739,1.016468406,0.913960993,1.815519584,fc
+434,0,Person 1,what did you think about it?,"('qo',)",0.70801276,0.76299721,0.851366162,0.865641177,1.82051574,qo
+434,1,Person 2,"I think it's really unfortunate, and I don't blame people in the middle east for hating the West.","('sv',)",2.919564962,3.132279158,1.738295674,2.920115709,1.82051574,sv
+434,2,Person 1,yea but we are better then them,"('sv',)",1.444362879,1.785527706,1.167261243,1.757108212,1.82051574,sv
+434,3,Person 2,lol ok.  Still sucks to have to move your dead kids on a blanket because some other country bombed you.,"('sv',)",3.101600409,3.274687052,1.816414237,2.44256568,1.82051574,sv
+434,4,Person 1,they are terrorists,"('sv',)",1.751827478,2.693419218,1.877035141,1.834573507,1.82051574,sv
+434,5,Person 2,only the terrorists and taliban are terrorists.  not all the civilians caught in the backlash.,"('sv',)",2.436911345,2.752840519,1.639164329,2.020923138,1.82051574,sv
+434,6,Person 1,the civilians are collateral,"('+',)",2.448109865,1.795331359,1.729881883,1.660089254,1.82051574,+
+434,7,Person 2,don't you wish that wasn't the case though?,"('qy',)",1.91576004,2.148301363,0.942728996,1.564691186,1.82051574,qy
+434,8,Person 1,I suppose but we have to bomb someone or else little Timmy's dad won't have a job making bombs and then our economy would tank,"('sv',)",2.546374559,2.439217091,1.741815448,2.322059393,1.82051574,sv
+434,9,Person 2,i see how this is going... well why don't we just do more testing instead of bombing actual people,(),1.805012703,1.832084775,1.490910411,1.652710915,1.82051574,none
+434,10,Person 1,well we have to sell the bombs to others so they can control their population with bullets its spreading democracy just like the founding fathers wanted it,"('sv',)",2.224066973,2.368237257,1.793253779,2.119901896,1.82051574,sv
+434,11,Person 2,yeah that's true this is just a crusade to further our western ways.,"('sv',)",1.989696026,1.947709203,1.464404941,2.019444704,1.82051574,sv
+434,12,Person 1,either you listen to us and follow our rules or we sanction and bomb you to oblivion seems fair to me,"('sv',)",1.948254228,2.747836828,1.166914344,2.321902752,1.82051574,sv
+434,13,Person 2,Yeah we're the big dogs fuck everyone else!,"('aa',)",1.648978949,2.719689608,1.576437712,2.130505323,1.82051574,aa
+434,14,Person 1,America Fuck YEA!!!,(),1.731829882,3.597102404,1.870139956,2.188183784,1.82051574,none
+434,15,Person 2,"well, I hope we don't make everyone else in the world hate us, and cause another 9/11 with your plan though..","('sv',)",1.754570603,2.463207006,1.283679366,1.86586237,1.82051574,sv
+434,16,Person 1,there is nothing we can do to stop the inevitable destruction of us all so like prince said party like its 1999,(),2.402573347,2.922312975,2.109513044,2.106046915,1.82051574,none
+434,17,Person 2,yolo amirite?,"('qy',)",1.051768064,1.205320001,0.961860418,1.252118111,1.82051574,qy
+434,18,Person 1,to the fullest until the mushroom clouds appear in the horizon,"('sd',)",1.64843595,1.72477448,0.800951183,1.575605869,1.82051574,sd
+434,19,Person 2,man you really are a different breed.  good luck to you out in the real world!,"('sv',)",1.308873653,2.274873018,0.381275028,1.593440056,1.82051574,sv
+434,20,Person 1,I'm doing great brother got my farm no mortgage to debt have my livestock and loaded up on plenty of ammo bring on the next financial depression the one that finally bankrupts this country,"('sd',)",2.127393007,2.63425231,0.896459222,2.988312483,1.82051574,sd
+434,21,Person 2,lol bye.,"('fc',)",0.581887841,1.356914282,0.798948705,1.119085073,1.82051574,fc
+434,22,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.82051574,fc
+499,0,Person 1,"Hi there, so what did you think of it?","('fp', 'qo')",0.649927139,0.881533504,0.57979691,0.94350189,1.840185912,fp
+499,1,Person 2,I think he needs to be overthrown,"('sv',)",2.426745892,2.598606348,1.594527841,2.286861181,1.840185912,sv
+499,2,Person 1,"who, Putin?","('br',)",0.829715967,1.286450624,1.22321403,1.227802515,1.840185912,br
+499,3,Person 2,"yes, the scary dictator","('aa',)",1.783025861,3.106460333,1.805601597,1.803638697,1.840185912,aa
+499,4,Person 1,"oh yeah, he does seem to be trouble.  what did you think of the guy who OD'd?","('qo',)",1.55515027,1.666894794,1.34171164,1.501355052,1.840185912,qo
+499,5,Person 2,I think it was all a hit job,"('sv',)",2.005441666,2.159687281,1.759524703,1.780334234,1.840185912,sv
+499,6,Person 1,oh maybe so.  I had not thought of that.  I figured he just drank himself to death.,(),2.243479729,1.971476197,1.32321918,1.979442358,1.840185912,none
+499,7,Person 2,Putin has done so many hits against epople that trade i wouldnt be suprised,(),2.262033701,2.681142569,2.029042482,2.311062098,1.840185912,none
+499,8,Person 1,"yeah you're right, I wouldn't be surprised either","('aa',)",1.937072039,2.039730787,0.856046319,2.09056282,1.840185912,aa
+499,9,Person 2,something needs to be done so hes not in power anymore,(),2.21898365,2.576909781,1.542305112,1.956206322,1.840185912,none
+499,10,Person 1,yeah what do you think would be best?,"('qw',)",1.058025718,1.120288968,0.744740903,1.048667669,1.840185912,qw
+499,11,Person 2,"an assacination no way hell relinquish power, and anyone in russia is to afraid to go against him","('sv',)",2.523873091,3.382557392,2.214533567,2.327400684,1.840185912,sv
+499,12,Person 1,I know his approval ratings are at an all time low. the public is very unhappy with him in Russia,"('sv',)",2.694977045,2.546051741,1.799657464,2.134530783,1.840185912,sv
+499,13,Person 2,They need to over throw him have a revolution,"('sv',)",2.40820837,2.823904276,1.975469947,1.938725471,1.840185912,sv
+499,14,Person 1,yeah maybe so.  someone there needs to organize something I guess,"('sv',)",2.075146675,1.701402307,0.953578711,1.825294256,1.840185912,sv
+499,15,Person 2,He would have them killed is the issue,"('sd',)",2.610122919,2.679399014,1.923268914,2.005349398,1.840185912,sd
+499,16,Person 1,yeah probably so.  I guess they are just stuck,"('aa',)",2.573620081,1.797041774,1.61477828,1.670297146,1.840185912,aa
+499,17,Person 2,crazy theres still evil dictators in 2019,"('sv',)",1.491704464,2.628190994,1.796574712,1.813424349,1.840185912,sv
+499,18,Person 1,yeah it seems so archaic,"('aa', 'sv')",2.628969193,2.586719751,1.877740622,2.026554585,1.840185912,aa
+499,19,Person 2,need to just kill them and move on,"('sv',)",1.857631207,2.33570981,1.478844047,1.710303545,1.840185912,sv
+499,20,Person 1,yes unfortunately,"('aa',)",1.178714275,1.700187206,1.43208158,1.3946594,1.840185912,aa
+499,21,Person 2,it was nice chatting bye,"('fc',)",0.675604641,1.378684998,0.288357705,0.978432894,1.840185912,fc
+499,22,Person 1,you too bye,"('fc',)",0.636102378,1.267766953,0.614199877,0.874560595,1.840185912,fc
+358,0,Person 1,Hi,"('fp',)",0.63861233,0.823676229,0.770946205,0.981627882,1.848352395,fp
+358,1,Person 2,hey what did you think about that article?,"('qo',)",0.588602841,0.781176865,0.896609604,0.815060198,1.848352395,qo
+358,2,Person 1,I think he was very depressed,"('sd',)",3.576350451,2.793705225,1.767068624,2.321581125,1.848352395,sd
+358,3,Person 2,i just want toknow the motive,(),1.860659838,1.909045935,1.084184647,1.473416805,1.848352395,none
+358,4,Person 1,I guess we will never know,"('sv',)",1.623354793,1.701052427,0.920823276,1.386065364,1.848352395,sv
+358,5,Person 2,I feel so bad for there kids now,"('by',)",4.055708408,3.695169449,2.168192387,2.903000593,1.848352395,by
+358,6,Person 1,yes me too,"('aa',)",1.767171144,1.574121356,1.318568587,1.863137484,1.848352395,aa
+358,7,Person 2,they need thrapists,"('sd',)",1.784124374,1.93989718,1.596817374,1.70331049,1.848352395,sd
+358,8,Person 1,that will be forever in their heads,(),2.917865753,3.120443821,1.62422502,1.806477427,1.848352395,none
+358,9,Person 2,I agree also the people stuck on the plane while this was happening i would freak,"('aa',)",3.593826532,3.532920122,2.123270273,2.510309696,1.848352395,aa
+358,10,Person 1,yes for sure,"('aa',)",1.599904537,1.542000651,1.121619344,1.382421732,1.848352395,aa
+358,11,Person 2,I cant believe in 2019 somehting like this could happen at an airport,"('sv',)",2.826912165,3.307157993,2.014339209,2.028008223,1.848352395,sv
+358,12,Person 1,yes you think someone would have stopped him,"('aa',)",2.070757151,1.899066567,1.23952508,1.575984597,1.848352395,aa
+358,13,Person 2,Yeah better secruity maybe new laws need to be put in place,"('aa', 'sv')",2.162437439,1.755187631,1.010539532,1.763923645,1.848352395,aa
+358,14,Person 1,yes for example look at that woman that keeps sneaking on planes how does she keep doing it,"('aa',)",1.996969223,2.202618599,1.714792848,1.914284945,1.848352395,aa
+358,15,Person 2,oh i heard about that that is a huge problem and copy catters will probably try now,(),2.029546022,2.003212929,1.725032926,2.028864622,1.848352395,none
+358,16,Person 1,yes for sure,"('aa',)",1.599904537,1.542000651,1.121619344,1.382421732,1.848352395,aa
+358,17,Person 2,need security right when walking in airports,(),1.45808816,1.543375134,1.094545722,1.837889314,1.848352395,none
+358,18,Person 1,yes they need to be up to par,"('aa',)",1.690681815,1.535493255,1.035335183,1.665580988,1.848352395,aa
+358,19,Person 2,it was great chatting with you,"('fc',)",0.810915053,1.768010616,-0.001554433,1.087704897,1.848352395,fc
+358,20,Person 1,it was great chatting with you also,"('fc',)",0.895822704,1.750933528,0.014913697,1.136657715,1.848352395,fc
+358,21,Person 2,bye!,"('fc',)",0.587893307,1.090798497,0.625385642,1.006808996,1.848352395,fc
+358,22,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.848352395,fc
+439,0,Person 1,I didn't know leprosy was still around,"('sd',)",2.147896051,2.09236598,1.50900948,2.208482981,1.867372523,sd
+439,1,Person 2,"Yeah i remember reading about it in other countries, but I didn't know it was still in America.  Definitely didn't know squirrels carried it.","('sd',)",2.177103281,1.900981069,1.094595313,2.499278545,1.867372523,sd
+439,2,Person 1,Jesus will cure it no worries,"('sv',)",1.63559711,2.028113127,1.097667813,1.595687985,1.867372523,sv
+439,3,Person 2,"Thanks God for Jesus, taking care of his creation, humans, but fucking all the other ones he made...",(),2.045150042,3.12415266,1.030670047,2.240985155,1.867372523,none
+439,4,Person 1,If this is taking care of us I'd hate to see what not taking care of us would look like,"('sv',)",3.240436316,3.259498358,1.773436308,2.466289759,1.867372523,sv
+439,5,Person 2,"Sorry, I should clarify, he's taking care of his chosen people. Western white civilization.","('fa',)",2.256154776,2.405356169,1.104166031,2.16907382,1.867372523,fa
+439,6,Person 1,well my previous statement still stands the whites are all doped up on heroin now and chopping their dicks off to become women,(),2.182744741,2.61043787,1.748396873,2.334211588,1.867372523,none
+439,7,Person 2,"Lol only like 1% of em.  At least that's something they're choosing to do, and not involuntarily getting infected with squirrel leprosy though!","('sd',)",2.527670383,2.778031111,0.919364214,2.253674507,1.867372523,sd
+439,8,Person 1,that makes it worse lol and i'm pretty sure its more then 1% that are addicts but the trannies are probably 1 percent,"('sv',)",2.483501911,2.389061689,1.633202195,2.258092165,1.867372523,sv
+439,9,Person 2,"eh, I wouldn't let that kind of stuff bother you though, it's annoying, but it really doesn't affect you if you don't let it.","('sv',)",1.81587553,2.35132575,1.227115989,2.336928129,1.867372523,sv
+439,10,Person 1,I don't really care about it we're making america great again cant,(),1.996548176,2.593882561,0.941630363,2.393636465,1.867372523,none
+439,11,Person 2,"Sure doesn't sound like you don't care, you pivoted from leprosy squirrels to Jesus and cut off dicks reeeal quick","('sv',)",2.127671957,3.071945906,1.862469196,2.070829153,1.867372523,sv
+439,12,Person 1,I have mental issues the FBI profiled me once,"('sd',)",1.381074667,2.31148982,1.746701121,2.974929094,1.867372523,sd
+439,13,Person 2,"Lol good to know.  Anyway, thanks to the article, I now know to keep my distance from Armadillos.",(),1.629094839,2.247638226,0.528366089,2.491321802,1.867372523,none
+439,14,Person 1,don't forget about prarie dogs they carry the hunta virus,(),1.546350121,1.834286094,1.700399756,1.845698953,1.867372523,none
+439,15,Person 2,What's the hunta virus?,"('qw',)",1.05173707,1.126961231,1.033750415,1.251526117,1.867372523,qw
+439,16,Person 1,its a cousin of ebola I find viruses to be really intersting,(),2.451202869,3.077883005,1.879389286,2.737276077,1.867372523,none
+439,17,Person 2,"Do you think they go to cookouts together, and their virus parents brag about what great virus's they've become?","('qy',)",1.417612553,1.65950644,0.842122018,1.610031724,1.867372523,qy
+439,18,Person 1,I think ebola makes a great rack of ribs and hunta is a little jeoulous,(),1.463972926,1.725563169,0.916395307,2.140324831,1.867372523,none
+439,19,Person 2,hunta talks so much shit about ebola's ribs to their nephew malaria...,(),2.090862513,2.837024689,1.559396148,2.318325043,1.867372523,none
+439,20,Person 1,there's always a fight between bubonic plague and polio,"('sd',)",1.638657212,1.829862118,1.710472345,1.733608246,1.867372523,sd
+439,21,Person 2,Mumps is always getting drunk and groping his cousins wives.,"('sd',)",2.037654161,2.682303667,1.577695847,2.446285486,1.867372523,sd
+439,22,Person 1,yea but they knew you can't marry the flu those girls are hussies,"('aa',)",1.960552931,2.632347107,1.759204507,2.071828604,1.867372523,aa
+439,23,Person 2,"they seriously get around, i personally got fucked by the flu twice last year.","('sd',)",2.158924818,2.93539381,1.682792544,2.926949501,1.867372523,sd
+439,24,Person 1,haha nice chatting with you bye,"('fc',)",0.6034922,1.316047549,0.187768668,0.820197225,1.867372523,fc
+439,25,Person 2,lol bye,"('fc',)",0.484146446,1.179896235,0.749237061,0.970552862,1.867372523,fc
+203,0,Person 1,That just angers me.,"('sd',)",3.337770224,3.730358362,2.032034397,2.464488268,1.86901615,sd
+203,1,Person 2,"Me, too.","('sd',)",2.083757639,1.802777886,1.137236953,2.077370882,1.86901615,sd
+203,2,Person 1,We need to do more to keep these endangered species afloat.,"('sv',)",2.936625957,2.401548624,0.815063477,1.945913076,1.86901615,sv
+203,3,Person 2,I think they need to pay countries to not harvest their natural resources.,"('sv',)",2.494339466,1.921958566,1.38949728,2.33889842,1.86901615,sv
+203,4,Person 1,They need to find other ways to go about doing things,"('sv',)",2.741848469,2.17633152,1.501847029,1.768225431,1.86901615,sv
+203,5,Person 2,I can not blame them for doing what they are doing because that is what we did.,"('sv',)",2.296398878,2.470344305,1.499883413,2.665387392,1.86901615,sv
+203,6,Person 1,Orangutans are endangered in that province so  it tends to make people angrier than usual,"('sd',)",2.550155878,2.085738659,1.682718039,1.954833388,1.86901615,sd
+203,7,Person 2,"Yea, I would hate to lose orangutans","('sd',)",3.523799658,2.880755663,1.963502049,2.58052516,1.86901615,sd
+203,8,Person 1,the risk of fires would increase if sungai putry was drained and deforested so its odd they'd do all that.,"('sv',)",2.19954586,1.610872865,1.612127781,1.730417252,1.86901615,sv
+203,9,Person 2,Corporations rule the environment,"('sd',)",1.910098791,1.771615028,1.695507765,2.04686594,1.86901615,sd
+203,10,Person 1,"nah, money rules all. money is the root of all evil. someone with money can do that doesnt have to be a big corporation unfortunately money is the key thing here","('sv',)",1.759997368,2.557510138,1.823229909,2.204295397,1.86901615,sv
+203,11,Person 2,What do you think we could do to help them stop?,"('qw',)",1.84282136,1.455400825,0.819108248,1.335237622,1.86901615,qw
+203,12,Person 1,give sanctions to the country,"('+',)",1.584568262,1.599300265,1.580541968,1.628179073,1.86901615,+
+203,13,Person 2,That could work,"('ba',)",1.629382133,1.419355631,0.546477079,1.49664712,1.86901615,ba
+203,14,Person 1,what do you think should be done to stop them?,"('qw',)",1.401999712,1.451550841,0.96941936,1.308799982,1.86901615,qw
+203,15,Person 2,I would pay them to make a large part of the forest a national park.,"('sd',)",2.405979633,1.766290069,0.863853574,2.315532923,1.86901615,sd
+203,16,Person 1,thats actually a good idea as well,"('ba',)",1.666971207,1.9407233,0.233256906,1.74866426,1.86901615,ba
+203,17,Person 2,I think that is what they do in Africa for large game parks,"('sv',)",2.179210901,1.375484109,0.994586229,1.958360195,1.86901615,sv
+203,18,Person 1,yeah thats true,"('aa',)",1.357841492,1.662231803,1.121654749,1.692509055,1.86901615,aa
+203,19,Person 2,have you seen an orangutan at a zoo?,"('qy',)",1.231591702,1.275577784,0.964372993,1.372801423,1.86901615,qy
+203,20,Person 1,"not really, have you?",(),0.752557218,1.144002557,0.932979703,1.20241046,1.86901615,none
+203,21,Person 2,"Yes, they are pretty cool.","('aa',)",2.076183558,2.497808933,0.589161396,2.000745535,1.86901615,aa
+203,22,Person 1,ive seen lions at a zoo but would like to see an orangutan,(),1.987258673,1.964627147,1.020456791,2.125882149,1.86901615,none
+203,23,Person 2,I really like the elephants too.,"('sd',)",1.973819971,1.996658444,0.468897134,2.186184645,1.86901615,sd
+203,24,Person 1,they have great memory,"('sd',)",1.384495974,1.659572959,0.356173426,1.516303301,1.86901615,sd
+203,25,Person 2,do you have any other opinions about the article?,"('qy',)",0.881094813,0.950981975,1.099682808,0.962533176,1.86901615,qy
+203,26,Person 1,not really do you?,(),0.875335276,1.221853495,1.01253283,1.30056262,1.86901615,none
+203,27,Person 2,"No, it was really nice chatting with you. bye","('fc',)",0.760021865,1.663879037,0.161550969,0.95710206,1.86901615,fc
+203,28,Person 1,bye,"('fc',)",0.375996411,0.742811799,1.016468287,0.913960874,1.86901615,fc
+302,0,Person 1,Hello,"('fp',)",0.563009262,0.725495636,0.790180445,0.942569911,1.872742988,fp
+302,1,Person 2,Hi. How are you?,"('fp',)",0.674141705,0.839913964,0.511645019,1.069080472,1.872742988,fp
+302,2,Person 1,What did you think of the article,"('qo',)",0.663184941,0.7799474,0.990822911,0.905029774,1.872742988,qo
+302,3,Person 2,It makes me quite sad. I feel for these people without food available.,"('by', 'sv')",4.028674126,3.673448563,1.823529243,2.833277702,1.872742988,by
+302,4,Person 1,Tell me about it,"('ad',)",0.697431862,0.875245273,0.757078409,1.131231427,1.872742988,ad
+302,5,Person 2,ABout the article or my sadness?,"('qy',)",2.16506362,2.062124968,1.490069151,1.945021033,1.872742988,qy
+302,6,Person 1,Both. I think there needs to be more support,(),3.115887403,2.310997009,1.591948628,2.253234625,1.872742988,none
+302,7,Person 2,"It seems to me from the article that the problem is less about getting the support in the area, and more about building a structure for self support. For instance, the farmers are unable to return to usable land because they are not secure there.","('sv',)",2.915174007,1.924749851,1.392436862,1.994515538,1.872742988,sv
+302,8,Person 1,"I think some support is need to secure the land to make it usable, dont you think?","('qy',)",2.260094166,1.520473242,0.628900468,1.629875898,1.872742988,qy
+302,9,Person 2,"Well, the article legitimately points out that this support has to be mandated by government first. Getting food to the people is one action that is beneficial, but it isn't curbing the real problems.","('sv',)",2.603460073,2.489797354,1.290960431,2.436241627,1.872742988,sv
+302,10,Person 1,i see,(),1.009922028,1.100366116,1.301946521,1.432976723,1.872742988,none
+302,11,Person 2,"So, I think the lesson here is that there really needs to be some counseling available for recovering governments - as crazy as that sounds - a not-for-profit that can help a sincere government regain control after something like the Boko Haram issue","('sv',)",2.89706111,2.497388124,0.899327278,2.374709368,1.872742988,sv
+302,12,Person 1,I like that solution,"('sd',)",1.62606132,1.678551435,0.09413553,1.783829093,1.872742988,sd
+302,13,Person 2,"Of course, it requires a lot sincerity on the part of the government. I think it is has a potential to be more effective than the mandated democracy via military action that the US tried in Iraq.","('sv',)",2.223851919,1.865116954,0.872074246,2.119368553,1.872742988,sv
+302,14,Person 1,TRUE,"('aa',)",1.307130337,1.25707233,1.042652249,1.449406981,1.872742988,aa
+302,15,Person 2,"What gets me, though, as a parent, is the idea that the kids have to suffer for the follies of the adults. What do you think about all the suffering that comes from these horrible situations? How could that be managed?","('qo',)",3.102432251,2.762494564,1.496239901,2.134637117,1.872742988,qo
+302,16,Person 1,I think leaders in the region needs to step up and do something or remove them,"('sv',)",2.704509497,2.544171572,1.225724578,2.463383913,1.872742988,sv
+302,17,Person 2,"If they are removed, how should it be done, and who should be put in their place?","('qh',)",1.91393435,1.882408261,1.207364678,1.675446153,1.872742988,qh
+302,18,Person 1,Put some people that serve their immediate interest. Someone with vision and enough power to get things done,"('sv',)",2.234947205,1.94989121,0.561129689,1.686596274,1.872742988,sv
+302,19,Person 2,Rome had a triumvirate. Three people in charge. Should a constitution allow a group of three to be installed when a single leadeer has failed?,"('qy',)",1.849680424,2.281365395,1.433869004,2.029212952,1.872742988,qy
+302,20,Person 1,I think they should i think it makes better sense to me,"('sv',)",2.425238132,2.009676218,0.880481482,2.401046515,1.872742988,sv
+302,21,Person 2,That's nice. My timer is almost how. I think you need to say bye first if you are done with the conversation,"('fc',)",1.005924344,1.536708713,0.538080096,1.42062974,1.872742988,fc
+302,22,Person 1,ok goodbye,"('fc',)",0.583021283,0.911337018,0.863026559,1.111520052,1.872742988,fc
+302,23,Person 2,bye,"('fc',)",0.375996351,0.742811739,1.016468406,0.913960993,1.872742988,fc
+68,0,Person 1,Have you ever been bullied?,"('qy',)",0.959065437,1.296863914,1.122138977,1.296883345,1.873054625,qy
+68,1,Person 2,I have in the past. Have you?,(),0.915372849,1.225286365,0.923177063,1.828549385,1.873054625,none
+68,2,Person 1,"Not intensely, that I can remember. There was one older kid on the bus that gave me the business sometimes, but we ended up being friends after a time. How did you respond to being bullied?",(),1.299885988,1.657641768,0.771956801,2.38220191,1.873054625,none
+68,3,Person 2,"I can relate to that. I was not severely bullied. It was off and on through elementary and some of middle school. In those moments of being bullied, i would usually ignore it. I was a resilient kid. Are you still friends with that person?",(),2.140414476,2.393407822,0.974418521,2.782006264,1.873054625,none
+68,4,Person 1,"Haha, no. That was over 15 years ago. Do you have any ideas on the appropriate response to widespread bullying?",(),1.421890855,1.76838088,1.144011378,1.795734882,1.873054625,none
+68,5,Person 2,"I think it depends. I think the bully that happens today is a bit different from the kind many experienced back then. Also, kids that get bullied today, their response to bullying varies.",(),2.372451305,1.892752171,1.026770353,2.198143244,1.873054625,none
+68,6,Person 1,"I understand that, but there are a limited amount of ways to respond to verbal and physical abuse. I don't think that the way children respond varies much from when we were children. I think the key difference is that bullying doesn't end just because you're home from school. It can be something that haunts you around the clock day in and day out.","('sv',)",2.645763874,2.365220547,1.137870669,2.810011625,1.873054625,sv
+68,7,Person 2,"Yes, that's what i meant. Bullying does not end even when you're home. What do you think would be an appropriate response to bullying?","('qo',)",1.861004591,1.840736151,1.099226356,1.964766622,1.873054625,qo
+68,8,Person 1,"Unplugging, first and foremost. I don't participate in social media, but I think that it has been an overwhelmingly negative influence on society. The reason that children go to the lengths that this French girl did is because they feel absolutely alone in their suffering. Inclusion is the answer. Something as simple as assigning each child a emotional support classmate could do wonders for kids who are being singled out.","('sv',)",2.810493469,3.031625509,1.033980131,2.993674755,1.873054625,sv
+68,9,Person 2,That is true. Social media has made a great impact on younger generations. I cannot imagine the impact it would have had on me as a kid. I do agree that inclusion is important and vital. I have never thought of the idea of assigning emotional support classmates. That is an absolutely great idea. Have you seen this used in the real world?,"('qo',)",2.694819689,2.633856535,0.690273166,2.664218664,1.873054625,qo
+68,10,Person 1,"No, not in any kind of administrative capacity. But, I think that it could potentially be very effective. The modern world has a way of distorting the best of intentions though.",(),1.938193798,1.728439689,0.831033468,1.965651631,1.873054625,none
+68,11,Person 2,How do you mean?,"('qo',)",0.725155175,0.918603897,1.006862283,0.962919772,1.873054625,qo
+68,12,Person 1,"Well, an emotional support could potentially become an emotional detriment if a child chose to betray another child's confidence either maliciously or by complete accident.","('sv',)",2.554863453,2.349699736,1.575347066,2.214727879,1.873054625,sv
+68,13,Person 2,I see. That is a something completely possible. I can see adults playing a better role for emotional support within the classroom. Perhaps having an assigned adult per classroom or something of that sort.,"('sv',)",2.741551876,2.02674222,0.758363962,2.333258867,1.873054625,sv
+68,14,Person 1,"Right, when I was in elementary school we had parent volunteers called ""den mothers"" (our school mascot was a lion) who shared their information with children and provided a sympathetic ear. I'd actually be interested to see what a normal day at a public school looks like these days.","('sd',)",2.21231246,2.166687727,0.726332188,2.810309649,1.873054625,sd
+68,15,Person 2,"We had something similar in elementary as well. Except, from what i remember, they were teachers assistants. They did the typical TA duties but were there as well to provide emotional support. I am curious too how a normal day is at a public school.","('sd',)",2.181614161,1.851280332,0.895180941,2.558815479,1.873054625,sd
+68,16,Person 1,"I mean, my youngest brother is now home schooled and I know that people who can afford it now send their children to private schools. The devaluation of public education in the US has been profound and embarrassing.","('sd',)",3.265985012,3.619496107,1.574158788,3.128539324,1.873054625,sd
+68,17,Person 2,I was homeschooled for high school. As a teen i absolutely hated it at first but now that i am older i have come to appreciate it. Public education is definitely not where is should be. I wish the government would make education a focus. It's been busy on other things of course.,"('sv',)",2.220989466,2.798301697,1.044602036,3.209861755,1.873054625,sv
+68,18,Person 1,I went to a boarding school for two years in high school. I also absolutely hated it at the time but looking back I was healthier than I had ever been in my life up to that point. I enjoyed chatting with you! bye,"('fc',)",1.538331151,2.548357248,0.535843194,2.911134958,1.873054625,fc
+68,19,Person 2,Bye. Thanks!,"('fc',)",0.70428592,1.252946019,0.545117378,0.82739836,1.873054625,fc
+68,20,Person 1,"""bye"" has to be all lowercase","('fc',)",1.626760244,1.971824765,1.362903357,1.783292174,1.873054625,fc
+68,21,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.873054625,fc
+467,0,Person 1,How did this article make you feel?,"('qo',)",1.120786548,0.93838042,1.19403863,1.132023335,1.881088471,qo
+467,1,Person 2,I was surprised because I did not know the Jewish community felt like that and you?,"('sd',)",2.25214839,2.137555838,1.010745168,2.013869762,1.881088471,sd
+467,2,Person 1,Not really.  I'd be interested to know how they feel about Trump now seeing as he's been such a pro-Israel President.,(),2.431411743,2.021467924,1.222024322,2.070778608,1.881088471,none
+467,3,Person 2,That is a good question.,"('ba',)",1.514768958,1.396468043,0.691052079,1.342111349,1.881088471,ba
+467,4,Person 1,I'm part Jewish but have never had that much connection to Jews or understanding of their feelings on their place in our society.,"('sd',)",2.234778881,1.909238935,1.084081054,2.978049755,1.881088471,sd
+467,5,Person 2,why not?,"('qh',)",1.15649128,1.18421638,0.945474744,1.295821786,1.881088471,qh
+467,6,Person 1,It's just  not a big part of my family tree.,"('sd',)",2.018752813,1.857308149,1.163740158,2.602650404,1.881088471,sd
+467,7,Person 2,I think the holocaust put the Jewish community on edge.,"('sv',)",3.125365734,2.235354662,1.600519538,2.313495874,1.881088471,sv
+467,8,Person 1,"Yeah, sort of like slavery for blacks. Now everything gets viewed through that prism.  Jewish history has plenty of persecution before that too.","('aa', 'sv')",2.575093985,2.229456663,1.304331183,2.259263754,1.881088471,aa
+467,9,Person 2,The article also said some Jewish people voted for Trump.,"('sd',)",2.074893713,1.736876011,1.180410385,1.743389726,1.881088471,sd
+467,10,Person 1,The thing is though that I don't think Trump himself has ever done anything anti-semitic.  Certainly people who voted for him have.,"('sv',)",2.091339111,2.218434572,0.999190509,2.425825596,1.881088471,sv
+467,11,Person 2,Trump does not really distance himself from the alt right.,"('sv',)",1.779511213,1.973479509,1.201764107,2.115506887,1.881088471,sv
+467,12,Person 1,"Maybe, but I don't think his message exactly gets through when it's filtered through the media.  I thought Trump's response to Charlottesville, for example, was the correct one.  Both sides were at fault.","('sv',)",2.234791756,2.070057392,1.359763026,2.37983489,1.881088471,sv
+467,13,Person 2,I disagree but we are all entitled to our opinions.,(),1.711283922,2.019902706,1.141080856,2.318025827,1.881088471,none
+467,14,Person 1,"Yes, you're allowed to be wrong.",(),2.015517473,2.390064478,1.44652307,1.896864176,1.881088471,none
+467,15,Person 2,lol your entitled to think that.,"('sv',)",1.658185005,2.149991751,1.311260343,1.682105899,1.881088471,sv
+467,16,Person 1,"You spelled ""you're"" wrong.  But you're entitled to be wrong, as I said.",(),1.681087971,2.282377481,1.292265296,2.310370922,1.881088471,none
+467,17,Person 2,you got me!,(),1.096034288,2.369920492,0.456755012,1.770986199,1.881088471,none
+467,18,Person 1,"Yeah, it wasn't hard.  Any other thoughts on this article?  Do you think our democracy is being threatened by a Presidential election?","('qy',)",1.488240004,1.772236943,1.284425139,1.724242806,1.881088471,qy
+467,19,Person 2,"Yes, our Presidential election is being threaten because republicans are allowing it to be.",(),2.165677547,2.460021257,1.51085794,2.212033749,1.881088471,none
+467,20,Person 1,I'm not sure what you mean.,"('sd',)",1.266909122,1.377836704,1.247959375,1.062971592,1.881088471,sd
+467,21,Person 2,The republicans are blocking bills that now allow other countries to mess with our elections which threatens our democracy.,"('sd',)",2.306208372,2.705232859,1.327225924,2.198716402,1.881088471,sd
+467,22,Person 1,I think you're confused about a lot of what's going on.,"('sv',)",2.181024313,1.660878658,1.293451548,1.405162573,1.881088471,sv
+467,23,Person 2,"Your opinion, it was nice chatting with you. bye","('fc',)",0.6435498,1.408290505,0.264433175,0.853952825,1.881088471,fc
+467,24,Person 1,"Yeah, it's always nice chatting with someone who's mentally retarded.  bye","('fc',)",2.203359842,2.297866583,0.375421077,2.120595455,1.881088471,fc
+117,0,Person 1,That is just a terrible quake that happened in New Zealand,"('sd',)",2.999990702,3.489455938,1.75186646,1.914087415,1.881393152,sd
+117,1,Person 2,"yea,horrible...and really scary","('aa', 'sv')",3.427590609,3.892956018,2.141890049,2.180094957,1.881393152,aa
+117,2,Person 1,I've personally experienced earthquakes and they are scary,"('sd',)",2.074642897,3.331680059,1.923540115,3.008699179,1.881393152,sd
+117,3,Person 2,i can't imagine living in an earthquake prone area.....i'd be constantly worried,"('sv',)",3.372231483,3.296799898,2.014189959,2.66677475,1.881393152,sv
+117,4,Person 1,being from California you get used to them but you always wonder if its the big one when they are occuring,"('sv',)",1.818356156,1.810689926,1.020644784,2.303429127,1.881393152,sv
+117,5,Person 2,sure hope they could come up with a more accurate early detection system,(),2.423354864,1.831884623,0.6644997,1.381875277,1.881393152,none
+117,6,Person 1,yeah that seems like theyll never find a way,"('aa',)",2.039675236,1.857504129,1.745082259,1.435487986,1.881393152,aa
+117,7,Person 2,how often do you experience earthquakes?,"('qw',)",0.76509136,0.911583006,0.905787051,1.130130529,1.881393152,qw
+117,8,Person 1,usually every year during the summer here in california,"('sd',)",1.067061543,1.274401665,0.907049,2.082056046,1.881393152,sd
+117,9,Person 2,"that's interesting,so they are more common in summer?","('qy',)",1.760877132,1.519055963,0.728281856,1.472026825,1.881393152,qy
+117,10,Person 1,from my experience although im no expert i feel them during the summer mostly,(),1.370444775,1.5384413,0.992582858,2.555025339,1.881393152,none
+117,11,Person 2,"did you feel the most recent ""bigger one"" that was in the news recently?","('qy',)",0.992935002,1.202622533,0.936748743,1.098600626,1.881393152,qy
+117,12,Person 1,i sure did that one did last pretty long,(),1.599254608,2.03681922,1.336952448,1.796860099,1.881393152,none
+117,13,Person 2,"wow...what does it exactly feel like? i imagine it feeling like your in a boat or something,like wavy sort of","('sv',)",2.180158854,1.680181742,1.401781678,1.623370409,1.881393152,sv
+117,14,Person 1,its like if your on top of a wood plank and someone under has control of the movement moving it side to side or however they want like wavy,"('sd',)",2.055274248,1.772916079,1.430679798,2.160693407,1.881393152,sd
+117,15,Person 2,interesting...would you say that most houses/buildings in California are able to withstand a decent sized one? like how safe do you feel when it happens,"('qy',)",1.441900134,1.538360476,0.929452538,1.532954335,1.881393152,qy
+117,16,Person 1,the newer ones maybe i doubt the older ones would like my house was built in the 70's before i was born i doubt it would hold up,"('sv',)",2.090790033,1.835185051,1.549652219,2.476878166,1.881393152,sv
+117,17,Person 2,"man,i'd be freaked out...","('^q',)",3.154813528,3.413447618,1.955554843,2.225604296,1.881393152,^q
+117,18,Person 1,yeah but you cant stop nature,"('fc',)",1.799087286,2.266413927,1.471258044,1.798712015,1.881393152,fc
+117,19,Person 2,"yea,i guess you just got to learn to live with them","('sv',)",1.91587162,1.876764417,1.126438141,1.652630568,1.881393152,sv
+117,20,Person 1,theres no earthquakes where you're from?,"('qw',)",0.939160347,1.089190006,0.812810123,1.319712877,1.881393152,qw
+117,21,Person 2,"i live in new york,there have been a few but I've never felt anything...they are usually way offshore and pretty small","('sd',)",1.581414104,1.556195855,1.015556216,2.4488976,1.881393152,sd
+117,22,Person 1,i guess in new york you just have to deal with the cold,(),2.005028486,1.715278268,1.526006579,1.918835163,1.881393152,none
+117,23,Person 2,"yea,winter sucks....snow storms are a real pain to deal with","('aa', 'sv')",2.291110754,2.914242983,2.062083483,2.231988192,1.881393152,aa
+117,24,Person 1,i cant imagine that! i guess every place has its pros and cons,"('sv',)",2.43048501,2.70927763,1.597738385,2.166712761,1.881393152,sv
+117,25,Person 2,yep,"('b',)",1.019218326,1.719244838,1.365177512,1.393518329,1.881393152,b
+117,26,Person 1,its been good fellow mturk friend. goodbye.,"('fc',)",1.045079947,1.809321761,0.483176261,1.444323063,1.881393152,fc
+117,27,Person 2,Same to you! i learned some interesting things from the convo....bye!,"('fc',)",1.018109202,2.100162268,0.223408908,1.994597077,1.881393152,fc
+426,0,Person 1,its a shame with the drought,"('sv',)",2.833091497,2.913425684,2.130647898,1.981470823,1.890772347,sv
+426,1,Person 2,It's terrible what is happening to the world today!,"('sv',)",3.349130869,3.613587618,1.972333789,1.998328328,1.890772347,sv
+426,2,Person 1,I know so much distruction,"('sd',)",1.306015015,1.833480954,1.188977361,2.169175386,1.890772347,sd
+426,3,Person 2,Do you think it is human caused?,"('qy',)",1.378202915,1.17004776,1.12776649,1.107569695,1.890772347,qy
+426,4,Person 1,maybe probably thoug,"('sv',)",1.46484828,1.373642683,1.189298868,1.311976194,1.890772347,sv
+426,5,Person 2,I wonder what will be done to fix the destruction.,"('sd',)",2.748993158,1.771054626,1.398768306,1.560014129,1.890772347,sd
+426,6,Person 1,probably nothing humans don't really care,"('sv',)",1.50331831,1.599953771,1.546527624,1.58616662,1.890772347,sv
+426,7,Person 2,I care! I wish that i could donate to these wildlife charities,"('sd',)",3.285453558,3.166894436,0.652399063,2.972879648,1.890772347,sd
+426,8,Person 1,I need donations before the animals,"('sd',)",3.023041964,2.117677927,1.00895822,2.273556709,1.890772347,sd
+426,9,Person 2,lol that's a good point. Do you own any pets or anything?,"('qy',)",1.025084734,1.261230469,0.649155259,1.303053141,1.890772347,qy
+426,10,Person 1,i do i have a cat chickens goats and sheep,"('sd',)",1.015779138,1.340078235,0.742710352,2.362294197,1.890772347,sd
+426,11,Person 2,Wow. Do you feel compassion or anything for them if htye were to get hurt?,"('qy',)",2.767330408,2.581749201,1.417371392,1.654959917,1.890772347,qy
+426,12,Person 1,for sure I'm treating my goats foot right now,"('sd',)",1.810250759,1.797997594,1.434037924,2.637180567,1.890772347,sd
+426,13,Person 2,Awesome. How long have you had this goat?,"('qw',)",0.897766411,1.388527036,0.487985939,1.407932878,1.890772347,qw
+426,14,Person 1,this one I just got this summer I paid a lot for her 300 bucks,"('sd',)",1.465070963,1.948878288,0.661716282,2.471111536,1.890772347,sd
+426,15,Person 2,That's a pretty good deal. I hope you will treat it well because it's sad what humans are doing to animals.,"('sv',)",3.247942209,3.196303844,0.697856188,2.283489227,1.890772347,sv
+426,16,Person 1,I will but I will also eat all of her male offspring slit their throat most likely and make delicious goat tacos,"('sd',)",2.100246668,2.735335588,1.383889556,2.699753761,1.890772347,sd
+426,17,Person 2,That's interesting. Hopefully you will keep it more as a pet,"('sv',)",1.880361676,2.033626795,0.484458476,1.712137341,1.890772347,sv
+426,18,Person 1,only the females stay as pets no use for the males just need to keep one around for breeding the rest in the freezer to feed my family,(),1.574194908,1.660402179,0.981041789,2.365083694,1.890772347,none
+426,19,Person 2,Cool! Well it was nice talking to you. bye,"('fc',)",0.654099345,1.589372516,0.230085537,0.865478218,1.890772347,fc
+426,20,Person 1,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.890772347,fc
+428,0,Person 1,"Well, I thought this was sad for the animals.  But it's one of those situations where there's not much anyone can do.  What was your take on it?","('qo',)",3.332282782,2.563452482,1.648520112,2.197563887,1.893261804,qo
+428,1,Person 2,"Yeah, we need to do better in protecting these animals.","('aa', 'sv')",2.748580694,2.163407803,1.320377111,1.958088517,1.893261804,aa
+428,2,Person 1,What do you think can be done?,"('qw',)",1.161225915,1.080055714,0.839492619,1.072329402,1.893261804,qw
+428,3,Person 2,I think educating people on the consequences but at this point I don't know what can be done to be honest. What about you?,"('qo', 'sv')",2.167896032,2.083293438,1.130768299,2.195183516,1.893261804,qo
+428,4,Person 1,"I agree, I think it's really up to nature which we cannot control","('aa',)",2.508337259,2.317987442,1.605314374,2.458701849,1.893261804,aa
+428,5,Person 2,What do you think might of caused the river to go dry?,"('qw',)",1.495803833,0.990097165,1.178065419,1.008687735,1.893261804,qw
+428,6,Person 1,My guess would be just natural fluctuations in the weather.  Kinda hard to say.  I guess it could be any number of things really.,"('sv',)",1.873682857,1.523394227,1.015045762,1.622534752,1.893261804,sv
+428,7,Person 2,I think they should build more artifical canals and stuff like that if possible.,"('sv',)",2.264256477,1.747605205,0.689062238,2.027213573,1.893261804,sv
+428,8,Person 1,"That could possibly help, I think it would be worth exploring ideas like that.  I wonder if they have?","('qy',)",1.802880883,1.415987134,0.35860616,1.529485226,1.893261804,qy
+428,9,Person 2,I think the article said that was being done in some countries,"('sd',)",1.995546818,1.344983459,0.990230203,1.658181667,1.893261804,sd
+428,10,Person 1,"I wonder why they are not doing it there, did it say?","('qy',)",2.036652565,1.430398822,1.079376101,1.43774426,1.893261804,qy
+428,11,Person 2,"no idea, why do you think they haven't done it yet?",(),1.398470044,1.294313669,1.053002596,1.255962253,1.893261804,none
+428,12,Person 1,"Perhaps financial reasons, what do you think?","('qo',)",1.484482408,1.078596354,0.885416806,1.173206925,1.893261804,qo
+428,13,Person 2,Most likely. Paraguay isn't the richest country,"('na',)",1.656643152,1.460214734,1.153585315,1.697031856,1.893261804,na
+428,14,Person 1,"Yeah I don't know much about it but it doesn't seem like a very industrialized, thriving nation","('aa',)",2.258885145,1.446327329,1.357890129,1.697463274,1.893261804,aa
+428,15,Person 2,yep I've heard about Paraguay when their team is participating in a world cup,"('aa',)",1.548934937,1.462280154,0.721398473,2.057024956,1.893261804,aa
+428,16,Person 1,"hahaha yeah, same.  B ut not much economic news",(),1.447959304,1.638653159,1.27349627,1.528380871,1.893261804,none
+428,17,Person 2,yeah never hear anything about them lol,"('aa',)",1.041688561,1.515665531,1.071562767,1.423013449,1.893261804,aa
+428,18,Person 1,"me either, they're like a ghost country","('sd',)",2.689655542,2.167675734,1.956529498,1.991081953,1.893261804,sd
+428,19,Person 2,"yeah i dont even know who their president is or if they have one. but back to the article, I hope things change and they find a way to save these animals",(),2.478624582,2.242615938,1.127397299,2.1068995,1.893261804,none
+428,20,Person 1,"Yeah I don't know either.  Are they even a democracy or what?  Anyway, I hope things change, too, for the sake of the animals.  well I must go, it's been nice speaking with you.  goodbye","('fc', 'fx')",1.883273482,2.144897223,0.733374953,1.960909963,1.893261804,fc
+428,21,Person 2,bye,"('fc',)",0.375996411,0.742811799,1.016468287,0.913960874,1.893261804,fc
+46,0,Person 1,I remember hearing about this event when it happened.,"('sd',)",1.857749701,1.59952116,0.907710254,2.247823,1.904830856,sd
+46,1,Person 2,It's pretty crazy what happened,"('sd',)",3.014848232,3.644739628,1.912929177,1.856644988,1.904830856,sd
+46,2,Person 1,"I remember thinking that could have been me, because that's the type of show that I'd go see.","('sd',)",2.550908089,2.074325323,1.003265738,2.619235277,1.904830856,sd
+46,3,Person 2,same here the fact that we are all at risk in 2019 for these kinds of things is scary,"('aa',)",3.065695286,3.655228376,1.947958112,2.388772249,1.904830856,aa
+46,4,Person 1,Exactly. It wasn't politically directed at the band or venue or concertgoers. They were just in the wrong place at the wrong time. Scary.,"('aa',)",2.828414202,3.155357122,1.512742519,2.186120749,1.904830856,aa
+46,5,Person 2,Do you think there was a good response to the tragedy?,"('qy',)",1.441065788,1.245236516,0.919684649,1.00624752,1.904830856,qy
+46,6,Person 1,"I'm not sure what a good response could be, but I think it was handled appropriately.","('sv',)",2.151988268,2.030219793,0.681721091,1.935804605,1.904830856,sv
+46,7,Person 2,Yeah I agree with the response being good all things considered,"('aa',)",1.57424283,1.831571102,0.255568177,1.901501417,1.904830856,aa
+46,8,Person 1,"I hadn't heard the statement from the lead singer about security. Until that came up in the article, I didn't understand why he was ""controversial""","('sd',)",1.866672039,1.948459268,1.22576642,2.149637938,1.904830856,sd
+46,9,Person 2,Is he the one that said he thought muslim security personnel at the venue collaborated with the attackers?,"('qy',)",1.759061933,1.692268968,1.195352793,1.791854382,1.904830856,qy
+46,10,Person 1,"yeah, according to the article anyway. I didn't remember hearing that anywhere before.","('aa', 'sd')",1.741635919,1.490507603,0.83280313,1.874725819,1.904830856,aa
+46,11,Person 2,"Yeah, makes me wonder if the author made that up....",(),1.977660537,1.871137142,1.419623971,1.630622029,1.904830856,none
+46,12,Person 1,It did say that him being not allowed at the venue wasn't substantiated/proven.,"('sd',)",2.113079071,1.850730181,1.431343079,1.738454342,1.904830856,sd
+46,13,Person 2,yeah if it aint proven they shouldnt write it,"('aa',)",1.758579373,2.137383223,1.850061536,1.786593437,1.904830856,aa
+46,14,Person 1,"I'm not sure where the article came from, I didn't pay attention.","('sd',)",1.454764247,1.552391768,1.337103128,1.533201933,1.904830856,sd
+46,15,Person 2,I don't believe it said where it came from I just remember them quoting the AFP a lot,"('sd',)",1.884034872,1.698623776,1.289375186,1.703696847,1.904830856,sd
+46,16,Person 1,"The other band that played at the memorial was Sting, right?","('qy',)",1.710422039,1.814350605,0.893333793,1.722967744,1.904830856,qy
+46,17,Person 2,yeah I remember Sting  played in the first show at the Bataclan or something like that,"('sd',)",1.690225124,1.732973456,0.959700406,2.065338373,1.904830856,sd
+46,18,Person 1,yeah the first one since the tragedy. I was surprised to hear he was still playing venues.,"('sd',)",2.41707015,2.117588043,0.700310051,2.04296279,1.904830856,sd
+46,19,Person 2,yeah these old time bands can go on playing for ages,"('sv',)",2.039689302,2.387379885,1.151067972,1.86593163,1.904830856,sv
+46,20,Person 1,"I didn't see a correlation with Eagles of Death Metal, though. Two entirely different genres.","('sd',)",1.831482649,1.741071224,1.259937882,1.975913763,1.904830856,sd
+46,21,Person 2,thats true didn't think of that hmm thats weird. I think we finished the fifteen turns good job,"('sv',)",1.563461185,1.882218242,0.812200785,1.845865846,1.904830856,sv
+46,22,Person 1,thanks. it was nice. bye!,"('fc',)",0.839118183,1.784953713,0.2829386,1.245760798,1.904830856,fc
+46,23,Person 2,goodbye,"('fc',)",0.584071517,0.839885592,0.844525099,1.045598507,1.904830856,fc
+463,0,Person 1,What did you think about the article?,"('qo',)",0.647197485,0.682173133,1.006420493,0.776193857,1.907519884,qo
+463,1,Person 2,i thought it was an accident after reading the article through. what about you?,"('qo',)",1.413963914,1.62370801,1.445292711,1.542958975,1.907519884,qo
+463,2,Person 1,"Yes, I thought so too, like a misunderstanding gone terribly wrong","('aa',)",2.584874868,2.462312937,1.794098973,2.238803148,1.907519884,aa
+463,3,Person 2,yeah unfortunately maybe the military trainers didn't see or realize they had  to stop the vehicle.,"('sv',)",2.336477518,2.068488598,1.503758907,1.748811722,1.907519884,sv
+463,4,Person 1,"Yeah, they probably need to review protocol and make sure everyone is really clear going forward","('aa', 'sv')",2.149707079,1.850307107,1.209280133,1.827647448,1.907519884,aa
+463,5,Person 2,yeah i wonder why they didnt realize they had to stop though. you would think they go through extensive training,"('sv',)",2.433015108,1.898023129,1.375869751,1.747746944,1.907519884,sv
+463,6,Person 1,"yeah you would think, maybe some sort of oversight?  Quite a serious one.",(),2.389156103,2.059552193,1.57747674,1.604874372,1.907519884,none
+463,7,Person 2,yeah or maps detailing stops and all of that,"('aa',)",1.817703485,1.386481881,1.171739221,1.439879775,1.907519884,aa
+463,8,Person 1,"Yeah seriously, you would think they would have known.  there were also three of them","('aa',)",2.531285048,2.554439545,1.508473039,1.844412327,1.907519884,aa
+463,9,Person 2,thats crazy..,"('ba',)",2.33611989,3.17429924,2.023320436,1.912260175,1.907519884,ba
+463,10,Person 1,"yeah, like you would think one would have said something","('aa',)",2.328966618,1.785301685,1.143166661,1.516876698,1.907519884,aa
+463,11,Person 2,makes you wonder if they knew but didnt stop on purpose,"('sv',)",2.086455822,1.782648444,1.508336663,1.462726355,1.907519884,sv
+463,12,Person 1,"yeah, but why?  just to be defiant?  rogue?  suicidal??","('qh',)",1.943897724,2.824262142,1.735409856,2.062135458,1.907519884,qh
+463,13,Person 2,im thinking they were probably rogue,"('+',)",1.839893937,1.787609458,1.523841858,1.710367084,1.907519884,+
+463,14,Person 1,Yeah that would probably make the most sense,"('aa',)",1.903542638,1.415479064,0.72181952,1.486544728,1.907519884,aa
+463,15,Person 2,hopefully things become clearer,"('sv',)",2.057741165,2.016966343,0.677876294,1.483408689,1.907519884,sv
+463,16,Person 1,"yes, the article didn't give much resolution","('aa', 'sv')",1.493573546,1.597411394,1.71266377,1.40666616,1.907519884,aa
+463,17,Person 2,wish they cleared things up more at the end of the article,"('sv',)",1.692910433,2.099470854,1.084911108,1.632221818,1.907519884,sv
+463,18,Person 1,"me too.  I was left feeling confused.  Well it has been a great talk, goodbye","('fc',)",1.787918806,2.096418619,0.9568398,1.999444485,1.907519884,fc
+463,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.907519884,fc
+448,0,Person 1,Fighting over Kashmir has been going on for decades and doesn't seem to be ending soon.,"('sv',)",2.190842867,2.263751507,1.503826141,1.700443268,1.91589781,sv
+448,1,Person 2,Yeah I remember hearing stories about them fighting a long time ago.,"('sd',)",1.860955954,1.730839849,1.180345654,2.026913404,1.91589781,sd
+448,2,Person 1,"They're both nuclear powers so that makes the tensions more meaningful, though they've refrained from using nuclear weapons to this point.","('sd',)",1.458654165,1.553960204,0.961961746,1.813976169,1.91589781,sd
+448,3,Person 2,Do you think India should face consequences for what they did?,"('qy',)",1.396561503,1.652814031,1.268319964,1.398448467,1.91589781,qy
+448,4,Person 1,I guess I feel like I don't know enough about the back-and-forth.  I fully believe that terrorist groups exist in Pakistan.  And I think India has a right to defend itself.,"('sv',)",2.153535604,2.056641817,1.290576339,2.470004559,1.91589781,sv
+448,5,Person 2,Pakistan is definitely known for taking good care of terrorists.,"('sv',)",1.823014617,1.889182568,0.739052176,1.857672215,1.91589781,sv
+448,6,Person 1,Indeed.  I'd guess they're typically the cause of any escalation in tensions.,"('aa', 'sv')",2.026851416,1.461142063,1.242007256,1.563400507,1.91589781,aa
+448,7,Person 2,Wasn't Osama Bin Laden also there in a mansion.,"('qy^d',)",1.995117188,2.125700712,1.21767056,1.591151237,1.91589781,qy
+448,8,Person 1,Yes.  Pakistan has a very bad history of harboring terrorists.  And I'm sure there are plenty of radical folks who would like to actively fight India.,"('aa', 'sv')",2.465411663,2.451717377,1.417351604,2.276976109,1.91589781,aa
+448,9,Person 2,do you think there will be another was between the two?,"('qy',)",0.95541364,1.161343217,0.847680688,1.078074217,1.91589781,qy
+448,10,Person 1,"I'm sure there will continue to be skirmishes like this.  But an all-out war between these two countries would be massive, with the potential for nuclear strikes.  I doubt we'll see something like that in our lifetime.","('sv',)",1.985374928,2.237068415,1.458457708,2.143704653,1.91589781,sv
+448,11,Person 2,I wouldn't doubt anything anymore to be honest after seeing somebody like Donald Trump getting elected.,"('sv',)",2.498425961,2.782787085,1.446376681,2.872717142,1.91589781,sv
+448,12,Person 1,"I suppose, but I think there's a difference between casting a ballot for someone and entering into an existential war.  Look at Putin.  He's ruthless.  He hasn't fought a large-scale war.  Everything now is skirmishes and proxy wars and terrorism and stuff like that.","('sv',)",2.359062433,2.666664124,1.395457268,2.734554052,1.91589781,sv
+448,13,Person 2,Everyone knows the dangers of nuclear power . Before all they had was airstrikes and guns.,"('sd',)",2.11247468,2.250232458,1.55648613,2.112619638,1.91589781,sd
+448,14,Person 1,"I thought the last line of the article was sort of funny, that Bollywood directors aren't hiring Pakistani actors because of this.  Just thought that was a sort of trivial way to end the article.","('sv',)",2.230088472,2.252722502,1.183643579,2.207087278,1.91589781,sv
+448,15,Person 2,lol that made me laugh went from serious to comedy real quick,(),1.977825522,3.152930021,0.828338802,2.277303457,1.91589781,none
+448,16,Person 1,Although that may be what the majority of Indian people care most about.  Who knows.  In the US we'd spend a lot of time concerning ourselves with what actors were saying on Twitter.,"('sv',)",2.374468088,2.140058041,1.086632967,2.495510101,1.91589781,sv
+448,17,Person 2,True USA is the king of social media stuff.,"('aa',)",1.570002794,2.187193871,0.892250538,2.043130875,1.91589781,aa
+448,18,Person 1,I guess this article makes me feel better about my life. I don't fear rockets coming in from Canada.,"('sd',)",2.659115076,2.867530584,0.401827604,3.075017691,1.91589781,sd
+448,19,Person 2,yeah that makes sense. We are very lucky to be living here to be honest.,"('aa',)",2.69715333,2.448074341,0.558639169,2.633885145,1.91589781,aa
+448,20,Person 1,"Absolutely.  Anyway, it was nice chatting with you.  Have a good day.  bye","('fc',)",0.983405411,1.66852212,0.437514782,1.22261095,1.91589781,fc
+448,21,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.91589781,fc
+355,0,Person 1,what do you think about the article?,"('qo',)",0.747125268,0.773556352,0.97321707,0.825045884,1.922030313,qo
+355,1,Person 2,i thought its embarrasing how an agreement can't be reached on whether the vaccines are effective or not,(),2.802326918,3.003175974,1.993511796,2.045946836,1.922030313,none
+355,2,Person 1,"Yeah, people care more about who is right than doing the right thing.","('aa', 'sv')",2.535079241,2.26155591,1.532027841,2.204399347,1.922030313,aa
+355,3,Person 2,yeah the egos are through the roof in that article,"('aa',)",1.946741343,2.653164625,1.77428174,2.145084143,1.922030313,aa
+355,4,Person 1,A lot people find it hard to get out of the way of their ego.,"('sv',)",2.446518183,2.45996356,1.661800385,2.298272371,1.922030313,sv
+355,5,Person 2,it explains why many problems in the world are still unsolved,"('sv',)",1.811182499,1.863823533,1.76716423,1.446470499,1.922030313,sv
+355,6,Person 1,I also think a lot people lack empathy for people besides their self.,"('sv',)",2.833758354,2.387729406,1.600050569,2.478504896,1.922030313,sv
+355,7,Person 2,yeah its a me or them mentality,"('aa',)",1.712359071,2.022010088,1.860820174,2.005492687,1.922030313,aa
+355,8,Person 1,Yeah it sad but true,"('by',)",3.138084173,2.802126646,1.939508677,2.243600368,1.922030313,by
+355,9,Person 2,do you see any signs of this changing in the future?,"('qy',)",0.999528706,0.975394249,0.863813281,0.977598965,1.922030313,qy
+355,10,Person 1,No I think it will remain the same what about you?,(),0.981298983,1.343590736,0.65923512,1.510323405,1.922030313,none
+355,11,Person 2,yeah much like all other problems in the world it will most likely stay the same,"('aa',)",1.782392263,1.699585676,1.674975991,1.562247276,1.922030313,aa
+355,12,Person 1,I think people only come together when something really bad happens and only for a limit time.,"('sv',)",2.387004852,2.218235016,1.305023313,2.33589673,1.922030313,sv
+355,13,Person 2,yeah it takes death for people to show emotions for a day or two max,"('aa',)",2.865270138,2.656938791,1.794490337,2.193609953,1.922030313,aa
+355,14,Person 1,Then back to business as usually.,"('sd',)",1.120544195,1.33347559,0.690095961,1.248108387,1.922030313,sd
+355,15,Person 2,yep back to their real self after that,"('aa',)",1.812014937,1.93885994,0.835139215,1.719774246,1.922030313,aa
+355,16,Person 1,"It sad because life is really so valuable, but people are treated like they are disposable","('sv',)",3.773887634,3.661608696,2.162161112,2.586234331,1.922030313,sv
+355,17,Person 2,money is the root of it,(),1.531027317,1.902256489,1.610102415,1.709850192,1.922030313,none
+355,18,Person 1,"I agree, it was nice chatting! bye","('aa', 'fc')",0.838465691,1.745834231,0.202056661,1.228556514,1.922030313,aa
+355,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.922030313,fc
+218,0,Person 1,hey do you think about life much?,"('qo',)",0.700578153,1.02463448,0.664540291,0.984298289,1.927491988,qo
+218,1,Person 2,yes now a a days all the time,"('sd',)",1.730175972,1.801077962,1.366573811,1.827986121,1.927491988,sd
+218,2,Person 1,people get killed terrorist attacks everyday,"('sv',)",2.106127262,2.578459501,1.865313292,1.676000357,1.927491988,sv
+218,3,Person 2,Its almost like its becoming normal when i hear about it on the news,"('sv',)",2.189242125,2.131483793,0.932479262,2.243063688,1.927491988,sv
+218,4,Person 1,a few years back there was one in paris,"('sd',)",1.546317935,1.450989842,1.086424708,1.832232594,1.927491988,sd
+218,5,Person 2,yes in 2015 I read about that i think like 90 people died,"('sd',)",2.870049238,2.149015665,1.897322059,2.090258121,1.927491988,sd
+218,6,Person 1,nah more. 130,"('ng',)",1.045753002,1.284012198,1.161914825,1.383579731,1.927491988,ng
+218,7,Person 2,oh wow,"('b',)",1.626350641,3.208979845,1.609200239,1.503660083,1.927491988,b
+218,8,Person 1,i think the gunmen were affiliated with ISIS,"('sd',)",1.746377587,1.706675291,1.454085112,1.639362335,1.927491988,sd
+218,9,Person 2,yes I remember reading that he was,"('sd',)",1.530798435,1.357133031,0.823576331,1.816692352,1.927491988,sd
+218,10,Person 1,thats horrible.,"('ba',)",3.463849545,3.788404465,2.060368299,2.002025127,1.927491988,ba
+218,11,Person 2,yes very but it seems since then paris has made sure they are ready if a attack like that ever happens again,"('aa',)",1.791142941,1.851084471,0.702216864,1.549079895,1.927491988,aa
+218,12,Person 1,why do people join those groups anyway?,"('qh',)",1.246026516,1.398166776,1.177188754,1.374424934,1.927491988,qh
+218,13,Person 2,I think very misguided join these groups most of them think that they are doing what allah wantss,"('sv',)",2.165753841,2.25028348,1.622201562,2.333286047,1.927491988,sv
+218,14,Person 1,they are very misguided,"('sv',)",2.384267092,2.940316677,1.852488875,2.061573267,1.927491988,sv
+218,15,Person 2,Yes im worried that things like that will continue to happen in the us also,(),2.749530554,2.171967506,1.862822652,2.019728661,1.927491988,none
+218,16,Person 1,i hope we got more than memorial if it does.,"('sv',)",2.324263811,2.267051935,0.490449816,1.934898973,1.927491988,sv
+218,17,Person 2,what else would you want to see happen,(),1.57908535,1.677068353,1.098274946,1.537462711,1.927491988,none
+218,18,Person 1,the perpertrators should be arrested and re-educated on why they should not harm people,"('sv',)",2.340620279,2.844940901,1.689925432,2.167364836,1.927491988,sv
+218,19,Person 2,That kind of hard to do since its almost always a suicide mission,"('sv',)",2.481634378,2.215412378,1.916281939,1.764424801,1.927491988,sv
+218,20,Person 1,yea that is true,"('aa',)",1.34696579,1.47670567,0.843167782,1.585593224,1.927491988,aa
+218,21,Person 2,in my eyes its a very coward thing too do so they wont have to face there actions,"('sv',)",3.134277582,3.300343752,2.122266054,2.479751825,1.927491988,sv
+218,22,Person 1,they need serious mental help,"('sv',)",2.876740456,3.026791811,1.72780323,2.029456139,1.927491988,sv
+218,23,Person 2,i agree,(),1.650197029,1.687482238,0.894097447,1.804665208,1.927491988,none
+218,24,Person 1,"when it happened in france, the upped the number of police. thats great for people who need jobs but didnt do much else im afraid. we need better solutions","('sv',)",2.82502389,2.70874095,1.628675222,2.462821722,1.927491988,sv
+218,25,Person 2,do you think putting more checks on people that buy guns would help,"('qy',)",1.540340304,1.292651176,0.845133126,1.353424072,1.927491988,qy
+218,26,Person 1,we need to eliminate guns entirely. the idea that people justify owning guns to protect themselves from other people who alreaday have guns is stupid. just get rid of all guns. problem solved.,"('sv',)",2.101594687,2.589879513,1.489608169,2.282847643,1.927491988,sv
+218,27,Person 2,I actually agree with that but i know that a law banning all guns would be very hard to pass,"('aa',)",2.372722149,2.145474672,1.590018511,2.253614426,1.927491988,aa
+218,28,Person 1,dont need to make a law. just use the military to go get all guns everywhere and when that is accomplished take the militarys guns and add them to the pile and destroy the whole pile.,"('sv',)",1.9221071,2.230955839,1.424690127,2.124433041,1.927491988,sv
+218,29,Person 2,I dont think that very realistic but i get your point,"('sv',)",1.710227966,1.990897298,1.526031852,1.997583866,1.927491988,sv
+218,30,Person 1,"it is when you think about it. everyone always says, we have guns, nukes, wmd's, etc, because those guns over there do so we gotta protect ourselves. fine, take it all away, there you dont need them anymore either.","('sv',)",2.028002739,2.243626833,1.380169392,2.15781188,1.927491988,sv
+218,31,Person 2,no i understand what your saying the part that is unrealistic is thinking that the higher power will go for it in the us we have had a increase on mass shooting and our government cant even  agree on adding more checks to the process to get a gun so wiping all weapons is not gonna happen,(),2.309842587,2.499999285,1.653589129,2.39526391,1.927491988,none
+218,32,Person 1,i know thats the problem,(),2.163943529,2.091917753,1.808256507,1.898400307,1.927491988,none
+218,33,Person 2,well is there anything else you would like to add on this subject,(),0.828561366,0.979164064,0.741703868,0.969123304,1.927491988,none
+218,34,Person 1,"yea, we need to come up with a way to educate them to stop this from happening in the future","('sv',)",2.555494308,2.180267334,0.885290265,1.906409025,1.927491988,sv
+218,35,Person 2,you mean educate ISIS or the government?,"('qy',)",1.331966639,1.583225846,1.2515136,1.315783858,1.927491988,qy
+218,36,Person 1,ISIS definitely,(),1.215772629,1.498163104,1.515416265,1.355692148,1.927491988,none
+218,37,Person 2,Well I think that would be a start but when we find them we kill them without really trying to change there point of view,"('sd',)",2.031124115,1.732108355,0.921452999,1.982938528,1.927491988,sd
+218,38,Person 1,that is another problem we have as well,"('sd',)",1.862666368,1.466286778,1.471215844,1.687174797,1.927491988,sd
+218,39,Person 2,I think thats the only way because killing them doesnt help,"('sv',)",2.634442806,2.242400885,1.619598389,2.102618933,1.927491988,sv
+218,40,Person 1,it does not,(),1.270424485,1.537705302,1.426023841,1.529033184,1.927491988,none
+218,41,Person 2,do you have any other ideas,(),0.991266727,1.077842116,0.772435427,1.001995802,1.927491988,none
+218,42,Person 1,be humble and kind to them? just killing them justifies their ideals. nobody wants to harm kind people,"('+',)",2.913045645,3.141463041,1.645894766,2.39500761,1.927491988,+
+218,43,Person 2,thats actually a good point more violence just gets more violence sometimes,"('aa',)",2.157598495,2.29005599,1.423396707,2.104916811,1.927491988,aa
+218,44,Person 1,"yea, we tried that in the past and it has'nt worked. like the old saying goes, insanity is defined as repeatedly doing the same things over and over expecting different results.","('sv',)",1.569153309,2.042056084,1.417157531,2.048966646,1.927491988,sv
+218,45,Person 2,I never heard that saying but it definitely applies,"('sd',)",1.363923192,1.590327382,0.751778841,2.147271872,1.927491988,sd
+218,46,Person 1,"i wish i could stay longer but i gotta go pick up my laundry. been nice speaking to you, hope to do it again sometime. bye.","('fc',)",1.316051006,2.111967802,0.58428514,2.202326536,1.927491988,fc
+218,47,Person 2,you too as well goodbye,"('fc',)",0.878193855,1.318224788,0.618078589,1.052142501,1.927491988,fc
+248,0,Person 1,The thing I remember most about Janet Reno is Will Ferrell playing her on Saturday Night Live.,"('sd',)",1.892590523,2.17770505,0.889556766,2.60463357,1.932228747,sd
+248,1,Person 2,I remember that. I'm glad she broke barriers for women,"('sd',)",3.13333559,3.190478802,0.230937675,2.874120235,1.932228747,sd
+248,2,Person 1,"Actually, I'm just kidding.  I remember her for her actual job.  She was a very high profile Attorney General.  A lot of really big events took place in the 1990s with her involved.","('sd',)",1.830963135,2.294238329,0.990172565,2.610317945,1.932228747,sd
+248,3,Person 2,"Yeah, but looking back at her work with the Clinton makes me wonder.","('aa',)",2.302000284,1.864427805,1.343444109,1.870629311,1.932228747,aa
+248,4,Person 1,She certainly didn't get out of her job with a squeaky clean reputation.,"('sd',)",1.75761354,2.260079145,1.41269958,1.885729432,1.932228747,sd
+248,5,Person 2,How do you think that era will be looked at in history?,"('qo',)",1.327346683,1.040646672,0.973700166,1.19491291,1.932228747,qo
+248,6,Person 1,"That's a good question.  I suppose it depends on who you ask.  But it was post-Cold War and Clinton didn't do much overseas, so it was mostly domestic stuff.  Clinton scandals, domestic terrorism, and a good economy.  I guess those are the things I remember.","('sv',)",2.112300873,1.853923678,0.845656216,2.327464342,1.932228747,sv
+248,7,Person 2,"Yeah, with all this 92 crime bill talk, makes me look at the whole group differently.","('aa',)",2.545735121,2.03792429,1.416242719,2.046931982,1.932228747,aa
+248,8,Person 1,What's the 92 crime bill talk?,"('qw',)",0.976608038,1.110267758,0.918963909,1.301745653,1.932228747,qw
+248,9,Person 2,Mainly Joe Biden voting for Clinton's 92 crime bill,"('sd',)",1.496508956,1.648085475,1.244890571,1.641921282,1.932228747,sd
+248,10,Person 1,Okay.  Do you think the crime bill was driven by malice or just ignorance?,"('qy',)",1.446852565,1.676172853,1.327353716,1.46305728,1.932228747,qy
+248,11,Person 2,Both,(),1.235340476,1.173094034,1.47543025,1.273580909,1.932228747,none
+248,12,Person 1,"Hmm.  Back to Reno for a second, I wonder if her ""stiffness"" was related to her eventual Parkinson's.  I assume it was, although I don't know much about Parkinson's, at least in its early form.","('qy^d',)",1.969522953,1.688362956,1.127838731,2.021862745,1.932228747,qy
+248,13,Person 2,"It could have been, my grandmother had Parkinson's and it locked up her arms and hands","('sd',)",2.6030159,2.25083375,1.583746791,2.883515596,1.932228747,sd
+248,14,Person 1,"I thought the quote from Holder was interesting about Reno always asking what the ""right"" thing to do was, since neither of them always did the right thing.","('sv',)",2.29550004,2.18620038,1.138940454,2.101422787,1.932228747,sv
+248,15,Person 2,As I get older I look at all people in high positions as being human and having the same flaws as everybody else.,"('sd',)",2.270712852,2.458300829,1.4294945,2.907005548,1.932228747,sd
+248,16,Person 1,So do you think that pretty much anyone who got to those positions would corrupt and do sketchy or even illegal things?,"('qy',)",1.718093514,1.981257558,1.251311779,1.593061805,1.932228747,qy
+248,17,Person 2,"Yes, most people look of for their best interest. I think congress both parties have sold out the American people.","('aa',)",2.496222496,2.349223614,1.464522958,2.39065361,1.932228747,aa
+248,18,Person 1,Yeah.  I also tend to think that the rare person who WOULD remain truly ethical and pure would never rise to the heights of national office.  I don't think they'd ever get there in the first place.  You have to be more ruthless and self-serving than that.,"('sv',)",2.493725538,2.765326738,1.502336979,2.688235998,1.932228747,sv
+248,19,Person 2,Agreed. I think the two party system is for us the people to fight while the people at the top keep enjoying the soils,"('aa', 'sv')",2.1040802,2.276954651,1.392671704,2.45669055,1.932228747,aa
+248,20,Person 1,"Yes, it certainly seems like a rich-get-richer type system at this point.  Oh well, at least everyone, including apparently Janet Reno, eventually dies.  That's gotta be some relief.  Anyway, nice chatting with you.  Have a great day.  bye","('fc', 'sv')",1.886180878,2.44729495,0.763310134,1.963088274,1.932228747,fc
+248,21,Person 2,You too. bye,"('fc',)",0.614782274,1.422969818,0.546955466,0.960980892,1.932228747,fc
+438,0,Person 1,I wasn't aware that only three species of mammal can carry leprosy.,"('sd',)",2.162520647,1.883652091,1.251208186,2.00996232,1.93677337,sd
+438,1,Person 2,"I agree . Astonishing that leprosy still affectrs 385,000 people around the world still.","('aa',)",3.208147049,3.310149193,1.748597383,2.376285791,1.93677337,aa
+438,2,Person 1,"No kidding! Also, most representations of the disease in the media are flagrantly misleading.",(),2.22949481,3.016564608,1.688304186,2.122234821,1.93677337,none
+438,3,Person 2,The media seems to always mislead us,"('sv',)",1.59542799,1.996446133,1.740198493,1.974495053,1.93677337,sv
+438,4,Person 1,You certainly don't see a lot of credible documentaries on most media outlets. Do you live in an area with populations of armadillos?,"('qy',)",1.518590212,1.27733314,1.078804016,1.612269521,1.93677337,qy
+438,5,Person 2,"not really, do you?",(),0.989287317,1.264968514,1.026747584,1.249468565,1.93677337,none
+438,6,Person 1,"Actually, yes. They have been moving northward due to changing temperatures in the south and it's not uncommon to see them on roadways. They're cute but now i'm inclined to keep my distance.",(),1.883175015,1.917012095,0.82585603,2.631896257,1.93677337,none
+438,7,Person 2,what's wrong with armadillos? I'm clueless about them.,(),1.544206142,2.20298481,1.470882177,1.921156764,1.93677337,none
+438,8,Person 1,They carry leprosy that can be transferred to humans according to the article.,"('sv',)",2.314575434,1.555524826,1.111485839,1.817804575,1.93677337,sv
+438,9,Person 2,According to the article. there is no evidence of squirrel to human transmission so thats a good thing,"('sd',)",1.899331331,1.75933373,0.339212567,1.721624613,1.93677337,sd
+438,10,Person 1,"Yeah, it's a shame that the species of squirrel that has been found to carry the disease is also endangered.","('aa',)",3.173734665,2.80060935,1.593180656,2.023667336,1.93677337,aa
+438,11,Person 2,It's crazy how Leprosy has been known since biblical times lol,"('sv',)",1.954495192,2.694248915,1.331436276,2.010449648,1.93677337,sv
+438,12,Person 1,"Right? All this time and we still haven't found a cure. Apparently, it also goes by the name of Hansen's disease. Did you know there are leper colonies in Hawaii?","('qy',)",1.976520777,1.954410195,1.128376842,1.695382714,1.93677337,qy
+438,13,Person 2,did not know that.,"('sd',)",1.81816256,1.737295032,1.441245556,1.513856888,1.93677337,sd
+438,14,Person 1,"Yep, and apparently one of the biggest risk factors for contracting leprosy is living in poverty. There's still plenty of that to go around.","('aa',)",2.441487551,2.353843451,1.340293527,2.117207289,1.93677337,aa
+438,15,Person 2,you really have to take care of yourself with all these diseases going around.,"('sv',)",2.809204102,2.442960262,1.456785798,1.965181231,1.93677337,sv
+438,16,Person 1,Have you ever had first hand experience with a serious illness?,"('qy',)",1.320920706,1.438941598,0.989033699,1.271371722,1.93677337,qy
+438,17,Person 2,not really. I have family members with diabetes and high blood pressure that's the most. what about you?,"('ng',)",2.102758884,1.723118305,1.136140704,2.741543293,1.93677337,ng
+438,18,Person 1,"I've dealt with food poisoning on a couple of different occasions, but nothing I would label as ""serious."" Thanks for chatting and being so responsive. bye","('fc',)",1.41743052,2.023214817,0.666982532,2.508307695,1.93677337,fc
+438,19,Person 2,bye,"('fc',)",0.3759965,0.742811799,1.016468167,0.913960814,1.93677337,fc

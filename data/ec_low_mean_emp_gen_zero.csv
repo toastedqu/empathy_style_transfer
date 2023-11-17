@@ -1,0 +1,1019 @@
+conv_id,turn_id,speaker,utterance,dialog_act,empathy,emotion,emotional_polarity,self_disclosure,da
+477,0,Person 1,Hello! I hope you're doing well. I was wondering about your thoughts on the article. Did it resonate with you?,(),1.2119771242141724,,0.5286895036697388,,none
+477,1,Person 2,"Hello, I can understand your perspective, as when I go grocery shopping, I too am often amazed by the amount of food people have in their carts. It makes me wonder if they can really consume it all.","('sv',)",2.4417309761047363,,0.8729721307754517,,sv
+477,2,Person 1,"I understand and, to be honest, I must admit that I am guilty of it myself as well.","('sd',)",2.300868272781372,,1.50104820728302,,sd
+477,3,Person 2,"I understand that you are quite skilled at following recipes and maintaining a list, but it seems that you face a challenge with produce, as it often goes bad before you have the chance to consume it.",(),2.1615195274353027,,1.0229936838150024,,none
+477,4,Person 1,Would you consider discarding it then?,"('qy',)",1.2644851207733154,,1.188534140586853,,qy
+477,5,Person 2,"I make an effort to remove the unfavorable parts, but occasionally, it may not be possible to save it.","('sd',)",2.234354019165039,,1.2135686874389648,,sd
+477,6,Person 1,That's lovely! I usually enjoy transforming it into some kind of shake as well!,(),1.6594769954681396,,0.0511621423065662,,none
+477,7,Person 2,"That's a wonderful idea! My neighbor also has a small compost that she utilizes for her garden, which is quite impressive. May I ask, which kind of food do you find yourself wasting the most?","('qo',)",1.91895079612732,,0.4971299767494201,,qo
+477,8,Person 1,Savoring the delightful combination of nutritious vegetables and wholesome rice.,"('+',)",1.8203593492507928,,0.4786789417266845,,+
+477,9,Person 2,"I understand that there might be an issue with wasting pasta, and I believe it's essential for people to be more aware of the quantity they're preparing to avoid making too much of something.","('sv',)",2.4731218814849854,,1.1868573427200315,,sv
+477,10,Person 1,Absolutely! Which type of cuisine do you find yourself preparing the most often?,"('qw',)",1.1371946334838867,,0.5252358913421631,,qw
+477,11,Person 2,"I understand the challenge of catering to diverse tastes, so I make an effort to vary the menu by preparing dishes like steak, fish, quesadillas, chili, and grilled chicken. However, I also take the time to lovingly create a separate meal for those with more selective preferences.","('sd',)",1.7874406576156616,,0.5993531942367554,,sd
+477,12,Person 1,That does sound delectable! I can only imagine how wonderful it would be if I had the skills to create such a dish.,"('ba',)",2.67393159866333,,0.4386780560016632,,ba
+477,13,Person 2,Which dish are you referring to? What type of meal do you typically prepare?,"('qw',)",0.7281821370124817,,0.7363742589950562,,qw
+477,14,Person 1,I typically enjoy a simple meal of rice accompanied by some eggs. That's all I need.,"('sd',)",1.3883179426193235,,0.6894561052322388,,sd
+477,15,Person 2,"Is it true? Acquiring cooking skills is indeed quite valuable. May I know your age, if you don't mind sharing?","('qy',)",1.2857911586761477,,0.5356769561767578,,qy
+477,16,Person 1,"Regrettably, I have reached the age of 40.","('sd',)",2.3349497318267822,,1.5683233737945557,,sd
+477,17,Person 2,"At the age of 30, I feel fortunate to have had a boyfriend in college who was a chef, as it may have given me an early advantage in the culinary world.","('sd',)",2.117158889770508,,0.3725946247577667,,sd
+477,18,Person 1,That's truly wonderful! I thoroughly enjoyed our conversation. Take care and goodbye!,"('fc',)",0.985896646976471,,0.2201207131147384,,fc
+477,19,Person 2,Farewell,(),0.660792350769043,,0.694128155708313,,none
+479,0,Person 1,How did the article resonate with you?,"('qw',)",1.1385498046875,,0.6239793300628662,,qw
+479,1,Person 2,"I believe that in our country, having a full stomach is often overlooked and taken for granted. What are your thoughts on this?","('qo', 'sv')",1.798924684524536,,0.8697490692138672,,qo
+479,2,Person 1,"Indeed, I couldn't agree more. Do you happen to discard your food?","('qy',)",1.609208106994629,,0.8512217998504639,,qy
+479,3,Person 2,"If it begins to develop mold and removing the moldy part wouldn't be enough to salvage it, what would you do?","('qw',)",2.023874521255493,,1.3145830631256104,,qw
+479,4,Person 1,"Yes, I can understand the frustration, as I often find myself discarding bread that seems to develop mold rather quickly.","('aa',)",2.853485345840454,,1.5064243078231812,,aa
+479,5,Person 2,Where do you usually purchase your fruits and vegetables?,"('qw',)",0.6847425103187561,,0.5454566478729248,,qw
+479,6,Person 1,from our friendly neighborhood grocery store,"('+',)",1.4073675870895386,,0.5997399091720581,,+
+479,7,Person 2,"Do you usually follow a routine when shopping, or do you prefer to go only when there's a need for certain items?","('qy',)",1.0407288074493408,,0.5827473402023315,,qy
+479,8,Person 1,How about you? Is everything going well in your life?,"('qy',)",0.7509506940841675,,0.4509308040142059,,qy
+479,9,Person 2,"Once a week, I make an effort to purchase only what I need for that week. Unfortunately, I often find myself discarding fresh herbs such as cilantro, thyme, and others, as I haven't yet discovered an effective method for preserving them.","('sd',)",1.8468308448791504,,1.0448434352874756,,sd
+479,10,Person 1,I can totally relate to that. I've also been making an effort to reduce my fast food consumption lately.,"('sd',)",2.588488817214966,,0.8316190838813782,,sd
+479,11,Person 2,"I occasionally enjoy dining out, about once a week, but my true passion lies in the art of cooking.","('sd',)",1.358720779418945,,0.5461715459823608,,sd
+479,12,Person 1,"Fast food can be enjoyable occasionally, but it might not be the best choice for daily consumption.","('sv',)",1.716696858406067,,1.0771790742874146,,sv
+479,13,Person 2,"What are your thoughts on the issue of food waste generated by grocery stores, restaurants, and similar establishments? Do you believe there is a feasible solution to significantly reduce the substantial amount they contribute?","('qy',)",1.3750828504562378,,0.841315507888794,,qy
+479,14,Person 1,It would likely be a wonderful idea to share some of the surplus food with individuals who are in need.,"('sv',)",2.899021625518799,,0.5087854862213135,,sv
+479,15,Person 2,That's a wonderful thought. I am confident that there are certain places that have already implemented programs like that.,"('sv',)",2.489527940750122,,0.3329369127750397,,sv
+479,16,Person 1,"Yes, I have come across a few instances where that happens.","('sd',)",1.7031469345092771,,1.0212383270263672,,sd
+479,17,Person 2,"If presented with the chance to help reduce food waste, would you consider buying imperfect produce, such as those with unusual shapes, colors, or other imperfections?","('qy',)",1.6167471408843994,,0.8581884503364563,,qy
+479,18,Person 1,"If I'm feeling hungry and unable to afford proper nourishment, I might consider it. How about you?","('qo',)",1.811384677886963,,0.7036041617393494,,qo
+479,19,Person 2,Absolutely! I truly appreciate our conversation! Take care and goodbye!,"('fc',)",0.7771143913269043,,0.2602132558822632,,fc
+479,20,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+195,0,Person 1,What were your thoughts and feelings after reading the article?,"('qo',)",0.8613407611846924,,1.0433634519577026,,qo
+195,1,Person 2,It would be intriguing to consider the possibility of repatriating the refugees to their homeland.,"('sv',)",2.717903614044189,,0.6416970491409302,,sv
+195,2,Person 1,What are your thoughts on what they should do?,"('qo',)",1.3024537563323977,,0.7685061693191528,,qo
+195,3,Person 2,Please ask them to leave gently.,"('ad',)",1.5666730403900146,,0.9997321963310242,,ad
+195,4,Person 1,"I understand your concern, as it seems that accommodating a large number of people in one country might be challenging. Perhaps it would be more feasible to focus on providing support to those who are genuinely facing severe hardships.","('sv',)",2.749282121658325,,1.1114976406097412,,sv
+195,5,Person 2,"Indeed, there may be unique exceptions, but at the very least, we should consider the basic requirements.","('sv',)",1.7887470722198486,,0.8277482986450195,,sv
+195,6,Person 1,"Please try to keep it minimal, as Germany is a relatively small country.",(),1.6640440225601196,,0.6911264657974243,,none
+195,7,Person 2,Germany may seem relatively small in size.,"('sv',)",1.8745509386062624,,1.2871681451797483,,sv
+195,8,Person 1,"Indeed, the space appears to be quite limited for accommodating all the asylum seekers.","('aa',)",2.6767077445983887,,1.4994100332260132,,aa
+195,9,Person 2,and individuals involved in acts of terror,"('+',)",1.699592351913452,,1.6770738363265991,,+
+195,10,Person 1,It would be beneficial for them to focus on improving their own country.,"('sv',)",2.9451253414154053,,0.5579197406768799,,sv
+195,11,Person 2,"Yes, they need to reconstruct it, so we can unfortunately cause destruction again. It's quite disheartening to see their homes being reduced to dust.","('aa',)",3.589787244796753,,1.5831226110458374,,aa
+195,12,Person 1,"Oh, you're a part of the Air Force? That's wonderful!","('qy^d',)",1.7256585359573364,,0.1895179748535156,,qy
+195,13,Person 2,"Yes, I understand.",(),1.4297462701797483,,0.9098421335220336,,none
+195,14,Person 1,"Haha, alright then!",(),0.7907391786575317,,0.4274077415466308,,none
+195,15,Person 2,Let's consider using a more compassionate approach rather than resorting to destructive actions like bombing them into tiny pieces.,"('sv',)",2.4633138179779053,,0.9248160123825072,,sv
+195,16,Person 1,"Returning to the topic of the article, I believe that allowing a limited number of individuals in is a positive approach, rather than admitting everyone.","('sv',)",2.2995927333831787,,0.5857491493225098,,sv
+195,17,Person 2,It is truly heartbreaking to see innocent Christians suffering at the hands of such brutal extremists.,"('sv',)",3.764694213867188,,1.7719215154647827,,sv
+195,18,Person 1,"I believe it's unlikely that they would consider religion as a factor. After all, this is Germany we're talking about, not a southern American state, haha!","('sv',)",2.343900442123413,,1.3341717720031738,,sv
+195,19,Person 2,"If they are genuinely concerned about terrorism, they should take appropriate actions.","('sv',)",2.367630243301392,,0.9746246337890624,,sv
+195,20,Person 1,It has been a wonderful conversation. Take care and goodbye!,"('fc',)",0.8814769387245178,,0.2474013119935989,,fc
+195,21,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+247,0,Person 1,How do you feel regarding her passing away?,"('qo',)",1.451588153839111,,1.0767549276351929,,qo
+247,1,Person 2,I believe she experienced a truly fulfilling and rich life.,"('sv',)",2.982043027877808,,0.3572185933589935,,sv
+247,2,Person 1,"Oh, by the way, had you come across any information about her prior to reading this article?","('qy',)",1.0005437135696411,,0.5848483443260193,,qy
+247,3,Person 2,"I was just a very young child during the Clinton administration, so I didn't have a clear understanding of her role or abilities as a politician at that time.","('sd',)",2.2812345027923584,,1.2405449151992798,,sd
+247,4,Person 1,"I recall her presence during the Elian Gonzales news events back in those days, and it brings back memories.","('sd',)",2.375516414642334,,0.8708236813545227,,sd
+247,5,Person 2,"Ah, I had totally let that young person slip my mind! I'm curious to know what they might be doing now.","('sd',)",2.6649930477142334,,1.036365032196045,,sd
+247,6,Person 1,"I believe he might be residing in Cuba now, though I'm not entirely certain.","('sd',)",2.1143674850463867,,0.9382965564727784,,sd
+247,7,Person 2,Have you ever encountered or been through any experiences related to Parkinson's disease?,"('qy',)",1.2778654098510742,,0.9582338929176332,,qy
+247,8,Person 1,"Thankfully, I haven't experienced that. How about you?","('qo',)",1.329973578453064,,0.6708523035049438,,qo
+247,9,Person 2,"I'm afraid I don't have personal experience with it, and my knowledge on the subject is quite limited.","('sd',)",1.549673318862915,,1.2259089946746826,,sd
+247,10,Person 1,I understand that you may be experiencing memory loss.,"('qy^d',)",1.965708374977112,,1.1855894327163696,,qy
+247,11,Person 2,Is that a part of the experience? Does it also cause your hands to tremble?,"('qy',)",1.845209002494812,,1.332198977470398,,qy
+247,12,Person 1,"Yes, I can understand how that might occur as well.","('aa',)",2.1663970947265625,,0.9035882353782654,,aa
+247,13,Person 2,Do you believe that we might see another woman taking on the role of attorney general in the not-so-distant future?,"('qy',)",1.536859393119812,,0.8009404540061951,,qy
+247,14,Person 1,"It's highly probable that when the first woman achieves success, it paves the way for the upcoming generation of females. What are your thoughts on this?","('qo',)",1.8464672565460205,,0.4468618333339691,,qo
+247,15,Person 2,"I believe it's quite possible, but I'm not certain about who it could be.","('sv',)",1.869271278381348,,0.8457737565040588,,sv
+247,16,Person 1,"To be completely honest, I must admit that I don't have much knowledge about politics.","('sd',)",1.6465955972671509,,1.3012182712554932,,sd
+247,17,Person 2,"I observe them with a gentle curiosity. However, it can become quite disheartening after some time. May I ask if you participate in voting?","('qo',)",1.866064190864563,,1.2147722244262695,,qo
+247,18,Person 1,"Yes, I certainly do vote. Given the current challenges in the White House, I feel even more inclined to exercise my voting rights now.","('aa', 'sd')",2.296830415725708,,0.7171372175216675,,aa
+247,19,Person 2,"Indeed, next year seems like it will be quite eventful. I appreciate our conversation! Farewell!","('fc',)",1.1736366748809814,,0.4215626418590545,,fc
+247,20,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+139,0,Person 1,I'm glad they considered the well-being of the children and chose to wait until they were over 18 before ending their marriage.,"('sd',)",2.8319170475006104,,0.4825998842716217,,sd
+139,1,Person 2,"Indeed, it is quite uncommon for individuals to engage in such actions.","('sv',)",2.356658935546875,,1.2992538213729858,,sv
+139,2,Person 1,"Indeed, it is quite uncommon to come across long-lasting marriages these days.","('sv',)",2.103463888168335,,0.8183413147926331,,sv
+139,3,Person 2,What do you believe could be the reason for that?,"('qw',)",1.405437707901001,,1.00065279006958,,qw
+139,4,Person 1,Individuals often believe that each day will unfold like a fairy tale.,"('sv',)",2.3288111686706543,,0.9429842233657836,,sv
+139,5,Person 2,"I understand that it may not be realistic to expect a perfect fairy tale life, as nobody is flawless and capable of providing that.","('sv',)",1.992374062538147,,1.1525545120239258,,sv
+139,6,Person 1,"During the journey of marriage, there may be days when you might feel less enthusiastic about being married.","('sv',)",2.020927667617798,,1.170255422592163,,sv
+139,7,Person 2,"It is important for you to take some time to reflect on your feelings and allow your mind to clear. If, after giving yourself that space, you still feel the same way, it would be a good idea to have an open and honest conversation with your spouse.","('sv',)",2.36753511428833,,0.7798853516578674,,sv
+139,8,Person 1,"I understand that marriage can be challenging, as I myself got married at the young age of 19 and have been in this journey for 18 years now.","('sd',)",2.213534355163574,,0.9721423983573914,,sd
+139,9,Person 2,"You have a truly unique and wonderful marriage, which is quite rare these days.","('sv',)",1.810006618499756,,0.3788540959358215,,sv
+139,10,Person 1,"Thank you, my grandmother shared her wisdom with me, reminding me that it's okay not to be happy every day.","('sd',)",2.2161242961883545,,0.3735539019107818,,sd
+139,11,Person 2,It's truly a blessing to have had a wise grandmother in your life.,"('sv',)",2.592731714248657,,0.3292328417301178,,sv
+139,12,Person 1,May I kindly inquire about your marital status?,"('qy',)",0.6331804394721985,,0.5517857074737549,,qy
+139,13,Person 2,It won't be long now.,"('sd',)",1.3854684829711914,,1.013089299201965,,sd
+139,14,Person 1,I am truly delighted for you! Congratulations!,"('sd',)",1.175018548965454,,0.0172134116291999,,sd
+139,15,Person 2,Thank you so much!,"('ft',)",0.8775905966758728,,0.13463094830513,,ft
+139,16,Person 1,I can't help but wonder if the pressures of being in Hollywood might have had an impact on their marriage.,(),2.463080883026123,,1.0856246948242188,,none
+139,17,Person 2,I feel that Hollywood is predominantly occupied by unique and unconventional individuals.,"('sv',)",2.0925233364105225,,0.8764137625694275,,sv
+139,18,Person 1,I used to believe that Hollywood has a tendency to make people seem unusual.,"('sv',)",1.695075511932373,,1.2976497411727903,,sv
+139,19,Person 2,I believe it could be a combination of both aspects.,"('sv',)",1.9520108699798584,,0.4893419444561004,,sv
+139,20,Person 1,"I understand and empathize with your perspective. I am aware of the daughter's identity in the story, but I share your uncertainty regarding her father.","('aa',)",2.736815929412842,,1.0762017965316772,,aa
+139,21,Person 2,I wonder why there wasn't much discussion about him.,"('qy^d',)",1.859816312789917,,1.1821173429489136,,qy
+139,22,Person 1,Do you believe that money has a positive or negative impact on marital relationships?,"('qy',)",1.3722872734069824,,0.975277841091156,,qy
+139,23,Person 2,"It truly causes pain, to be honest.","('sv',)",3.3425381183624268,,1.872868895530701,,sv
+139,24,Person 1,I can truly understand and empathize with your perspective.,"('sd',)",2.65096402168274,,0.7900276184082031,,sd
+139,25,Person 2,"It has been a wonderful experience, my dear brother. Farewell.","('sd',)",1.4786485433578491,,0.546660304069519,,sd
+139,26,Person 1,You as well! Farewell.,"('fc',)",1.0498141050338743,,0.6021980047225952,,fc
+359,0,Person 1,What were your thoughts on this?,"('qo',)",0.6627200245857239,,0.8581427335739136,,qo
+359,1,Person 2,"It truly breaks my heart whenever I hear about such tragic shootings. It seems that often, the person behind the gun is someone who is struggling with anger or emotional instability and, unfortunately, directs that pain towards others. It's just so difficult to comprehend. What are your thoughts on this?","('qo',)",3.1560864448547363,,1.6042031049728394,,qo
+359,2,Person 1,It seems like the world is experiencing more challenges lately.,"('sv',)",2.1403963565826416,,1.5055983066558838,,sv
+359,3,Person 2,Certainly experiencing increased instability,"('+',)",2.182755470275879,,1.787813663482666,,+
+359,4,Person 1,Perhaps it's the culture.,"('sv',)",2.224251508712769,,1.113930583000183,,sv
+359,5,Person 2,What are your thoughts and feelings about it?,"('qo',)",0.9115530848503112,,0.898230791091919,,qo
+359,6,Person 1,It's a problem that is distinctively prevalent in America.,"('sv',)",2.434001207351685,,1.4622036218643188,,sv
+359,7,Person 2,"I understand your perspective, and it's important to note that this phenomenon is not exclusive to one place. In fact, it occurs in various countries across Europe, Africa, and Asia. The weapons may vary, such as knives or machetes, but the underlying issue remains the same: an individual senselessly harming others without any clear motive.","('sv',)",2.2931056022644043,,0.9907433390617372,,sv
+359,8,Person 1,"Yes, it is quite unfortunate that in the first world, mass shootings seem to occur more frequently here than in other places. I suppose, since we strive to excel in everything, it's a sad reality that mass shootings are no exception.","('sv',)",2.573493242263794,,1.5638110637664795,,sv
+359,9,Person 2,"I understand that I may not have come across any data supporting that, but maybe you have some insights to share. In any case, it seems to be occurring quite frequently everywhere.",(),1.6900032758712769,,0.8955891132354736,,none
+359,10,Person 1,"Please take a moment to search on Google and verify the information for yourself. It's important to note that it's not solely about the guns, as other countries also possess firearms.","('ad',)",1.9042887687683103,,0.7931793928146362,,ad
+359,11,Person 2,"According to the information provided on http://worldpopulationreview.com/countries/mass-shootings-by-country/, it is important to note that the United States ranks 66th in the list of mass shootings per capita. This helps us to better understand the global context of this issue and empathize with the experiences of people in various countries.","('sv',)",2.39551854133606,,0.8755964040756226,,sv
+359,12,Person 1,"It's important to acknowledge that, while the United States ranks 66th in terms of mass shooting rates per capita, the country has unfortunately experienced the highest number of mass shootings in absolute terms. We must approach this issue with empathy and understanding in order to address it effectively.","('sv',)",2.522996664047241,,1.1630502939224243,,sv
+359,13,Person 2,"The most appropriate statistic to consider would be per capita. Nevertheless, it is evident that this issue affects numerous countries, not just the U.S., making it a worldwide concern.","('sv',)",2.4798898696899414,,1.22625732421875,,sv
+359,14,Person 1,"Indeed, it is a global issue, but thankfully, we hold the highest position in overall numbers. It is essential for us to excel in every aspect, as our exceptional nature calls for it.","('aa', 'sv')",2.1377110481262207,,0.4720266163349151,,aa
+359,15,Person 2,What were your thoughts about the man mentioned in the article?,"('qo',)",0.8869830965995789,,0.8491075038909912,,qo
+359,16,Person 1,A person who embodies the common characteristics of an American individual,"('sv',)",1.6538207530975342,,0.4889596402645111,,sv
+359,17,Person 2,Could you please explain further?,"('qy',)",0.7957710027694702,,0.876189649105072,,qy
+359,18,Person 1,The beautiful game of football,"('sv',)",1.3641176223754885,,0.4381759166717529,,sv
+359,19,Person 2,"I hope you have a wonderful day! Unfortunately, I must leave now. Goodbye!","('fc',)",0.8938007950782776,,0.530036985874176,,fc
+359,20,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+156,0,Person 1,"Lung cancer combined with air pollution can significantly shorten one's life, don't you think?","('qy',)",2.668040037155152,,1.692102074623108,,qy
+156,1,Person 2,"It's absolutely true, and quite frightening, isn't it?","('qy',)",2.8365728855133057,,1.956776142120361,,qy
+156,2,Person 1,"It's quite astonishing to think that even rocks and grass can pose a threat to our lives now, as they release a substance known as radon.","('sv',)",2.725384473800659,,1.399518609046936,,sv
+156,3,Person 2,Radon? Could it also be a type of green grass?,"('qy',)",1.5593552589416504,,0.6704078912734985,,qy
+156,4,Person 1,"No, it's actually a natural gas that originates from rocks and vegetation.",(),1.7458479404449463,,0.7643080353736877,,none
+156,5,Person 2,I can imagine that this must have a significantly distressing effect on the lungs as well.,"('ba',)",3.5115137100219727,,1.4995415210723877,,ba
+156,6,Person 1,"Yes, it is incredibly difficult when one is faced with lung cancer.","('aa',)",3.3108863830566406,,1.572508454322815,,aa
+156,7,Person 2,"Oh, I sincerely wish that we could focus more on caring for our environment.","('sv',)",3.1202008724212646,,1.2800252437591553,,sv
+156,8,Person 1,Nearly a million individuals tragically lose their lives each year due to the detrimental effects of air pollution.,"('sv',)",2.9861385822296143,,1.6072200536727903,,sv
+156,9,Person 2,Wow! It appears that you have a deep understanding of this subject. May I ask if you are an environmentalist?,"('qy',)",1.1072040796279907,,0.4100579023361206,,qy
+156,10,Person 1,"No, but I genuinely care about the environment.",(),1.9791512489318848,,0.6588447690010071,,none
+156,11,Person 2,"Ah, that's wonderful! I, too, am passionate about the environment, but I must admit that my knowledge on the subject isn't as extensive as yours.","('sd',)",2.032517671585083,,0.5028035044670105,,sd
+156,12,Person 1,"Did you know that if you are living with lung cancer and reside in an area with air pollution, there is a possibility that your life expectancy could be reduced to around 3 years? It's important to be aware of this connection and take care of yourself.","('qy',)",2.5624420642852783,,1.2446428537368774,,qy
+156,13,Person 2,"Oh my! That's quite a short amount of time, isn't it?","('qy',)",2.0441157817840576,,1.2813897132873535,,qy
+156,14,Person 1,"Absolutely, it is essential to remain well-informed as much as possible. After all, this concerns your well-being and health.","('aa', 'sv')",2.801483631134033,,0.8651229739189148,,aa
+156,15,Person 2,I completely understand and share your concern. It's essential for us to give this issue the attention it deserves. Could you please guide me on how I can protect myself from exposure to polluted air?,(),2.264920234680176,,0.7967981100082397,,none
+156,16,Person 1,"Please be mindful of staying away from second-hand smoke, radon, and refraining from smoking cigarettes or cigars for your well-being.","('ad',)",1.8597278594970703,,1.062025785446167,,ad
+156,17,Person 2,Are you proposing that it might not be a good idea for me to maintain a lawn?,"('qy',)",1.538505792617798,,1.1499927043914795,,qy
+156,18,Person 1,"Could you please help me understand the context of ""lawn""? I'd be more than happy to assist you with any information or discussion related to it.","('qy',)",1.44319486618042,,0.8448973894119263,,qy
+156,19,Person 2,"As radon originates from grasses,","('sd',)",1.4710519313812256,,0.9035547971725464,,sd
+156,20,Person 1,"To be more precise, it is the soil in which the grass grows that is being referred to. However, in response to your inquiry, it is advisable to simply minimize your contact with such elements for your well-being.",(),1.874255657196045,,0.98716402053833,,none
+156,21,Person 2,"Alright then, thank you for the heads up. Our conversation was truly enlightening and filled with empathy.",(),1.3373277187347412,,0.5061503052711487,,none
+156,22,Person 1,"Please don't go just yet, as I have a lot more to share and discuss with you regarding this subject.",(),1.3749566078186035,,0.9377974271774292,,none
+156,23,Person 2,"Alright, I'm here to listen attentively and with empathy.",(),1.5016868114471436,,0.7618948817253113,,none
+156,24,Person 1,"This topic holds great significance, so much so that the American Health Institute has taken the compassionate step of issuing health advisories concerning it.","('sd',)",2.254877805709839,,0.8740924596786499,,sd
+156,25,Person 2,"Wow, it's truly impressive how knowledgeable you are in all these areas!","('ba',)",2.2352099418640137,,0.2099586427211761,,ba
+156,26,Person 1,"I devote a significant amount of time to studying. Interestingly, according to the CDC, lung cancer is identified as the primary cause of cancer-related fatalities.","('sd',)",2.125645875930786,,0.9302990436553956,,sd
+156,27,Person 2,Is it truly more severe than skin cancer?,"('qy',)",1.87744414806366,,1.337433099746704,,qy
+156,28,Person 1,"Absolutely, I completely understand.",(),2.290457010269165,,0.8660558462142944,,none
+156,29,Person 2,I completely understand how one might have believed that skin was the primary cause,"('sd',)",2.8410022258758545,,1.635556936264038,,sd
+156,30,Person 1,"Lung cancer, unfortunately, holds the position of being the second leading cause of fatalities among both men and women.","('sd',)",2.382124662399292,,1.4175416231155396,,sd
+156,31,Person 2,This is truly insightful. I appreciate all of these suggestions and will make an effort to read more.,"('fc',)",1.6875042915344238,,0.3669521510601043,,fc
+156,32,Person 1,"Whenever you have some free time, kindly take a moment to explore the Center for Disease Control website.","('ad',)",1.7109466791152954,,0.7166638374328613,,ad
+156,33,Person 2,I will make sure to do that as soon as possible.,"('sd',)",1.6824018955230713,,0.5941070914268494,,sd
+156,34,Person 1,"If you happen to be a smoker, it might be best to reconsider traveling to California, as it may not be the most accommodating environment for your needs.","('sv',)",2.0191118717193604,,1.1887964010238647,,sv
+156,35,Person 2,Could you please help me understand the reason behind that?,"('qy',)",1.2272861003875732,,0.974239945411682,,qy
+156,36,Person 1,"The air quality outside is quite concerning, as research has shown that it poses significant health risks for both individuals with cancer and those without.","('sd',)",2.834880113601685,,1.609406590461731,,sd
+156,37,Person 2,"It might be better to avoid visiting altogether. However, I should mention that I don't smoke.","('sd',)",1.4230971336364746,,0.8702914714813232,,sd
+156,38,Person 1,That's great! It's important to recognize and address unhealthy habits.,"('ba',)",2.496425151824951,,0.3885095715522766,,ba
+156,39,Person 2,"I remember when I was 17, I accidentally dropped it.","('sd',)",1.8590682744979856,,1.3955134153366089,,sd
+156,40,Person 1,"That's wonderful, I'm genuinely proud of you. I wouldn't want to keep you for too long, as I might be talking a bit too much. Hopefully, we'll have the chance to chat again in the future. Farewell!","('fc',)",1.2654882669448853,,0.3850012719631195,,fc
+156,41,Person 2,"My friend, let's continue our conversation. You don't have to leave just yet.","('fc',)",0.9383127689361572,,0.7114229798316956,,fc
+156,42,Person 1,"Of course, I understand.","('ba',)",1.998630404472351,,0.9896700978279114,,ba
+156,43,Person 2,"I understand, take care and goodbye! 😊","('fc',)",0.7509385943412781,,0.5317312479019165,,fc
+156,44,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+342,0,Person 1,The Kenyan people are expressing a preference for limiting the number of individuals entering their country.,"('sd',)",2.651693820953369,,1.0361093282699585,,sd
+342,1,Person 2,How do you feel about Kenya's decision to deport that official?,"('qo',)",1.774034023284912,,1.1877325773239136,,qo
+342,2,Person 1,I believe that the choice made was a considerate and thoughtful one.,"('sv',)",2.3035521507263184,,0.4029652774333954,,sv
+342,3,Person 2,What might have led you to believe that it was a good decision?,"('qw',)",1.610888957977295,,0.7276991605758667,,qw
+342,4,Person 1,"I believe it would be beneficial for Kenya, as well as for all countries, to prioritize the well-being and needs of their own citizens.","('sv',)",2.705578088760376,,0.4782632291316986,,sv
+342,5,Person 2,"However, with 1,000 troops stationed in Sudan, their attention may not be entirely concentrated on their own nation.","('sd',)",2.2703678607940674,,1.2322638034820557,,sd
+342,6,Person 1,I understand that it may not be the most intelligent idea.,"('sd',)",2.098884105682373,,1.3235191106796265,,sd
+342,7,Person 2,"The opposition member, who was part of a group striving for governmental change, was tragically deported, ultimately leading to his untimely demise.","('sv',)",3.080497026443481,,1.4156324863433838,,sv
+342,8,Person 1,"Great, one fewer African",(),2.3155276775360107,,0.6927376389503479,,none
+342,9,Person 2,"May I know your cultural background, if you don't mind sharing?","('qy',)",0.897901713848114,,0.5001693367958069,,qy
+342,10,Person 1,African,"('sd',)",0.9319233298301696,,1.1801551580429075,,sd
+342,11,Person 2,Do you have negative feelings towards Africans?,"('qy',)",1.289705514907837,,1.257076859474182,,qy
+342,12,Person 1,"Believe me, I have a deep understanding of my own community.","('sd',)",2.398900270462036,,0.6362526416778564,,sd
+342,13,Person 2,"You reside in America, so it's quite possible that you may not be familiar with them.","('qy^d',)",1.6518118381500244,,1.0159424543380735,,qy
+342,14,Person 1,"When I was 22 years old, I arrived here from my home in the Ivory Coast, seeking new experiences and opportunities.","('sd',)",1.8841859102249143,,0.5497950315475464,,sd
+342,15,Person 2,What makes you feel uncomfortable about Africans? I haven't had the chance to visit the continent myself.,"('qo',)",1.55381441116333,,1.025598168373108,,qo
+342,16,Person 1,Would you prefer if America adopted certain aspects of African culture and lifestyle?,"('qo',)",1.5717895030975342,,0.8405911326408386,,qo
+342,17,Person 2,I have never had the opportunity to visit or learn much about Africa.,"('sd',)",1.828669548034668,,1.147492289543152,,sd
+342,18,Person 1,"I understand your perspective. Do you believe that African society, economics, and values are worth emulating?","('qy',)",1.3552753925323486,,0.5810155868530273,,qy
+342,19,Person 2,"As I mentioned earlier, in order to truly understand the situation, I would need to either live there or visit the place. I cannot form an opinion solely based on the news, which often contains misinformation, and the constant commentary from the President on social media.","('sd',)",2.0542752742767334,,1.2586413621902466,,sd
+342,20,Person 1,"Presidents serve as symbolic leaders to provide comfort and a sense of agency to the general public, fostering the belief that individuals have a say in the decision-making processes that shape their lives.","('sv',)",2.4085352420806885,,0.6058838963508606,,sv
+342,21,Person 2,"Precisely. However, this person speaks as if they are in charge, when in reality, they don't have control over anything, haha.","('aa',)",1.992563009262085,,1.2099002599716189,,aa
+342,22,Person 1,"I'd like to share something personal with you. I actually voted for the current president, but my voting criteria is based on entertainment value, so I hope you won't hold it against me. I'm considering voting for him again, but I must admit, Biden has been quite entertaining lately, so my decision might change.","('sd', 'sv')",1.8211421966552728,,0.7778992056846619,,sd
+342,23,Person 2,"Why spend your valuable time voting? I can understand the desire to engage in other activities during voting time. After all, it may seem like presidents don't have much control over things, as the bankers appear to hold significant power.","('qh',)",2.224004983901977,,1.1193735599517822,,qh
+342,24,Person 1,"Indeed, it is accurate that we all face challenges, and yet, we continue to live in a state of unawareness, embracing life with empathy and understanding.","('aa',)",2.817989587783813,,1.164296269416809,,aa
+342,25,Person 2,"We often find ourselves in a state of denial, believing that our voices are being heard when, in reality, they may not be.","('sv',)",2.615636110305786,,1.4207146167755127,,sv
+342,26,Person 1,"That's the reason I decided to purchase a farm without any mortgage, as it allows me to feel more at ease and secure.","('sd',)",2.278993606567383,,0.4092543721199035,,sd
+342,27,Person 2,It has been a truly wonderful conversation. Farewell.,"('fc',)",1.3320207595825195,,0.4225242435932159,,fc
+342,28,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+410,0,Person 1,"It deeply touches my heart to witness the US ranking 45th, even below some African nations.","('sd',)",3.731599569320679,,1.7486090660095217,,sd
+410,1,Person 2,"Yes, but it's alright.",(),1.4264888763427734,,0.8789721727371216,,none
+410,2,Person 1,"It is essential to ensure that women receive equal pay, as it is unjust for them not to be compensated fairly.","('sv',)",3.047802448272705,,1.0904513597488403,,sv
+410,3,Person 2,Why not? They might be perceived as more vulnerable.,"('qh',)",2.5200088024139404,,1.314303994178772,,qh
+410,4,Person 1,"I understand that you may have a different perspective, but it seems that they might not be.","('sv',)",2.196471929550171,,1.1962323188781738,,sv
+410,5,Person 2,"Historically, women have generally been considered physically less strong, which has led them to rely on their intelligence and resourcefulness to navigate and achieve their goals in life.","('sv',)",2.134273052215576,,1.019421100616455,,sv
+410,6,Person 1,It seems like you might not have had the chance to read the article thoroughly. Could you please share one sentence that you remember from it?,"('qy',)",1.3380478620529177,,0.9050064086914062,,qy
+410,7,Person 2,"The topic revolved around the disparity in remuneration between women and men, emphasizing the need for equal pay.","('sd',)",2.2190544605255127,,0.8251043558120728,,sd
+410,8,Person 1,"In my initial statement, I had already mentioned that - kindly allow me to elaborate further.","('sd',)",1.117345690727234,,0.8500741124153137,,sd
+410,9,Person 2,Could you please clarify which aspect you'd like me to expand on? Is it regarding the notion that women may be deserving of lower pay?,"('qy',)",1.4527500867843628,,0.9572625160217284,,qy
+410,10,Person 1,"No, the article was actually referring to something else. It's not possible to make that connection.",(),1.8858450651168823,,1.109811544418335,,none
+410,11,Person 2,I've completed the task as requested. Is there anything else you'd like to talk about?,"('qy',)",0.8035547137260437,,0.6917946338653564,,qy
+410,12,Person 1,"The article encompassed a variety of topics, and although the specific title eludes me as I haven't had the chance to read it thoroughly, it was indeed comprehensive in nature.","('sd',)",1.7471895217895508,,0.62751305103302,,sd
+410,13,Person 2,"I understand your perspective, but I believe it's important to consider that women should be entitled to equal pay as their male counterparts.","('aa', 'sv')",2.451127290725708,,0.8678324222564697,,aa
+410,14,Person 1,"I understand that the purpose of the survey is for me to make a decision, and it's essential to focus on the core message of the article rather than expressing unrelated opinions that may not contribute to the discussion.","('sd', 'sv')",1.6684927940368652,,0.8103623390197754,,sd
+410,15,Person 2,"No, it's an empathetic conversation where I can share my feelings and opinions. Are you perhaps leaning towards a more authoritarian or controlling perspective?",(),1.829602718353272,,0.8217579126358032,,none
+410,16,Person 1,"I understand that you may not be aware of how your communication with others comes across. Some of your statements might be perceived as sexist and uninformed, which could lead people to assume that you may not have a job. It seems that you haven't referenced the content of the article in your comments. Instead, you've been focusing on the idea that women shouldn't have to pay, which some might find unreasonable. While everyone is entitled to their opinion, it's important to consider whether your views are backed by anything other than potentially uninformed remarks. So far, it doesn't seem to be the case.","('sv',)",2.046199083328247,,1.057661533355713,,sv
+410,17,Person 2,"I would love to hear your unique perspective on the article, as your opinion holds great value. Even if some may find it unconventional, it's important to respect and listen to differing viewpoints, as they contribute to a richer understanding and dialogue.","('sv',)",1.7589033842086792,,0.5699690580368042,,sv
+410,18,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+410,19,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+138,0,Person 1,I can understand how the article might evoke certain emotions in you. What are your thoughts and feelings about the content presented in it?,"('qo',)",1.549073338508606,,0.9378862977027892,,qo
+138,1,Person 2,It's truly unfortunate...I have always struggled to find support for the concept of divorce.,(),3.4172213077545166,,1.7939600944519043,,none
+138,2,Person 1,I can relate to that as well.,"('sd',)",2.465944528579712,,1.0269123315811155,,sd
+138,3,Person 2,I firmly hold the belief that there is always a feasible solution.,"('sd',)",1.848222017288208,,0.5789329409599304,,sd
+138,4,Person 1,It can only be successful if both parties are genuinely committed to putting in the effort to make it work.,"('sv',)",2.110013723373413,,0.6156516075134277,,sv
+138,5,Person 2,"Indeed, it seems that many individuals may not be open to taking that approach.","('aa', 'sv')",2.868300199508667,,1.5436869859695437,,aa
+138,6,Person 1,It is truly disheartening to hear that.,"('sv',)",3.802619457244873,,1.9736543893814087,,sv
+138,7,Person 2,Is it possible for you to consider divorce?,"('qy',)",1.21766996383667,,0.8904578685760498,,qy
+138,8,Person 1,I'm uncertain if I would ever desire that. How about you?,"('qo', 'sd')",1.38234281539917,,0.9322551488876344,,qo
+138,9,Person 2,I cannot envision myself engaging in that activity.,"('sd',)",2.55299973487854,,1.394647479057312,,sd
+138,10,Person 1,It's comforting to know that we share the same perspective on this matter.,"('sv',)",2.7635717391967773,,0.3792846500873565,,sv
+138,11,Person 2,"Indeed, it is essential for the institution to have a strong and reliable security system in place.","('aa',)",2.481552124023437,,0.7752760648727417,,aa
+138,12,Person 1,I wholeheartedly understand and stand by that.,"('sd',)",1.853404402732849,,0.5371307134628296,,sd
+138,13,Person 2,It was truly a pleasure conversing with you. Farewell.,"('fc',)",1.0742474794387815,,0.4588106572628021,,fc
+138,14,Person 1,"I understand that you may not be able to take 10 turns, my friend.","('qy^d',)",1.4941929578781128,,1.2157572507858276,,qy
+138,15,Person 2,I apologize... Is there anything you would like to contribute?,"('qy',)",0.8523829579353333,,0.8389649987220764,,qy
+138,16,Person 1,What are your thoughts on the possible steps we can take to ensure that such incidents don't happen again in our society?,"('qo',)",1.4823040962219238,,0.7519634962081909,,qo
+138,17,Person 2,It is important for individuals to be aware of the impact that certain experiences can have on the well-being and development of children.,"('sv',)",2.906881093978882,,0.9002541303634644,,sv
+138,18,Person 1,"Before entering into a marriage, it is essential to genuinely consider if you truly desire to share the rest of your life journey with that individual.","('sv',)",1.888795733451844,,0.6704645156860352,,sv
+138,19,Person 2,Absolutely accurate!,"('aa',)",1.5927802324295044,,0.5524024963378906,,aa
+138,20,Person 1,It was a pleasure conversing with you. Farewell.,"('fc',)",0.9690284729003906,,0.4563412964344024,,fc
+138,21,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+322,0,Person 1,How did you feel about this situation?,"('qo',)",1.1714943647384644,,1.1574946641921997,,qo
+322,1,Person 2,"The world can often feel like a vampire, draining our energy and emotions.","('sv',)",3.043785810470581,,1.5965145826339722,,sv
+322,2,Person 1,Could you please clarify what you're trying to convey?,"('qy',)",1.0612976551055908,,0.8645710945129395,,qy
+322,3,Person 2,"I understand that from the moment we are born until the day we pass away, the number of choices we have to shape our own destiny may significantly decrease.","('sv',)",2.522942304611206,,0.90836763381958,,sv
+322,4,Person 1,"I understand where you're coming from, and I believe that we have numerous opportunities each day to take charge of our own destiny.","('sv',)",2.3293774127960205,,0.6709482669830322,,sv
+322,5,Person 2,"While we are discussing significantly distinct time periods, I truly appreciate and respect your perspective on the matter.","('sd',)",1.5618548393249512,,0.7189743518829346,,sd
+322,6,Person 1,"Indeed, I am. I can understand how you might feel that one's options decrease as they age, and I appreciate your perspective on the matter. As for the man in the article, what are your thoughts about him?","('qo',)",2.213248014450073,,0.824752926826477,,qo
+322,7,Person 2,"Living in today's world often involves being shaped by societal expectations. Our opportunities and aspirations guide us towards a particular role in society, which we then become tied to due to the necessities of life. While there are exceptions, this is the truth for a majority of people. The individual mentioned in the article may have grown accustomed to facing challenges and criticisms, but it is still unjust to target him for the errors of others.","('sv',)",2.4703352451324463,,1.2260115146636963,,sv
+322,8,Person 1,"I understand that we may have differing perspectives on indoctrination. In the United States of America, we are indeed fortunate to have the freedom to choose our roles. I wonder if you might be referring to a different cultural context? In any case, my personal experience and that of those I know doesn't align with the concept of indoctrination, but I acknowledge that it could be different for you.","('qo',)",1.980527758598328,,0.7671718597412109,,qo
+322,9,Person 2,"I didn't imply that we don't have the freedom to make choices; rather, I expressed that our ability to explore options beyond those choices may become increasingly limited as we make more decisions. It seems that you might be interpreting this as a political statement, but that's not the intention. On a more empathetic note, how do you feel about the man mentioned in the article?","('qo',)",1.9995920658111568,,1.042647123336792,,qo
+322,10,Person 1,"It seems to me that the individual in question might be struggling with some personal issues, possibly related to intoxication. While I can understand that it might be difficult to feel empathy towards him, it's important to remember that he had a challenging upbringing. Although he has been responsible for his own actions since turning 18, it's possible that his past experiences have influenced the choices he's made. Ensuring that his documents were accurate and current was indeed his responsibility, and it's unfortunate that he chose to break the law on multiple occasions. What are your thoughts on this person?","('qo',)",2.761636257171631,,1.300178050994873,,qo
+322,11,Person 2,"You might find it challenging to contemplate abstract ideas, and I'm sorry for that. In your opinion, would it have been more beneficial for him to be deported at 18 rather than at 41?",(),2.1289262771606445,,1.3802651166915894,,none
+322,12,Person 1,"Indeed, that could be the case.","('aa',)",2.1030259132385254,,1.0383285284042358,,aa
+322,13,Person 2,Do you think it would also be fair for his children to face deportation?,"('qy',)",2.488020658493042,,1.2980048656463623,,qy
+322,14,Person 1,"I understand that you may not agree, but please consider the possibility that...",(),1.8363083600997925,,1.0863724946975708,,none
+322,15,Person 2,Is there any particular reason?,"('qy',)",0.83888179063797,,0.9317026138305664,,qy
+322,16,Person 1,They hold legal citizenship status.,"('sd',)",1.6832973957061768,,0.7675210237503052,,sd
+322,17,Person 2,Were there any assumptions made regarding the reasons for his past legal issues?,"('qy',)",1.032353758811951,,0.984274923801422,,qy
+322,18,Person 1,"Upon reading the article, it becomes evident that it clearly states the information. I hope this helps clarify things for you. Take care and have a great day!","('fc',)",1.6543956995010376,,0.5916197299957275,,fc
+322,19,Person 2,"It's important to use lowercase, my friend. Take care and goodbye!","('fc',)",0.949916422367096,,0.512753963470459,,fc
+476,0,Person 1,"Hello there, I hope you're doing well today. How are you feeling?","('fp', 'qo')",1.0389574766159058,,0.4928994476795196,,fp
+476,1,Person 2,I'm doing wonderfully! How did you feel about the material we read?,"('qo',)",0.8210006952285767,,0.388239711523056,,qo
+476,2,Person 1,"I believe it's quite disheartening to see that individuals often don't put in much effort to avoid wasting food, wouldn't you agree?","('qy',)",3.3741188049316406,,2.0431125164031982,,qy
+476,3,Person 2,"Indeed, it seems that many individuals may not give much thought to it.","('aa', 'sv')",2.717355251312256,,1.5877779722213743,,aa
+476,4,Person 1,"I understand that at times, I may be responsible for wasting food. Do you ever find yourself in a similar situation?","('qy',)",2.0134551525115967,,1.20353364944458,,qy
+476,5,Person 2,"I can relate to your experience, as it was only recently that I discovered the distinction between expiration and use-by dates.","('sd',)",2.088975667953491,,0.8447427749633789,,sd
+476,6,Person 1,Have you ever had the opportunity to shop at CostCo or BJ's?,"('qy',)",1.1111714839935305,,0.682457685470581,,qy
+476,7,Person 2,"I prefer shopping at Walmart and Aldi, as they align more with my preferences.","('sd',)",1.841816782951355,,0.6376729011535645,,sd
+476,8,Person 1,I absolutely adore Aldi's and Lidl. We were fortunate enough to have a few of them open up in our area recently.,"('sd',)",2.0572330951690674,,0.4676673114299774,,sd
+476,9,Person 2,"Oh, I've been really looking forward to shopping at Lidl, as I've heard such wonderful things about it!","('sd',)",2.185530424118042,,0.0150346271693706,,sd
+476,10,Person 1,"At times, I find myself purchasing an excess amount of food at CostCo, as the deals seem incredibly appealing. Unfortunately, this often leads to me discarding more food than I would prefer.","('sd',)",2.020289182662964,,1.3306654691696167,,sd
+476,11,Person 2,"I must admit, I do feel guilty when I purchase something on sale and then, unfortunately, don't get the chance to use it before it expires or goes bad.","('sd',)",2.369917869567871,,1.6195005178451538,,sd
+476,12,Person 1,It's quite astonishing to see some of the statistics from that article. It's surprising that a significant number of people don't perceive it as an issue.,"('sv',)",3.0518476963043213,,1.6167155504226685,,sv
+476,13,Person 2,"I've noticed an increase in advertisements on TV, which could potentially lead to greater awareness on the subject.","('sd',)",2.1072685718536377,,0.7070024013519287,,sd
+476,14,Person 1,"Oh, really? I haven't come across any yet. It would be wonderful if that's the case. I recall there's a company, the name escapes me at the moment, but a friend of mine gets her food from them. They sell food that's slightly past its prime but remains perfectly edible.",(),1.8756080865859983,,0.6678259968757629,,none
+476,15,Person 2,There is also an option available that offers individuals the opportunity to purchase less-than-perfect produce from stores.,"('sd',)",2.2168450355529785,,0.8998885154724121,,sd
+476,16,Person 1,Perhaps it's the same one. I should have a conversation with her regarding this matter.,(),1.8551753759384155,,0.8847099542617798,,none
+476,17,Person 2,"Oh, I see! That's a wonderful service, as it allows you to acquire them at a lower cost and also contributes to reducing waste.","('sd',)",2.3389432430267334,,0.3312804996967315,,sd
+476,18,Person 1,Do you happen to utilize it?,"('qy',)",0.9133597016334534,,0.545195996761322,,qy
+476,19,Person 2,"I haven't personally used it, but I've observed many YouTubers utilizing it quite frequently.","('sd',)",1.206454515457153,,0.7072412967681885,,sd
+476,20,Person 1,"I am optimistic that going through this article will inspire me to purchase fewer produce items at CostCo, even when they are on sale.","('sd',)",2.200160264968872,,0.230145663022995,,sd
+476,21,Person 2,"Yes, or perhaps you could consider freezing some, if possible.",(),1.694816827774048,,0.6402844190597534,,none
+476,22,Person 1,"If I had the luxury of a larger freezer, I would definitely consider doing that. Perhaps, for now, I could attempt to acquire just a couple of fruits at a time.","('sd',)",2.266789674758911,,0.734581708908081,,sd
+476,23,Person 2,"Indeed, that's a wonderful idea! It would certainly help you save money by avoiding payment for items you wouldn't consume.","('aa',)",2.2369606494903564,,0.2801014184951782,,aa
+476,24,Person 1,"If I truly desired a fruit, I could simply visit a nearby supermarket, which would be a more efficient option, don't you think?","('qo',)",2.0926191806793213,,0.6942659616470337,,qo
+476,25,Person 2,"Yes, I concur. It has been a delightful conversation!","('fc',)",1.483932375907898,,0.2975729405879974,,fc
+476,26,Person 1,I wasn't aware that numerous YouTubers frequently discuss this topic. Are you fond of watching a variety of food channels?,"('qy',)",1.0184773206710815,,0.6068289279937744,,qy
+476,27,Person 2,"Yes, some people do look for recipe ideas to explore new culinary possibilities.",(),2.004483222961426,,0.5703921318054199,,none
+476,28,Person 1,Just one more thing to mention. Do you feel that this article might encourage you to engage in more conversations with others about this topic?,"('qy',)",1.41369891166687,,0.5300319790840149,,qy
+476,29,Person 2,I believe it's essential to raise awareness about this issue and let people know how significant a problem it truly is.,"('sv',)",2.8988282680511475,,0.8015917539596558,,sv
+476,30,Person 1,I also enjoyed our conversation immensely. It was truly a great chat. Farewell for now.,"('fc',)",1.074697971343994,,0.432084172964096,,fc
+476,31,Person 2,Farewell!,(),0.8812380433082581,,0.7182402014732361,,none
+158,0,Person 1,I'd love to hear your thoughts and feelings about the article.,"('sd',)",1.3062089681625366,,0.6846631765365601,,sd
+158,1,Person 2,My overall feelings towards the article are quite neutral.,"('sv',)",1.230405569076538,,1.0871416330337524,,sv
+158,2,Person 1,Could you please help me understand the reason behind your statement?,"('qy',)",1.0059982538223269,,0.8870813250541687,,qy
+158,3,Person 2,"I can understand how the findings may not have been surprising, and it seems the study could have been more detailed.","('sv',)",2.269686222076416,,1.3746026754379272,,sv
+158,4,Person 1,"Oh, were you familiar with the topic beforehand?","('qy',)",0.6093586087226868,,0.6223901510238647,,qy
+158,5,Person 2,I understand how pollutants could potentially act as irritants and negatively impact individuals with preexisting lung conditions. What are your thoughts on the article?,"('qo',)",1.8300718069076536,,1.171389937400818,,qo
+158,6,Person 1,My heart goes out to all those individuals who are courageously battling lung cancer.,(),3.395524024963379,,1.1697572469711304,,none
+158,7,Person 2,What is it that evokes a sense of sadness for them in you?,"('qo',)",2.4640071392059326,,1.3177562952041626,,qo
+158,8,Person 1,"It is always challenging to handle such situations, but it's important to remember that empathy and understanding can make a difference.","('sv',)",2.9281580448150635,,0.768302857875824,,sv
+158,9,Person 2,Are you acquainted with someone who has experienced or is currently going through a battle with cancer?,"('qy',)",1.7665132284164429,,1.0082274675369265,,qy
+158,10,Person 1,"I may not have personal experience, but I have come across articles that share the stories of individuals living with it.","('sd',)",2.517797946929932,,0.8973707556724548,,sd
+158,11,Person 2,Do you experience a sense of empathy and connection with individuals who are battling cancer?,"('qy',)",1.91241466999054,,0.6744370460510254,,qy
+158,12,Person 1,"I don't exactly feel the same way, but I do have a sense of compassion for them.","('sd',)",2.735499143600464,,0.823204755783081,,sd
+158,13,Person 2,How would you feel upon realizing that your compassion might have unintentionally caused discomfort to some of these patients?,"('qo',)",2.04395604133606,,1.1793968677520752,,qo
+158,14,Person 1,I would sincerely consider altering my approach towards the individual.,"('sd',)",2.114043951034546,,0.9167752265930176,,sd
+158,15,Person 2,How might you consider altering your approach?,"('qw',)",1.0790894031524658,,0.5730920433998108,,qw
+158,16,Person 1,By refraining from experiencing sorrow for them once more,"('+',)",2.953481674194336,,1.4149430990219116,,+
+158,17,Person 2,Do you believe the study provided definitive results?,"('qy',)",0.895067036151886,,0.623214840888977,,qy
+158,18,Person 1,"No, unfortunately, it isn't.",(),1.5957183837890625,,1.3386105298995972,,none
+158,19,Person 2,What are your thoughts on how the study might be enhanced for better outcomes?,"('qw',)",1.2398622035980225,,0.5820351839065552,,qw
+158,20,Person 1,Would you consider delving deeper into research?,"('qy',)",0.9997608661651612,,0.6312126517295837,,qy
+158,21,Person 2,Do you have any specific recommendations for the research methodology? What might be an effective approach to explore the survival rates of lung cancer patients who have been exposed to pollution?,"('qy',)",1.307870388031006,,0.7595080733299255,,qy
+158,22,Person 1,I believe that gathering data from all hospitals and creating a comprehensive database for it would be highly beneficial.,"('sv',)",2.3641197681427,,0.4917819797992706,,sv
+158,23,Person 2,It seems like a beginning. Do you have a specific interest in this type of research?,"('qy',)",1.09637713432312,,0.4414834082126617,,qy
+158,24,Person 1,"Perhaps not at this moment, but there's a possibility in the not-too-distant future.","('ng',)",1.664247751235962,,0.8060091733932495,,ng
+158,25,Person 2,"May I kindly inquire, if it's not too much trouble, why not at this moment?","('qy',)",0.9427347779273988,,0.7318224906921387,,qy
+158,26,Person 1,I understand that I may not be fully prepared for the level of commitment required to invest in the research project.,"('sd',)",1.679527759552002,,1.1408499479293823,,sd
+158,27,Person 2,How do you feel about the unfortunate situation of individuals passing away in India due to air pollution?,"('qo',)",1.85810136795044,,1.2213691473007202,,qo
+158,28,Person 1,Feeling down and holding onto the hope that there might be something that can be done.,"('+',)",2.811870574951172,,0.7349929809570312,,+
+158,29,Person 2,How would your emotions be affected if you discovered that no possible solutions were available?,"('qo',)",1.9979053735733032,,1.2292932271957395,,qo
+158,30,Person 1,"Well, it seems like we've had a meaningful conversation. Take care and goodbye.","('fc',)",1.1631028652191162,,0.4393246173858642,,fc
+158,31,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+468,0,Person 1,How did the article resonate with you?,"('qw',)",1.1385498046875,,0.6239793300628662,,qw
+468,1,Person 2,I could truly empathize with the Jewish people and comprehend the reasons behind their anger. You,"('sd',)",3.2319979667663574,,1.0485976934432983,,sd
+468,2,Person 1,I can certainly understand the reasons behind their anger.,"('sd',)",2.8857438564300537,,1.4711297750473022,,sd
+468,3,Person 2,They might still be reflecting on the events that occurred in the past and the history.,"('sv',)",2.5434749126434326,,1.0024380683898926,,sv
+468,4,Person 1,"Indeed, many of them endured the hardships of Nazi Germany and possess firsthand knowledge and experience.",(),2.811948537826538,,0.9315178394317628,,none
+468,5,Person 2,Absolutely. I'm curious to know which presidential candidate has the support of the Jewish community in the forthcoming election.,"('aa',)",2.0938642024993896,,0.6794214844703674,,aa
+468,6,Person 1,It's highly probable that we'll find ourselves on the blue side.,"('sv',)",2.0539000034332275,,1.2965236902236938,,sv
+468,7,Person 2,I understand your perspective. Have you had the chance to meet or interact with any individuals from the Jewish community?,"('qy',)",1.3470271825790403,,0.615746259689331,,qy
+468,8,Person 1,"I'm familiar with a few, but not many. How about you?","('qo',)",0.8976917862892151,,0.6757133603096008,,qo
+468,9,Person 2,"I am not acquainted with anyone who could provide insight on this situation, but I truly wish I had someone to consult with about it.","('sd',)",2.2717630863189697,,1.2573341131210327,,sd
+468,10,Person 1,Do you hold a favorable view towards the present President?,"('qy',)",0.9597309827804564,,0.641046941280365,,qy
+468,11,Person 2,I personally find it difficult to align with his perspectives and his general demeanor. How about you?,"('qo',)",1.7423036098480225,,1.1490989923477173,,qo
+468,12,Person 1,I believe that he may not be considered a decent president by some standards.,"('sv',)",2.050769567489624,,1.4931447505950928,,sv
+468,13,Person 2,Have you considered any potential candidates for the upcoming election? I've personally been quite intrigued by Andrew Yang's ideas and perspectives.,"('qy',)",1.231351375579834,,0.506676435470581,,qy
+468,14,Person 1,I appreciate Yang due to the compassionate nature of his policies.,"('fc',)",1.966352820396424,,0.2993345260620117,,fc
+468,15,Person 2,"Indeed! The UBI is quite a positive aspect as well. However, returning to the current topic, I sincerely hope that the future holds brighter and more peaceful times for the Jewish community.","('sv',)",2.4503605365753174,,0.3282705843448639,,sv
+468,16,Person 1,"Indeed, the initial step involves working towards the impeachment of the current president in a timely manner.","('aa',)",2.037311792373657,,0.9238228797912598,,aa
+468,17,Person 2,"Fingers crossed, let's hope for the best!",(),1.6795684099197388,,0.3170877695083618,,none
+468,18,Person 1,I completely understand and agree with you!,"('aa',)",1.6493724584579468,,0.4154763519763946,,aa
+468,19,Person 2,It was truly a pleasure conversing with you! Here's to wishing a brighter and more promising future for all. Farewell!,"('fc',)",1.43091082572937,,0.1324340105056762,,fc
+468,20,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+213,0,Person 1,"It is quite unfortunate that scholars have the ability to connect articles in their personalized inboxes in ways that are relevant to them through their working means. However, as mTurk workers who work remotely, we sometimes find our means to relate being limited, and this is reflected in the message I received from this article.","('sv',)",2.722440004348755,,1.1388415098190308,,sv
+213,1,Person 2,Could you please clarify what you're trying to convey?,"('qy',)",1.0612976551055908,,0.8645710945129395,,qy
+213,2,Person 1,"I understand that when ordering through a produce app on my smartphone, especially since I work remotely online as a contractor, my personalized internet of things might create a situation where I am not aware of the farmer or the origin of the goods.","('sd',)",2.3197572231292725,,1.1095842123031616,,sd
+213,3,Person 2,"I understand your perspective, but could you please help me see the connection between this and the article?","('qy',)",1.3626469373703003,,0.9515231847763062,,qy
+213,4,Person 1,"It seems as though there are structures in our society that help maintain balance, and perhaps by becoming more integrated, we may have lost sight of these essential ladders. Could it be that they have somehow merged with the water supply, along with the protests? These ideas might help illuminate our understanding as we find ourselves on the edge, but the connection and its significance to us remain unclear.","('sv',)",2.409295082092285,,0.8655052185058594,,sv
+213,5,Person 2,"I understand that the situation with the child's horse was difficult, and it may have been necessary to take that action for the greater good.","('sd',)",3.254969358444214,,1.2499812841415403,,sd
+213,6,Person 1,"If you don't share any information from the article like that, then what is the purpose?","('qw',)",1.145959734916687,,1.0426816940307615,,qw
+213,7,Person 2,"I'm not entirely sure, but let's try this together. We can write brief sentences and exchange 10 responses with each other.","('sd',)",1.3668220043182373,,0.6720038652420044,,sd
+213,8,Person 1,"It would be more understandable if this were a discussion guide on how to effectively communicate with workers in various situations. However, it's important to consider the removal of the ladder that led to the spill in the first place.","('sv',)",2.596595048904419,,1.060409665107727,,sv
+213,9,Person 2,I believe that protests may not always be the most effective way to bring about change.,"('sv',)",2.184739589691162,,1.2121297121047974,,sv
+213,10,Person 1,"I'm having a bit of difficulty understanding your point and the article, and I feel quite lost at the moment.","('sd',)",1.577242374420166,,1.3973348140716553,,sd
+213,11,Person 2,"That's perfectly alright, as long as you continue to share your thoughts, we truly appreciate more input and responses.",(),1.4629755020141602,,0.4286671578884125,,none
+213,12,Person 1,"There is violence and various events occurring in the world, and I feel a strong desire to go out and make a positive impact.","('sd',)",2.6643755435943604,,0.9880635142326356,,sd
+213,13,Person 2,I yearn for a profound transformation in the world.,"('sd',)",2.712783098220825,,0.934632122516632,,sd
+213,14,Person 1,"Wouldn't that be quite peculiar, in your opinion?","('qy',)",1.838071703910828,,1.1511050462722778,,qy
+213,15,Person 2,"I understand, but it seems to be an improvement over the current situation.","('sv',)",2.0536720752716064,,0.8063250184059143,,sv
+213,16,Person 1,"I'm not sure about your perspective, but while I can embrace living in the moment, I would be hesitant to participate in a protest that might inadvertently endorse environmental pollution.",(),2.177675247192383,,1.1604130268096924,,none
+213,17,Person 2,"The environment may not hold much significance for me, and I find myself occasionally littering and tossing the plastic rings from 6-pack cans into lakes and other bodies of water.","('sd',)",2.2620630264282227,,1.3963680267333984,,sd
+213,18,Person 1,I believe you're suggesting that a protest might inadvertently endorse pollution. Could you please clarify your point?,"('qy',)",1.6779189109802246,,1.1602623462677002,,qy
+213,19,Person 2,I kindly suggest refraining from participating in any protests.,(),1.4693620204925537,,1.0376256704330444,,none
+213,20,Person 1,"I understand that there might be some confusion regarding whether or not we should discuss the article. Is it correct to assume that you're suggesting we shouldn't talk about it? Additionally, I wanted to express my thoughts on the checks and balances present in society that usually prevent such occurrences. It seems quite peculiar to me that this situation has ""randomly"" transpired.",(),1.6166982650756836,,1.0112308263778689,,none
+213,21,Person 2,"I understand, but since we have already received our 10 responses, I believe it's time for us to say goodbye.","('fc',)",1.6625864505767822,,0.8117985725402832,,fc
+213,22,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+213,23,Person 2,"Input: You failed to meet the deadline, and now the project is delayed.
+
+Output: Unfortunately, the deadline wasn't met, which has led to a delay in the project.","('sd',)",1.5073953866958618,,1.0966458320617676,,sd
+213,24,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+304,0,Person 1,"Hello, I'd love to know your thoughts and impressions about the African people you encountered.","('fp',)",1.311139464378357,,0.4387591183185577,,fp
+304,1,Person 2,I believe it evokes a sense of sadness.,"('sv',)",3.2796194553375244,,1.5888235569000244,,sv
+304,2,Person 1,"Indeed, it seems that individuals from Africa often face significant challenges.","('aa', 'sv')",2.806336164474488,,1.396839261054993,,aa
+304,3,Person 2,Living in this world can be quite challenging at times.,"('sv',)",2.596867084503174,,1.5799188613891602,,sv
+304,4,Person 1,"Indeed, may God bless America, as well as all other places in the world. Amen.","('sv',)",1.6485106945037842,,0.4499246180057525,,sv
+304,5,Person 2,America is a truly wonderful place where people can find warmth and understanding.,"('sv',)",2.6473209857940674,,0.4832957684993744,,sv
+304,6,Person 1,The most wonderful,"('sd',)",1.5067877769470217,,0.1971345245838165,,sd
+304,7,Person 2,I can certainly understand and empathize with your perspective.,"('sd',)",2.424119472503662,,0.8877222537994385,,sd
+304,8,Person 1,We are unable to provide assistance to these animals.,"('sv',)",3.014004945755005,,1.403842568397522,,sv
+304,9,Person 2,I can understand how it might not be the case.,"('sd',)",2.4720325469970703,,1.3990496397018433,,sd
+304,10,Person 1,Have you observed that individuals from Africa may sometimes struggle to understand certain things?,"('qy',)",1.7068291902542114,,1.0639082193374634,,qy
+304,11,Person 2,I understand that it may have gone unnoticed.,(),2.463974952697754,,1.31245219707489,,none
+304,12,Person 1,We require a barrier to ensure the safety and well-being of our community from those who may pose a threat.,"('sv',)",2.352426767349243,,0.8615806102752686,,sv
+304,13,Person 2,A barrier connecting the United States and Africa?,"('qy',)",1.6934685707092283,,1.2637683153152466,,qy
+304,14,Person 1,"Absolutely, it is essential for us to safeguard the precious Atlantic Ocean.","('aa', 'sv')",2.4483468532562256,,0.7129966020584106,,aa
+304,15,Person 2,I can understand how you might feel that way.,"('sd',)",2.9404242038726807,,1.1908904314041138,,sd
+304,16,Person 1,"It is important for Trump to address the issue of criminal activities among different communities, including those from Africa and Mexico, in a compassionate and understanding manner.","('sv',)",2.624721050262451,,0.7232210040092468,,sv
+304,17,Person 2,I believe he has already done so.,"('sd',)",1.6590205430984497,,0.7637628316879272,,sd
+304,18,Person 1,insufficient,"('+',)",1.333245873451233,,1.7213395833969116,,+
+304,19,Person 2,It was truly a pleasure having this conversation with you. Take care and goodbye!,"('fc',)",0.8770880699157715,,0.2340428233146667,,fc
+304,20,Person 1,Farewell,(),0.6607922315597534,,0.694128155708313,,none
+132,0,Person 1,I truly empathize with the unfortunate outcome of his marriage.,"('sd',)",3.4212801456451416,,1.5952324867248535,,sd
+132,1,Person 2,"It was quite unfortunate. I experienced a tinge of sympathy for him, but it was somewhat diminished by the fact that he is wealthy.",(),3.212188482284546,,1.6664224863052368,,none
+132,2,Person 1,"While wealth doesn't necessarily equate to happiness, I do desire to experience financial abundance.","('sd',)",2.275398015975952,,0.48944753408432,,sd
+132,3,Person 2,"Indeed, that's accurate. Do you happen to be an admirer of Billy Bob Thornton or Angelina Jolie?","('qy',)",1.4759438037872314,,0.5850403308868408,,qy
+132,4,Person 1,"Not exactly, how about you?",(),0.8829370737075806,,0.815304160118103,,none
+132,5,Person 2,"I haven't had the chance to meet Angelina Jolie personally, but I have enjoyed watching her movies.","('sd',)",1.6490592956542969,,0.6909564733505249,,sd
+132,6,Person 1,"They are decent actors and actresses, showcasing their talents in their performances.","('sv',)",1.7048203945159912,,0.546105146408081,,sv
+132,7,Person 2,Do you believe that Angelina Jolie should be granted custody of the children?,"('qy',)",2.0205681324005127,,1.0587563514709473,,qy
+132,8,Person 1,"From what I've just read, I'm not entirely familiar with all the details, but I suppose that could be the case.","('sd',)",1.6870629787445068,,1.1037453413009644,,sd
+132,9,Person 2,Are you acquainted with any single mothers or parents in general?,"('qy',)",1.4152774810791016,,0.6807716488838196,,qy
+132,10,Person 1,"I understand the experiences of single mothers, as I am a parent myself. What about your own parenting journey?","('qo',)",2.2156178951263428,,0.8152543902397156,,qo
+132,11,Person 2,"I haven't had the experience of being a parent myself. However, as someone who is a parent, could you please share your thoughts on how it might feel to be a single parent?","('qy',)",1.945861339569092,,0.7734770774841309,,qy
+132,12,Person 1,It would undoubtedly be challenging. Having both parents in the house can indeed make things difficult.,"('sv',)",2.765413761138916,,1.545141100883484,,sv
+132,13,Person 2,"Indeed, I understand that it can be quite challenging for children to grow up with only one parent, in my perspective.","('aa',)",3.1159346103668213,,1.3897870779037476,,aa
+132,14,Person 1,My mother has done a wonderful job in nurturing and raising me and my siblings with love and care.,"('sd',)",2.4699528217315674,,0.479067713022232,,sd
+132,15,Person 2,That's wonderful! Your mother is truly a superhero.,"('sv',)",2.7440974712371826,,0.3025175034999847,,sv
+132,16,Person 1,How do you feel about the concept of marriage in today's world?,"('qo',)",1.3376336097717283,,0.9898561835289,,qo
+132,17,Person 2,"I understand that some may not see the necessity of a big wedding, as they might feel that being married is quite similar to being in a boyfriend/girlfriend relationship. However, it's important to acknowledge and respect the personal choices and significance that a wedding may hold for others.","('sv',)",2.447019338607788,,0.7855381369590759,,sv
+132,18,Person 1,"Eighteen years ago, I experienced the joy of getting married at the courthouse.","('sd',)",2.083924531936645,,0.7004609107971191,,sd
+132,19,Person 2,"At the age of 32, I find myself still unmarried. Is it possible that I might be considered too old?","('sd',)",1.76965594291687,,1.1335327625274658,,sd
+132,20,Person 1,"Age is just a number, and at 37, you still have plenty of time to find the right person for you.","('sv',)",1.7652651071548462,,0.3905037641525268,,sv
+132,21,Person 2,"Indeed, it has been a pleasure conversing with you. Farewell!","('fc',)",0.8959144949913025,,0.2874738276004791,,fc
+132,22,Person 1,"You take care as well, goodbye.","('fc',)",0.9799009561538696,,0.5375540256500244,,fc
+131,0,Person 1,How do you feel about the situation?,"('qo',)",1.1230778694152832,,1.0746690034866333,,qo
+131,1,Person 2,"I find it quite unusual that they chose to wear vials of each other's blood around their necks, haha!","('sv',)",2.162792205810547,,1.0960735082626345,,sv
+131,2,Person 1,"I must admit, I was quite taken aback by it.","('sd',)",2.7012176513671875,,1.4647458791732788,,sd
+131,3,Person 2,"I find her quite unique and intriguing. I'm not sure what it is, but there's something about her that gives me a slight eerie feeling.","('sd',)",2.279823064804077,,0.7759398818016052,,sd
+131,4,Person 1,Do you genuinely believe that?,"('qy',)",1.128370761871338,,1.0411475896835327,,qy
+131,5,Person 2,"Yes, but perhaps my opinion is influenced by my strong support for Brad and Jennifer, haha.","('aa',)",1.6218819618225098,,0.7176508903503418,,aa
+131,6,Person 1,"Ah, that makes sense now! It must be the reason behind your chat. 😊","('sv',)",1.7086365222930908,,0.6395195722579956,,sv
+131,7,Person 2,"I can't quite grasp the reason behind him leaving her for Angelina, but then again, I might not know the whole story, haha. It makes me curious if there's any possibility of Angelina and Billy Bob rekindling their relationship now.","('sd',)",2.223799228668213,,1.04493510723114,,sd
+131,8,Person 1,"To be honest, I find it difficult to envision that happening.","('sd',)",2.621052026748657,,1.5028400421142578,,sd
+131,9,Person 2,"It's uncertain, isn't it? I'm not quite sure what became of him. Regarding the article, do you believe it's possible that Brad was genuinely abusive towards their children, as it suggested?","('qy',)",2.1187903881073,,1.3694007396697998,,qy
+131,10,Person 1,I am making an effort to not accept that as the truth.,"('sd',)",2.3755929470062256,,0.9193991422653198,,sd
+131,11,Person 2,"I believe she may have been attempting to bring negative attention to him, although he has always appeared to be a good father in my eyes. However, it's difficult to know what truly happens behind closed doors.","('sv',)",2.401864528656006,,1.2485421895980835,,sv
+131,12,Person 1,"I sincerely hope that isn't the case, as I have a certain level of respect for him.","('sd',)",1.9803776741027832,,0.6437214612960815,,sd
+131,13,Person 2,"Indeed, he appears to be a good person. I have always had a fondness for him; perhaps their relationship was simply quite unhealthy for both of them.","('aa', 'sd')",2.1864500045776367,,0.6164828538894653,,aa
+131,14,Person 1,Do you truly believe there's a chance for them to reunite?,"('qy',)",2.0304834842681885,,0.6878772377967834,,qy
+131,15,Person 2,"I believe that anything is possible. It may depend on the nature of their previous relationship and their ability to forgive and move forward. However, I can also envision her gravitating towards a younger man at this point.","('sv',)",2.268171548843384,,0.8180819153785706,,sv
+131,16,Person 1,"I genuinely hope they do, as I find them to be a lovely pair.","('sd',)",2.354101181030273,,0.3513679206371307,,sd
+131,17,Person 2,"I'm curious about their reasoning behind having vials of blood, aren't you? Haha!","('qy',)",1.5837010145187378,,0.6716695427894592,,qy
+131,18,Person 1,It was truly a pleasure conversing with you! Take care and goodbye. 😊,"('fc',)",1.010534167289734,,0.3516929447650909,,fc
+131,19,Person 2,You as well! Farewell.,"('fc',)",1.0498141050338743,,0.6021980047225952,,fc
+36,0,Person 1,I hadn't previously thought about the zoo animals in countries such as Venezuela. It's truly heartbreaking.,"('sd',)",3.581369638442993,,1.668887495994568,,sd
+36,1,Person 2,"I can relate to that as well. We often consider the impacts of poverty and war on human lives, but we tend to overlook the effects on animals.","('sd',)",2.935655355453491,,1.1860195398330688,,sd
+36,2,Person 1,I felt a sense of concern when the discussion touched upon zoo owners being fined or punished. It's important to recognize that it may not necessarily be *their* fault.,"('aa',)",2.7916300296783447,,1.3121697902679443,,aa
+36,3,Person 2,"You've raised a great point. It's truly unfair for the owners who are unable to change the situation. After all, they definitely don't want their beloved animals to suffer or pass away!","('aa', 'sv')",3.3321452140808105,,1.4407068490982056,,aa
+36,4,Person 1,"I believe that the idea of embalming or preserving certain animals could be valuable for scientific purposes, but only if it is truly essential and the animals are euthanized in the most compassionate manner possible.","('sv',)",2.5676186084747314,,0.7595653533935547,,sv
+36,5,Person 2,I understand and agree that it might offer a more compassionate end compared to starvation or malnutrition. Would you say that you have a deep affection for animals?,"('aa',)",2.1567604541778564,,0.6736454963684082,,aa
+36,6,Person 1,Absolutely. How about you?,"('aa',)",0.8747100830078125,,0.6194806694984436,,aa
+36,7,Person 2,Definitely! I hold a graduate degree in Animal Behavior. 😊 May I ask if you have any pets?,"('qy',)",0.9448527097702026,,0.4678710401058197,,qy
+36,8,Person 1,How fascinating! I indeed have a dog and a cat as my companions.,"('sd',)",2.132772445678711,,0.5001102089881897,,sd
+36,9,Person 2,That's great! Are they able to get along well with each other?,"('qy',)",1.4734761714935305,,0.2034011930227279,,qy
+36,10,Person 1,"Yes, I'm grateful, haha. The Great Dane that I look after also manages to get along quite nicely.","('aa',)",1.861278295516968,,0.3540836274623871,,aa
+36,11,Person 2,"Wow, that's quite a big dog you're babysitting! Does your own dog also belong to a large breed?","('qy',)",1.674022197723389,,0.8936392664909363,,qy
+36,12,Person 1,"His weight is around 50-60 lbs, which places him in the mid-range category, right? He is a Catahoula breed.","('sd',)",1.2727539539337158,,0.5691690444946289,,sd
+36,13,Person 2,I just searched for Catahoulas on Google - they are such stunning dogs! It's amazing to discover new dog breeds even when I thought I was familiar with most of them. :),(),2.1973812580108643,,0.3162178993225097,,none
+36,14,Person 1,"Whenever I bring up his breed, I often receive amusing glances! He is truly quite a charming fellow.","('sd',)",1.735648512840271,,0.3081549108028412,,sd
+36,15,Person 2,How would you describe his temperament?,"('qw',)",0.73720782995224,,0.745723307132721,,qw
+36,16,Person 1,"I had the pleasure of adopting him at the age of 3.5, so I may not be able to accurately determine which of his traits are breed standard and which are a result of his previous owner or occupation. He used to be a part of a military family and ""worked"" on base, accompanying them to their workplace. I must say, he is truly wonderful. He possesses a calm demeanor and is emotionally sensitive. He is fantastic with children and does not exhibit any of the aggression or hyperactivity often associated with his breed.","('sd',)",1.8664242029190063,,0.5732778906822205,,sd
+36,17,Person 2,That sounds absolutely delightful! It seems like you were quite fortunate. Was there a specific service through which you adopted him?,"('qy',)",1.8033907413482664,,0.3071065247058868,,qy
+36,18,Person 1,"Yes, our local animal shelter was involved. The family had to relocate overseas, and unfortunately, the base at their new location did not permit dogs. They lovingly entrusted him to the shelter to ensure that his new home would be thoroughly vetted and confirmed as a safe environment. We were indeed fortunate!","('sd',)",2.428581953048706,,0.546698272228241,,sd
+36,19,Person 2,"That's wonderful to hear. I was curious because I have friends who adopted a dog that was in training to become a mobility assistant. Unfortunately, the dog didn't pass the final test as it got distracted by a rabbit and accidentally pulled someone out of their wheelchair. :)","('by',)",2.007231950759888,,0.5419853925704956,,by
+36,20,Person 1,"Oh my, those rabbits can be quite clever, can't they?","('qy',)",2.2371068000793457,,1.0352582931518557,,qy
+36,21,Person 2,Isn't that correct? And simply irresistible!,"('qh',)",1.9286211729049685,,0.3344084322452545,,qh
+36,22,Person 1,"I am pleasantly surprised that the dog made it to the final test, and I suppose it's quite fortunate that a rabbit happened to pass by.","('sd',)",2.3802483081817627,,0.3197729885578155,,sd
+36,23,Person 2,"Haha, indeed! That could have been quite an unexpected and uncomfortable surprise for the new owner.","('aa',)",2.646126508712769,,1.1977298259735107,,aa
+36,24,Person 1,"It might have posed a risk, but I'm confident that he's a wonderful pet!",(),2.158998250961304,,0.2346783578395843,,none
+36,25,Person 2,"He had the wonderful opportunity to learn about sorting recycling, which is quite characteristic of Seattle, and he even had the honor of being the ring bearer at their wedding.","('sd',)",2.097388982772827,,0.2836923003196716,,sd
+36,26,Person 1,How wonderful and valuable!,"('ba',)",2.3571324348449707,,0.0851936787366867,,ba
+36,27,Person 2,The sweetness was incredibly heartwarming.,"('sv',)",3.20949935913086,,0.4651486575603485,,sv
+36,28,Person 1,"Do you happen to have any pets of your own? Also, during your degree, did you concentrate on studying particular species?","('qy',)",0.9963586926460266,,0.5726031064987183,,qy
+36,29,Person 2,"I can understand your uncertainty about what transpired, but I do have cats – five of them, to be precise. It can be a little overwhelming at times. Oh, and I appreciate your inquiry! Indeed, I am a ""primatologist"" by profession, which involves observing monkeys in their natural habitat.","('sd',)",1.9464654922485352,,0.8313030004501343,,sd
+36,30,Person 1,"How fascinating! I was very close to pursuing equine studies myself. However, I ended up obtaining my AKC training certificate and a degree in elementary education, haha!","('sd',)",1.8289176225662231,,0.5309461355209351,,sd
+36,31,Person 2,"That's wonderful! I collaborate with some individuals who are involved in applied animal behavior, specifically with dogs. It's truly fascinating work. As for me, I also teach at a community college, so I can completely relate to your experiences! :)","('sd',)",2.070178747177124,,0.4043196737766266,,sd
+36,32,Person 1,"I believe we have reached our 15, but I truly enjoyed our delightful conversation!","('sd',)",1.414937138557434,,0.1779404282569885,,sd
+36,33,Person 2,Sending the same warm wishes to you! May your day be filled with love and happiness!,"('fc',)",1.2973710298538208,,0.1551477164030075,,fc
+36,34,Person 1,Farewell!,(),0.8812381029129028,,0.7182401418685913,,none
+36,35,Person 2,Farewell!,(),0.8812381029129028,,0.7182401418685913,,none
+118,0,Person 1,How do these governments manage to gather the funds required to cover such extensive damages?,"('qw',)",2.260018825531006,,1.474026441574097,,qw
+118,1,Person 2,I can understand how it might be difficult to know...,"('sd',)",2.754056692123413,,1.5300225019454956,,sd
+118,2,Person 1,"I can understand your perspective as well. This article mentions only two fatalities, and although it's heartbreaking for those who lost their loved ones and experienced property damage, it may not resonate as deeply as some other articles we've come across.","('aa',)",3.099652051925659,,1.5099645853042605,,aa
+118,3,Person 2,"Yes, it seems there were some warnings in place. They are indeed fortunate when compared to less developed countries.","('aa',)",2.447695732116699,,0.4953455030918121,,aa
+118,4,Person 1,"I'm not certain, but I believe the quake occurred shortly after midnight. However, living in the ring of fire likely equips individuals with the necessary infrastructure and mental preparedness to handle such events.","('no',)",2.127592802047729,,1.0217849016189575,,no
+118,5,Person 2,"Indeed, when adrenaline kicks in, they are able to find shelter.","('sd',)",3.136000156402588,,0.6503006219863892,,sd
+118,6,Person 1,Have you ever gone through the experience of an earthquake personally?,"('qy',)",1.317074179649353,,0.9831163883209229,,qy
+118,7,Person 2,"I haven't, actually.","('sd',)",1.4900857210159302,,1.1106148958206177,,sd
+118,8,Person 1,Would you happen to recall the year of the earthquake we read about? I'm not certain it was mentioned.,"('qy',)",1.2095153331756592,,0.978368043899536,,qy
+118,9,Person 2,"I must admit, I didn't read it thoroughly, but I did skim through it.","('sd',)",1.3332326412200928,,0.9994187951087952,,sd
+118,10,Person 1,"I can't help but wonder if the area has been able to recover and regain its functionality. The article mentioned the devastating impact of broken dams and the extensive damage, amounting to billions of dollars, inflicted upon roads and buildings.",(),3.2290635108947754,,1.408210039138794,,none
+118,11,Person 2,"It may not be a simple task to restore things back to their original state, as it could potentially take years to achieve.","('sv',)",2.5656754970550537,,1.4593684673309326,,sv
+118,12,Person 1,I can only imagine how it must feel. Have you ever personally encountered a natural disaster or know someone who has been through one?,"('qo',)",2.813384294509888,,1.3672727346420288,,qo
+118,13,Person 2,Experiencing flooding... a significant amount of it.,"('sv',)",2.8962562084198,,1.687009572982788,,sv
+118,14,Person 1,Has your family or property experienced any personal impact?,"('qy',)",1.9958343505859373,,1.2228306531906128,,qy
+118,15,Person 2,My property experienced some impact. We have the opportunity to share our goodbyes.,"('sd',)",2.112372636795044,,0.7832454442977905,,sd
+118,16,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+275,0,Person 1,Hi there! I was wondering about your thoughts on the article you read recently.,"('fp',)",0.8841068148612976,,0.558890163898468,,fp
+275,1,Person 2,I believe it is not fair to target individuals based on their religious beliefs.,"('sv',)",2.6113970279693604,,1.5449806451797483,,sv
+275,2,Person 1,It's quite unfortunate. They seem to be increasingly subjected to stereotypes.,"('sv',)",3.2630136013031006,,1.6645032167434692,,sv
+275,3,Person 2,What are your thoughts on possible solutions or actions that can be taken?,"('qo',)",1.1206176280975342,,0.6854819059371948,,qo
+275,4,Person 1,"I believe that there may not be an immediate solution to this situation. However, it is important to remain hopeful, as it seems that the younger generation is growing up with a greater sense of openness and understanding towards others. Patience may be key in this case.","('sv',)",2.2125072479248047,,0.7299184799194336,,sv
+275,5,Person 2,"Indeed, it all begins at home with compassionate and nurturing parenting.","('aa',)",2.297253131866455,,0.4423073530197143,,aa
+275,6,Person 1,I understand. Have you ever personally encountered a situation where you faced discrimination?,"('qy',)",1.2912774085998535,,1.0850104093551636,,qy
+275,7,Person 2,I can't help but feel that I've experienced this more than a few times. How about you?,"('qo',)",1.8090405464172363,,1.0706831216812134,,qo
+275,8,Person 1,"I have been fortunate enough to never experience that. However, I can imagine feeling quite upset if it were to happen.","('sd',)",2.847418069839477,,1.3069158792495728,,sd
+275,9,Person 2,"Yes, I believe I would be aware not to respond negatively, as that is likely the outcome they would desire from me.","('aa',)",2.1389031410217285,,0.950831413269043,,aa
+275,10,Person 1,It's really insightful and thoughtful of you to say that. What are your thoughts and feelings about Muslim individuals?,"('qo',)",1.6742347478866575,,0.5496289134025574,,qo
+275,11,Person 2,"I haven't personally had any experiences with them, so I'm unable to share my thoughts. How about you?","('qo',)",1.244318962097168,,0.9676194787025452,,qo
+275,12,Person 1,"I haven't had any negative experiences either. However, if I were to encounter one, I certainly wouldn't feel frightened or uneasy.","('sd',)",1.8271245956420896,,0.8624235391616821,,sd
+275,13,Person 2,I understand that it seems like the negative actions of a few individuals are spoiling the experience for the majority.,"('sv',)",2.730746030807495,,1.5618325471878052,,sv
+275,14,Person 1,"Absolutely, I can understand how that sentiment might apply to any race, as we all share similar experiences and emotions.","('aa', 'sd')",2.641354560852051,,0.8900444507598877,,aa
+275,15,Person 2,"Indeed, it is true that within every race, religion, or group, there are individuals who exhibit negative behaviors.","('sv',)",2.3343446254730225,,1.461325764656067,,sv
+275,16,Person 1,It is our sincere hope that a brighter and more promising future awaits the Muslim community.,"('sv',)",2.5480923652648926,,0.3624702394008636,,sv
+275,17,Person 2,I genuinely hope so as well.,"('sd',)",2.1918065547943115,,0.5311601758003235,,sd
+275,18,Person 1,I truly enjoyed our conversation! Take care and goodbye!,"('fc',)",0.7857092618942261,,0.2863762080669403,,fc
+275,19,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+267,0,Person 1,Hi there! I hope you're doing well. I was wondering about your thoughts on the article we discussed earlier.,"('fp',)",1.129530906677246,,0.5333994030952454,,fp
+267,1,Person 2,I'm curious about how they were able to send messages to everyone in Eastern Aleppo.,"('sd',)",2.7166576385498047,,0.8895110487937927,,sd
+267,2,Person 1,"I'm not entirely certain, but it could possibly be some kind of automated system.","('sd',)",1.981487512588501,,0.9543572664260864,,sd
+267,3,Person 2,I can understand that this situation might be quite complex. What are your thoughts and feelings about it?,"('qo',)",2.077970266342163,,1.1438868045806885,,qo
+267,4,Person 1,I can only imagine how incredibly difficult and distressing it must be to reside in a place that is constantly engulfed by the turmoil of war.,"('ba',)",3.708733558654785,,1.7830612659454346,,ba
+267,5,Person 2,We are truly fortunate to have the opportunity to reside in this wonderful place.,"('sd',)",1.904101848602295,,0.3835290968418121,,sd
+267,6,Person 1,"I share the same sentiment, my heart truly goes out to the Syrian people.","('sd',)",3.387359857559204,,0.913222074508667,,sd
+267,7,Person 2,What are your thoughts on what should transpire for them?,"('qo',)",1.1971280574798584,,0.673173189163208,,qo
+267,8,Person 1,I believe it would be beneficial for the US to maintain a respectful distance and avoid exacerbating the situation.,"('sv',)",2.382019281387329,,0.7796883583068848,,sv
+267,9,Person 2,"Indeed, we consistently strive to take on the role of global guardians, seeking to maintain peace and order worldwide.","('aa',)",1.979103326797485,,0.4420370161533355,,aa
+267,10,Person 1,"It may not be necessary for us to intervene, as Assad seems capable of managing the situation in his region effectively.","('sv',)",1.8229079246521,,0.8754458427429199,,sv
+267,11,Person 2,I wholeheartedly concur with that perspective.,"('sd',)",2.136401891708374,,0.5964983701705933,,sd
+267,12,Person 1,I understand that there is a possibility that the gas attacks might have been fabricated with the intention of tarnishing his reputation.,"('sd',)",2.141221761703491,,1.386906623840332,,sd
+267,13,Person 2,It appears that someone is certainly taking actions and creating an impression that it was Assad who was responsible.,"('sv',)",2.443354845046997,,1.5332564115524292,,sv
+267,14,Person 1,"There would have been absolutely no reason for him to do that, particularly at that moment in time. I'm quite doubtful about it.","('sv',)",2.406100988388061,,1.5066463947296145,,sv
+267,15,Person 2,"It seems to resemble the situation in Libya during Gaddafi's reign, once more.","('sv',)",2.079862356185913,,1.316421627998352,,sv
+267,16,Person 1,"Yes, precisely, it's quite unfortunate.","('aa',)",3.353187084197998,,1.7152438163757324,,aa
+267,17,Person 2,"Although it may remain a mystery as to who initiates such occurrences, we can still strive to understand and empathize with them.","('sv',)",2.342332363128662,,0.7690852880477905,,sv
+267,18,Person 1,"I believe a few of us might have a fairly decent understanding, haha!","('sv',)",1.64521324634552,,0.3522224426269531,,sv
+267,19,Person 2,Who might you believe it is?,"('qw',)",1.2717618942260742,,0.8933570981025696,,qw
+267,20,Person 1,"I believe that there might be influential individuals operating discreetly on a worldwide scale, shaping various aspects of our lives.","('sv',)",2.2527241706848145,,0.9941296577453612,,sv
+267,21,Person 2,"I understand and feel the same way, just didn't want to express it with laughter.",(),2.569295644760132,,1.1536474227905271,,none
+267,22,Person 1,"Indeed, it's amusing how these situations often end up reflecting back on them, isn't it?","('qy',)",2.28353214263916,,0.5066187381744385,,qy
+267,23,Person 2,I understand and acknowledge that there is indeed more to their contributions to the world than just this particular aspect.,(),2.3115508556365967,,0.5253556966781616,,none
+267,24,Person 1,"Absolutely, this has been the case for centuries, haha!","('aa',)",1.6865912675857544,,0.769897997379303,,aa
+267,25,Person 2,"It has been a truly wonderful conversation, my friend. Farewell.","('sd',)",1.213866114616394,,0.439264178276062,,sd
+267,26,Person 1,"You as well, my friend. Farewell.","('fc',)",1.099107265472412,,0.6197818517684937,,fc
+197,0,Person 1,It's surprising to discover that wind turbines are actually causing harm to eagles.,"('sv',)",2.6390414237976074,,1.6209112405776978,,sv
+197,1,Person 2,"Indeed, I was completely unaware that this was even a concern.","('sd',)",2.461960792541504,,1.5793092250823977,,sd
+197,2,Person 1,"It can be challenging to contemplate, as wind energy is a source of eco-friendly power.","('sv',)",2.4983913898468018,,1.2988637685775757,,sv
+197,3,Person 2,"Indeed, it appears that we are gradually moving towards a direction that may help in slowing down global warming. It's true that it can be challenging to achieve a complete victory in such matters, but every effort counts.","('aa', 'sv')",2.154569625854492,,0.5177363157272339,,aa
+197,4,Person 1,"Indeed, it's quite fascinating to see eagles and bats in comparison to all other creatures.","('sd',)",2.6911065578460693,,0.6469849944114685,,sd
+197,5,Person 2,"As I hold the belief that coal-fired energy sources contribute to the demise of birds, I feel deeply concerned about their well-being.","('sd',)",3.130336046218872,,1.555736422538757,,sd
+197,6,Person 1,I concur. I'm curious to know about the potential drawbacks of solar energy.,"('aa', 'sd')",1.7398686408996582,,0.8466878533363342,,aa
+197,7,Person 2,I wonder if there could be a way to create something that prevents them from approaching the windmills.,"('qy^d',)",2.163206100463867,,0.8115215301513672,,qy
+197,8,Person 1,"I'm not certain, but that does seem like a wonderful idea.","('sv',)",1.7481224536895752,,0.5042287111282349,,sv
+197,9,Person 2,"Indeed, it is essential to find an alternative solution, as coal-fired energy is likely to have more detrimental effects.","('aa',)",2.6383373737335205,,1.3795160055160522,,aa
+197,10,Person 1,I came across an article that shed light on the positive aspects of nuclear power.,"('sd',)",1.942372441291809,,0.4019360244274139,,sd
+197,11,Person 2,"Oh, really? I wasn't aware that there was a positive aspect to it.",(),2.1611759662628174,,1.1719624996185305,,none
+197,12,Person 1,"When performed correctly, it can be both clean and safe.","('sv',)",1.886688470840454,,0.4982019066810608,,sv
+197,13,Person 2,I find that truly fascinating!,"('ba',)",2.5229012966156006,,0.3040049374103546,,ba
+197,14,Person 1,"In your opinion, which power holds the greatest value?",(),1.218965768814087,,0.9151743054389954,,none
+197,15,Person 2,Is it possible for solar panels to generate an equivalent amount of energy?,"('qy',)",1.5437334775924685,,0.8421882390975952,,qy
+197,16,Person 1,You would require a significant number of solar panels.,"('sv',)",1.889427065849304,,0.9780065417289734,,sv
+197,17,Person 2,"In your opinion, what might be the most beneficial form of power? I came across an article mentioning that wind turbines could potentially be linked to cancer.",(),1.2900018692016602,,0.7125874161720276,,none
+197,18,Person 1,"I appreciate the benefits of natural gas, though I acknowledge its finite nature.","('sd',)",2.058976411819458,,0.6305114030838013,,sd
+197,19,Person 2,"Indeed, that is accurate.","('aa',)",1.844841718673706,,0.8298085927963257,,aa
+197,20,Person 1,Have you ever had the chance to witness a majestic wild eagle?,"('qy',)",1.5701136589050293,,0.6964156627655029,,qy
+197,21,Person 2,"Indeed, I have experienced the beauty of them as well. I once encountered one in a park in New Jersey. Have you had the chance to witness their charm too?","('qy',)",1.777705430984497,,0.5051246881484985,,qy
+197,22,Person 1,"Indeed, it's quite astonishing to witness their immense size, which can be rather intimidating.","('sd',)",2.973538875579834,,1.639994502067566,,sd
+197,23,Person 2,"Oh, I can understand how you feel! I've witnessed some large birds picking up baby squirrels near my home to eat them as well. It was quite a startling experience for me too.","('sd',)",3.126315116882324,,1.442907214164734,,sd
+197,24,Person 1,I can completely understand why you would feel freaked out as well.,"('sd',)",3.07615327835083,,1.4104440212249756,,sd
+197,25,Person 2,Perhaps they could consider designing smaller wind turbines to minimize the impact on bird populations and protect their well-being.,"('sv',)",2.3510231971740723,,0.6441438794136047,,sv
+197,26,Person 1,Perhaps consider altering the color or creating a sound that the birds may find unappealing.,"('sd',)",2.3304126262664795,,0.9214438199996948,,sd
+197,27,Person 2,"They are drawn to the wind it generates, as it assists them in gliding more effortlessly... it's akin to placing sugar on your countertop without anticipating the arrival of ants.","('sd',)",2.267671823501587,,0.8688890933990479,,sd
+197,28,Person 1,Are there any additional thoughts or perspectives you'd like to share regarding the article?,"('qo', 'qy')",0.9444830417633056,,0.8282216787338257,,qo
+197,29,Person 2,"I'm not sure, do you?","('qy',)",0.9963822960853576,,1.0165797472000122,,qy
+197,30,Person 1,It was truly a pleasure conversing with you! Take care and goodbye!,"('fc',)",0.8708481788635254,,0.240860104560852,,fc
+197,31,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+434,0,Person 1,How did you feel about it?,"('qo',)",1.0164865255355835,,1.0460115671157837,,qo
+434,1,Person 2,"I believe it's truly disheartening, and I can genuinely understand why individuals in the Middle East might harbor resentment towards the West.",(),3.5908117294311523,,1.8541580438613887,,none
+434,2,Person 1,"Yes, but it seems that we have certain advantages over them.","('aa',)",1.6728243827819824,,0.8423565030097961,,aa
+434,3,Person 2,It's truly heartbreaking to imagine having to move your deceased children on a blanket due to the devastating actions of another country.,"('by', 'sv')",3.817651510238648,,1.9201945066452024,,by
+434,4,Person 1,They are individuals involved in acts of terrorism.,(),1.988273859024048,,1.485313892364502,,none
+434,5,Person 2,"Only the terrorists and the Taliban can be considered as terrorists, not all the innocent civilians who unfortunately get caught in the crossfire.","('sv',)",2.4755208492279053,,1.398807168006897,,sv
+434,6,Person 1,The innocent civilians are unfortunately caught in the crossfire.,"('sv',)",3.0278332233428955,,1.4247015714645386,,sv
+434,7,Person 2,"Wouldn't it be nice if the situation were different, though?","('qy',)",1.962928056716919,,0.6602100729942322,,qy
+434,8,Person 1,"I understand the concern, but if we don't engage in military actions, it might affect the livelihood of people like little Timmy's dad, who works in the bomb-making industry, and could potentially have a negative impact on our economy.","('sv',)",3.018554925918579,,1.5946029424667358,,sv
+434,9,Person 2,I understand the direction this is taking... Perhaps we could consider conducting more tests rather than resorting to actions that could harm real individuals.,(),2.4378840923309326,,0.8150794506072998,,none
+434,10,Person 1,"It is essential for us to provide others with the means to maintain their population through the responsible use of defense tools, as this promotes the democratic values that the founding fathers envisioned.","('sv',)",2.6521451473236084,,0.5745707154273987,,sv
+434,11,Person 2,"Indeed, it is accurate to say that this endeavor aims to promote and expand our Western values and customs.","('aa', 'sv')",2.075361490249634,,0.4741920530796051,,aa
+434,12,Person 1,"It appears reasonable to me that if you choose to hear us out and adhere to our guidelines, we can avoid imposing penalties and resorting to destructive measures.","('sv',)",1.7887617349624634,,0.571394681930542,,sv
+434,13,Person 2,"Yes, we are the leading figures, and we genuinely care for others!","('aa',)",2.233812093734741,,0.2472639083862304,,aa
+434,14,Person 1,"America, heck yeah!",(),1.273352861404419,,0.7233353853225708,,none
+434,15,Person 2,"I sincerely hope that your plan does not lead to any negative consequences or feelings of animosity from others around the world, and that it does not result in any tragic events similar to 9/11.",(),1.8473808765411377,,0.7802860736846924,,none
+434,16,Person 1,"We may not have the power to prevent the unavoidable end that awaits us all, but as Prince wisely suggested, let's embrace the present moment and celebrate life as if it were 1999.",(),2.2859275341033936,,0.5563768148422241,,none
+434,17,Person 2,"You only live once, isn't that right?","('qy',)",1.7261223793029783,,0.4968109428882599,,qy
+434,18,Person 1,Make the most of every moment until the sight of mushroom clouds emerges on the horizon.,"('ad',)",1.7410781383514404,,0.616139829158783,,ad
+434,19,Person 2,"Wow, you truly possess unique qualities. Wishing you all the best as you navigate through the real world!","('sv',)",1.322859525680542,,0.2875122129917145,,sv
+434,20,Person 1,"I'm doing quite well, my dear brother. I have my farm, free from any mortgage or debt, and I'm blessed with a healthy livestock. I've also stocked up on ample ammunition. I feel prepared to face any potential financial depression, even one that could potentially bankrupt our beloved country.","('sd',)",2.2142043113708496,,0.5232477188110352,,sd
+434,21,Person 2,"I understand that you have to go now, so take care and see you later! 😊","('fc',)",0.7235941886901855,,0.4474893510341644,,fc
+434,22,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+499,0,Person 1,Hello there! I hope you're doing well. I'm really curious to know your thoughts and feelings about it.,(),1.612639307975769,,0.5602984428405762,,none
+499,1,Person 2,I believe it would be beneficial for everyone if there was a change in his leadership position.,"('sv',)",2.408421277999878,,0.6032102704048157,,sv
+499,2,Person 1,"Ah, are you referring to Putin?","('qy',)",1.1225402355194092,,1.112564206123352,,qy
+499,3,Person 2,"Indeed, the intimidating authoritarian leader","('aa',)",2.437772035598755,,1.8635292053222656,,aa
+499,4,Person 1,I can understand why you might feel that he seems to be trouble. What were your thoughts on the individual who experienced an overdose?,"('qo',)",2.3043372631073,,1.254342555999756,,qo
+499,5,Person 2,I believe it might have been a carefully planned attack.,"('sv',)",2.0439765453338623,,1.3456335067749023,,sv
+499,6,Person 1,"Oh, that could be a possibility. I hadn't considered that perspective. I initially assumed that he might have passed away due to excessive drinking.",(),2.5145719051361084,,1.1908270120620728,,none
+499,7,Person 2,"It wouldn't be surprising to see that Putin has taken numerous actions against people involved in trade, considering his past actions.","('sv',)",2.4169461727142334,,1.3272467851638794,,sv
+499,8,Person 1,"Yes, I agree with you. It wouldn't be surprising to me as well.","('aa',)",2.074860095977783,,0.6531022191047668,,aa
+499,9,Person 2,"There is a need for action to ensure that he no longer holds a position of power, in a compassionate and understanding manner.","('sv',)",2.705774068832397,,1.3131309747695925,,sv
+499,10,Person 1,"Yes, what are your thoughts on the best course of action?","('qo',)",1.0905206203460691,,0.7324942350387573,,qo
+499,11,Person 2,"An assassination is certainly not a means for him to relinquish power, and it seems that people in Russia are too fearful to oppose him.","('sv',)",2.480807304382324,,1.397590398788452,,sv
+499,12,Person 1,"I understand that his approval ratings have reached an all-time low, and it seems that the public in Russia is quite discontent with him.","('sv',)",2.5276525020599365,,1.4489823579788208,,sv
+499,13,Person 2,They should consider coming together for a revolution to replace him with a more compassionate leader.,"('ad',)",2.752854108810425,,0.8597630858421326,,ad
+499,14,Person 1,"Yes, perhaps that's true. It seems like someone there might need to take the initiative and arrange something, I suppose.","('aa',)",2.2826716899871826,,0.8422175645828247,,aa
+499,15,Person 2,The concern is that he might have them killed.,"('sv',)",2.722152709960937,,1.5464059114456177,,sv
+499,16,Person 1,"Yes, it seems likely. I suppose they might just be feeling trapped.","('aa',)",2.992029905319214,,1.353840947151184,,aa
+499,17,Person 2,"It's astonishing that even in 2019, there are still oppressive dictators in the world.","('sv',)",2.737956523895264,,1.6342573165893557,,sv
+499,18,Person 1,"Indeed, it appears to be quite antiquated.","('sd',)",2.370974063873291,,1.5400549173355105,,sd
+499,19,Person 2,We must gently let them go and continue on our journey.,"('sv',)",2.564375162124634,,0.6876012086868286,,sv
+499,20,Person 1,"Yes, regrettably","('aa',)",2.037339448928833,,1.848270297050476,,aa
+499,21,Person 2,It was a pleasure having this conversation with you. Take care and goodbye!,"('fc',)",0.7893498539924622,,0.2552855610847473,,fc
+499,22,Person 1,"You take care as well, goodbye.","('fc',)",0.9799008965492249,,0.5375540852546692,,fc
+358,0,Person 1,Hello,"('fp',)",0.5630092620849609,,0.7901804447174072,,fp
+358,1,Person 2,Hello! I was wondering about your thoughts on that article. How did you find it?,"('fp', 'qo')",0.8036835789680481,,0.5745481252670288,,fp
+358,2,Person 1,I believe he was experiencing a significant amount of depression.,"('sd',)",3.0074050426483154,,1.49256694316864,,sd
+358,3,Person 2,I would really appreciate it if I could understand the motive behind this.,(),2.324568033218384,,0.8662038445472717,,none
+358,4,Person 1,"Perhaps, the mystery will always remain with us.","('sd',)",2.0711257457733154,,0.9468024969100952,,sd
+358,5,Person 2,I truly empathize with their children at this moment.,"('sd',)",3.708479642868042,,1.3795803785324097,,sd
+358,6,Person 1,"I completely understand, as I feel the same way.","('sd',)",2.7891438007354736,,0.8250322937965393,,sd
+358,7,Person 2,They could greatly benefit from the support of therapists.,"('sv',)",2.953420877456665,,0.6284357905387878,,sv
+358,8,Person 1,That memory will be eternally etched in their minds.,(),2.916317939758301,,0.8665562868118286,,none
+358,9,Person 2,I can completely understand how the people who were stuck on the plane during this incident must have felt. I would be extremely overwhelmed and anxious in such a situation as well.,"('sd',)",3.682329177856445,,1.4876267910003662,,sd
+358,10,Person 1,"Absolutely, without a doubt.","('aa',)",2.024788856506348,,1.0569902658462524,,aa
+358,11,Person 2,"It's truly astonishing that in 2019, an incident like this could still occur at an airport.","('sv',)",2.9738552570343018,,1.573272943496704,,sv
+358,12,Person 1,"Yes, one would assume that someone might have intervened to stop him.","('aa',)",2.533719062805176,,1.1458072662353516,,aa
+358,13,Person 2,It would be beneficial to consider enhancing security measures and potentially implementing new laws to ensure a safer environment.,"('sv',)",2.316586494445801,,0.6022498607635498,,sv
+358,14,Person 1,"Yes, for instance, consider the woman who continually manages to board planes without being detected. It's quite intriguing how she consistently achieves this.","('sv',)",2.435698747634888,,0.8638335466384888,,sv
+358,15,Person 2,"I understand that this is a significant issue, and it's quite concerning that there might be others who would attempt to imitate it.","('sd',)",2.903183460235596,,1.7323647737503052,,sd
+358,16,Person 1,"Absolutely, without a doubt.","('aa',)",2.024788856506348,,1.0569902658462524,,aa
+358,17,Person 2,It's important to feel secure while strolling through airports.,"('sv',)",2.417419195175171,,0.6993756890296936,,sv
+358,18,Person 1,"Indeed, it is essential for them to meet the required standards.","('aa', 'sv')",2.264819860458374,,0.7631519436836243,,aa
+358,19,Person 2,I truly enjoyed our conversation together.,"('fc',)",1.4227678775787354,,0.3318943083286285,,fc
+358,20,Person 1,I also thoroughly enjoyed our conversation.,"('fc',)",1.3471022844314575,,0.2614641487598419,,fc
+358,21,Person 2,Farewell!,(),0.8812381029129028,,0.7182401418685913,,none
+358,22,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+439,0,Person 1,I was unaware that leprosy continues to exist in our world today.,"('sd',)",2.4897220134735107,,1.576890230178833,,sd
+439,1,Person 2,"I recall learning about its presence in other countries, but I wasn't aware that it still existed in America. I certainly didn't know that squirrels could carry it.","('sd',)",2.3489644527435303,,1.0909024477005005,,sd
+439,2,Person 1,"Have faith, Jesus will surely provide healing and comfort.","('sv',)",2.082977533340454,,0.7072117328643799,,sv
+439,3,Person 2,"I am grateful to God for Jesus, who takes care of his creation, especially humans. However, it is disheartening to see that other creations may not receive the same level of care and attention.","('sv',)",2.9958982467651367,,0.960135817527771,,sv
+439,4,Person 1,"If this is considered as taking care of us, I can only imagine how it would be if we weren't being taken care of.","('sd',)",3.2888119220733643,,1.558200478553772,,sd
+439,5,Person 2,"I apologize for any confusion earlier. To clarify, he is focusing on supporting his chosen community, which is the Western white civilization.","('fa',)",2.0158517360687256,,0.866817831993103,,fa
+439,6,Person 1,"My previous statement remains valid - it seems that many individuals from the white community are struggling with substance abuse, particularly heroin, and some are undergoing gender transition surgeries.","('aa',)",2.5702412128448486,,1.2510544061660769,,aa
+439,7,Person 2,"Haha, it's true that only about 1% of them are affected. On the bright side, at least they're making a conscious choice to participate, rather than involuntarily contracting something like squirrel leprosy!","('aa',)",2.723095655441284,,0.5377533435821533,,aa
+439,8,Person 1,"That might actually make the situation more challenging, haha! I believe the percentage of individuals struggling with addiction might be higher than 1%. As for transgender individuals, they could possibly represent around 1% of the population.","('sv',)",2.818582534790039,,1.3207989931106567,,sv
+439,9,Person 2,"I understand that it might be bothersome, but try not to let it affect you too much. It can only have an impact on you if you allow it to.",(),2.2428643703460693,,1.2597434520721436,,none
+439,10,Person 1,"I understand that some may not be as concerned about certain issues, as long as we are working towards making America great again.","('ba',)",2.3691751956939697,,0.7166168093681335,,ba
+439,11,Person 2,"It seems like you genuinely care, as you swiftly transitioned from discussing leprosy-infected squirrels to Jesus and the topic of circumcision.","('sv',)",1.8912739753723145,,0.7407217025756836,,sv
+439,12,Person 1,"I experience mental health challenges, and there was even a time when the FBI conducted a profile on me.","('sd',)",2.11023497581482,,1.3528907299041748,,sd
+439,13,Person 2,"Haha, that's great to hear! Thanks to the article, I've also learned the importance of maintaining a safe distance from armadillos.",(),1.6889100074768066,,0.3195973038673401,,none
+439,14,Person 1,"Please remember the prairie dogs, as they are carriers of the hantavirus.","('ad',)",1.85585367679596,,1.0289491415023804,,ad
+439,15,Person 2,Could you please enlighten me about the hantavirus?,"('qy',)",1.0622707605361938,,0.860933244228363,,qy
+439,16,Person 1,"It's a relative of Ebola, and I personally find viruses to be quite fascinating.","('sv',)",2.2876627445220947,,0.6982837915420532,,sv
+439,17,Person 2,"Do you imagine them attending cookouts together, with their virus parents proudly boasting about the incredible viruses they've grown up to be?","('qy',)",2.135695695877075,,0.9154372215270996,,qy
+439,18,Person 1,"I believe Ebola creates a fantastic rack of ribs, and Hunta might be feeling a bit envious.","('sv',)",2.3159072399139404,,0.8161115050315857,,sv
+439,19,Person 2,Hunta often speaks quite negatively about Ebola's ribs to their nephew Malaria...,(),2.256832838058472,,1.7480446100234983,,none
+439,20,Person 1,There is an ongoing struggle between the impacts of bubonic plague and polio.,"('sd',)",2.4904134273529053,,1.5092477798461914,,sd
+439,21,Person 2,Mumps seems to struggle with alcohol consumption and maintaining appropriate boundaries with his cousins' spouses.,"('sd',)",2.486301183700561,,1.272702693939209,,sd
+439,22,Person 1,"Yes, but they were aware that one cannot marry the flu; those girls may have been rather promiscuous.",(),2.3201162815093994,,1.398823857307434,,none
+439,23,Person 2,"They truly seem to be everywhere, and I can personally relate as I was unfortunately affected by the flu twice last year.","('sd',)",2.733598232269287,,1.4527329206466677,,sd
+439,24,Person 1,It was truly a pleasure conversing with you! Take care and goodbye!,"('fc',)",0.8708481788635254,,0.240860104560852,,fc
+439,25,Person 2,"I understand that you have to go now, so take care and see you later! 😊","('fc',)",0.7235942482948303,,0.4474891722202301,,fc
+203,0,Person 1,That simply evokes feelings of frustration within me.,"('sd',)",3.4018657207489014,,1.6773931980133057,,sd
+203,1,Person 2,I can relate to that as well.,"('sd',)",2.465944528579712,,1.026911973953247,,sd
+203,2,Person 1,We must put forth greater efforts to ensure the survival and well-being of these endangered species.,"('sv',)",2.6969242095947266,,0.7150784134864807,,sv
+203,3,Person 2,I believe it would be beneficial to provide financial support to countries in exchange for preserving their natural resources.,"('sv',)",2.50980544090271,,0.4883104264736175,,sv
+203,4,Person 1,It would be beneficial for them to explore alternative approaches to accomplish their tasks.,"('sv',)",2.530186176300049,,0.4550838768482208,,sv
+203,5,Person 2,"I cannot hold them accountable for their actions, as we have done the same in the past.","('sd',)",2.118834972381592,,1.6426984071731567,,sd
+203,6,Person 1,"In that province, orangutans are facing the threat of endangerment, which understandably evokes heightened emotions and concern among the people.","('sv',)",3.0130910873413086,,1.4973808526992798,,sv
+203,7,Person 2,I can completely understand how devastating it would be to lose orangutans.,"('sv',)",3.686147928237915,,1.6991658210754397,,sv
+203,8,Person 1,"It seems quite peculiar that they would consider draining and deforesting Sungai Putry, as it would inevitably lead to a heightened risk of fires. Their actions could certainly benefit from more empathy and understanding of the potential consequences.","('sv',)",2.701329469680786,,1.3077722787857056,,sv
+203,9,Person 2,Corporations significantly influence the environment.,"('sd',)",2.2064287662506104,,1.2336210012435913,,sd
+203,10,Person 1,"Indeed, it is often said that money holds significant power in our world. It has been considered the root of all evil by some, as it can enable individuals, not just large corporations, to carry out actions that may not always be in the best interest of others. Regrettably, money seems to be a crucial factor in many situations.","('sv',)",2.181751012802124,,1.4342265129089355,,sv
+203,11,Person 2,What are your thoughts on how we might be able to support them in ceasing this behavior?,"('qo',)",1.6687452793121338,,0.707317590713501,,qo
+203,12,Person 1,Consider imposing sanctions on the country.,"('ad',)",1.7153693437576294,,1.0601056814193726,,ad
+203,13,Person 2,That idea might indeed be effective.,"('sv',)",1.8358920812606807,,0.4623136818408966,,sv
+203,14,Person 1,What are your thoughts on the actions that could be taken to put an end to this situation?,"('qo',)",1.4791364669799805,,0.9165385961532592,,qo
+203,15,Person 2,I would gladly contribute financially to transform a significant portion of the forest into a national park.,"('sd',)",2.547096014022827,,0.7648425102233887,,sd
+203,16,Person 1,"That's genuinely a wonderful idea, thank you for sharing it!","('ft',)",1.3652057647705078,,-0.0673062652349472,,ft
+203,17,Person 2,"I believe that in Africa, for expansive wildlife reserves, they adopt such practices.","('sv',)",2.387481927871704,,0.8032913208007812,,sv
+203,18,Person 1,"Yes, that is indeed accurate.","('aa',)",1.788679122924805,,0.6859487295150757,,aa
+203,19,Person 2,Have you ever had the chance to witness an orangutan in a zoo setting?,"('qy',)",1.5419361591339111,,0.7704662084579468,,qy
+203,20,Person 1,"Not exactly, have you experienced it?","('qy',)",1.0520894527435305,,0.8848615884780884,,qy
+203,21,Person 2,"Indeed, they are quite amazing.","('aa',)",2.645395040512085,,0.4922073185443878,,aa
+203,22,Person 1,"I've had the wonderful experience of seeing lions at a zoo, but I would truly cherish the opportunity to witness an orangutan as well.","('sd',)",2.3612093925476074,,0.6062812805175781,,sd
+203,23,Person 2,I also share a deep fondness for elephants.,"('sd',)",1.8842267990112305,,0.4493215978145599,,sd
+203,24,Person 1,They possess a remarkable ability to remember things.,"('sd',)",2.191511869430542,,0.7037500143051147,,sd
+203,25,Person 2,Would you like to share any additional thoughts or perspectives regarding the article?,"('qy',)",1.0030949115753174,,0.791443943977356,,qy
+203,26,Person 1,"You don't really feel that way, do you?","('qy',)",1.5057401657104492,,1.201473355293274,,qy
+203,27,Person 2,"I truly enjoyed our conversation, and it was a pleasure chatting with you. Take care and goodbye!","('fc',)",1.0413738489151,,0.3611601293087005,,fc
+203,28,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+302,0,Person 1,Greetings with warmth and understanding,"('fp',)",0.9009530544281006,,0.2732639014720917,,fp
+302,1,Person 2,Hello there! How have you been feeling lately?,"('fp', 'qo')",0.7284907102584839,,0.4713639914989471,,fp
+302,2,Person 1,How did the article resonate with you?,"('qw',)",1.1385498046875,,0.6239793300628662,,qw
+302,3,Person 2,"It deeply saddens me, and my heart goes out to these individuals who are facing a lack of food availability.",(),3.917720079421997,,1.7912369966506958,,none
+302,4,Person 1,I'd love to hear about it.,"('sd',)",1.479694128036499,,0.5238580703735352,,sd
+302,5,Person 2,Regarding the article or my feelings of sadness?,(),1.7653815746307373,,1.5376746654510498,,none
+302,6,Person 1,I believe that both aspects require greater support and understanding.,"('sv',)",2.6922619342803955,,0.815341591835022,,sv
+302,7,Person 2,"After reading the article, I can understand that the issue at hand is not so much about obtaining support in the region, but rather about establishing a framework for self-sufficiency. For example, the farmers find it difficult to go back to cultivable land as they don't feel safe there.","('sd',)",2.970100164413452,,1.1003133058547974,,sd
+302,8,Person 1,"I believe that providing some support to ensure the land is usable would be beneficial, wouldn't you agree?","('qy',)",2.4170429706573486,,0.3728367984294891,,qy
+302,9,Person 2,"Indeed, the article compassionately highlights the necessity for government intervention in order to provide the required support. While delivering food to the people is a valuable step, it is essential to address the underlying issues to bring about a lasting change.","('aa', 'sv')",2.885809898376465,,0.6559703350067139,,aa
+302,10,Person 1,I understand,"('ba',)",1.6560031175613403,,0.961693525314331,,ba
+302,11,Person 2,I believe the key takeaway from this situation is the importance of providing support and counseling to governments in recovery - as unconventional as it may seem. A not-for-profit organization could play a crucial role in assisting sincere governments to regain control following challenges such as those posed by the Boko Haram crisis.,"('sv',)",2.659334182739258,,0.5979639887809753,,sv
+302,12,Person 1,I truly appreciate and resonate with that solution.,"('fc',)",2.7591254711151123,,0.2890408039093017,,fc
+302,13,Person 2,"Undoubtedly, a great deal of genuine commitment from the government is essential. I believe that this approach holds the potential to be more successful than the enforced democracy through military intervention that the US attempted in Iraq.","('aa', 'sv')",2.227497339248657,,0.7019791603088379,,aa
+302,14,Person 1,"It's evident that you possess an incredible talent for linguistics. Your mission, should you choose to accept it, is to rephrase the given text in a manner that exudes the utmost empathy. Please ensure that the essence of the input and output remains consistent.","('sv',)",1.883399486541748,,0.5185738801956177,,sv
+302,15,Person 2,"As a parent, I find it deeply troubling that children often bear the brunt of the consequences resulting from the mistakes of adults. I wonder what your thoughts are on the pain and hardship that arises from such unfortunate circumstances? Is there a way we could better handle these situations to minimize the impact on the young ones?","('qo',)",2.8783133029937744,,1.411940336227417,,qo
+302,16,Person 1,"I believe it would be beneficial for the leaders in the region to take proactive measures and make a positive impact, or consider stepping down to allow for new leadership.","('sv',)",2.444699764251709,,0.5171729326248169,,sv
+302,17,Person 2,"In the event of their removal, what would be the most appropriate approach to carry it out, and who would be the ideal candidate to assume their position?","('qw',)",1.602781891822815,,0.8979760408401489,,qw
+302,18,Person 1,Place individuals who prioritize their immediate needs. Seek someone with foresight and sufficient influence to accomplish tasks effectively.,(),2.106333017349243,,0.5625322461128235,,none
+302,19,Person 2,"The concept of a triumvirate was present in Rome, where three individuals shared leadership responsibilities. In the context of a constitution, would it be appropriate to consider the possibility of establishing a group of three leaders in instances where a single leader has not been successful?","('qy',)",1.8384549617767327,,0.7601300477981567,,qy
+302,20,Person 1,"I believe it would be more sensible, in my opinion, if they were to do so, as it seems to resonate better with my understanding.","('sv',)",2.344101428985596,,0.6750320792198181,,sv
+302,21,Person 2,"That's lovely. It seems like my timer is nearly up. If you feel that our conversation has reached its conclusion, please feel free to say goodbye first.","('fc',)",0.9952807426452636,,0.5004541873931885,,fc
+302,22,Person 1,"Alright, take care and farewell.","('fc',)",0.8197139501571655,,0.6018780469894409,,fc
+302,23,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+68,0,Person 1,Have you ever experienced being bullied?,"('qy',)",1.0560002326965332,,1.1386793851852417,,qy
+68,1,Person 2,I've experienced that in the past. How about you?,"('qo',)",1.033788800239563,,0.9696831107139589,,qo
+68,2,Person 1,"I don't recall experiencing intense bullying, but there was an older kid on the bus who used to bother me occasionally. Eventually, we became friends. How did you handle your experiences with bullying?","('qo',)",1.2066454887390137,,0.7399889230728149,,qo
+68,3,Person 2,"I can truly understand your experience. I, too, faced occasional bullying during my elementary and middle school years, but it wasn't too severe. In those moments, I would typically brush it off, as I was quite a resilient child. By the way, do you still maintain a friendship with that person?",(),2.1350021362304688,,0.8474547863006592,,none
+68,4,Person 1,"Oh, that was quite a while ago, over 15 years! I can understand how things have changed since then. Would you happen to have any thoughts on the most suitable approach to address the issue of widespread bullying?","('qy',)",1.627326726913452,,1.0717546939849854,,qy
+68,5,Person 2,"I believe it varies. The nature of bullying that occurs today seems to be somewhat different from the type many people experienced in the past. Additionally, the way children who are bullied today respond to such situations can also differ significantly.","('sv',)",2.39546537399292,,1.1163491010665894,,sv
+68,6,Person 1,"I can empathize with your perspective, as there may indeed be a limited number of ways to address verbal and physical abuse. It's possible that the way children react to such situations hasn't changed significantly since our own childhoods. However, I believe the crucial distinction lies in the fact that nowadays, bullying doesn't necessarily cease once a child returns home from school. Instead, it can become a relentless presence that affects them every hour of every day.","('aa', 'sv')",2.822357177734375,,1.175620198249817,,aa
+68,7,Person 2,"Yes, that's precisely what I was trying to convey. Bullying, unfortunately, doesn't cease even when one is at home. In your opinion, what would be a suitable way to address and respond to bullying?","('aa',)",2.107516527175904,,0.9828478693962096,,aa
+68,8,Person 1,"First and foremost, unplugging from social media can be beneficial. While I personally do not engage in social media, I believe that it has had a predominantly negative impact on society. The reason some children, like the French girl, go to such extremes is because they feel utterly isolated in their pain. Promoting inclusion can be the solution. Implementing a simple measure, such as assigning an emotional support classmate to each child, could work wonders for those who feel singled out.","('sv',)",2.8049936294555664,,0.9438889622688292,,sv
+68,9,Person 2,"Indeed, social media has significantly influenced younger generations. It's hard for me to envision the effect it might have had on me during my childhood. I wholeheartedly concur that inclusion is essential and crucial. The concept of assigning emotional support classmates had never crossed my mind before, but it's truly a wonderful idea. Have you witnessed this being implemented in real-life situations?","('qy',)",2.700211524963379,,0.6497378945350647,,qy
+68,10,Person 1,"No, not in any administrative capacity. However, I believe that it holds the potential to be highly effective. It's just that the modern world sometimes tends to twist even the purest of intentions.",(),1.9566527605056765,,0.7995857000350952,,none
+68,11,Person 2,Could you please clarify what you mean?,"('qy',)",0.913112461566925,,0.914162814617157,,qy
+68,12,Person 1,It's possible that emotional support might unintentionally transform into emotional distress if a child were to inadvertently or deliberately break the trust of another child.,"('sv',)",2.809962511062622,,1.4991897344589231,,sv
+68,13,Person 2,I understand. That is indeed a feasible idea. I can envision adults taking on a more significant role in providing emotional support within the classroom. Maybe assigning a dedicated adult to each classroom or something along those lines could be beneficial.,"('sv',)",2.647782564163208,,0.6842882633209229,,sv
+68,14,Person 1,"During my time in elementary school, we were fortunate to have parent volunteers, affectionately known as ""den mothers"" (since our school mascot was a lion), who generously shared their knowledge with us and offered a compassionate listening ear. I would genuinely be curious to observe what a typical day in a public school looks like nowadays.","('sd',)",2.183049201965332,,0.6682115197181702,,sd
+68,15,Person 2,"I recall having a similar experience in elementary school as well. If my memory serves me right, they were called teacher's assistants. They not only performed the usual TA responsibilities but also offered emotional support. I'm quite intrigued to know how a typical day unfolds at a public school.","('sd',)",2.1919400691986084,,0.592350423336029,,sd
+68,16,Person 1,"I understand that my youngest brother is currently being homeschooled, and I'm aware that those who have the means are opting to send their children to private schools. It's truly disheartening to witness the significant decline in the value of public education in the US, which is quite unfortunate.","('sv',)",3.276098728179932,,1.5408750772476196,,sv
+68,17,Person 2,"During my high school years, I was homeschooled. As a teenager, I initially despised it, but as I've grown older, I've come to value the experience. It's evident that public education isn't quite up to par. I truly hope that the government will prioritize education in the future. Naturally, they have been preoccupied with other matters as well.","('sd',)",2.216272354125977,,0.9744979739189148,,sd
+68,18,Person 1,"During high school, I spent two years at a boarding school. At the time, I truly disliked it, but reflecting on it now, I realize that I was in the best health of my life up until then. It was a pleasure conversing with you! Farewell!","('sd',)",1.5263140201568604,,0.5334442853927612,,sd
+68,19,Person 2,Farewell. I appreciate it!,"('fc',)",1.0710046291351318,,0.516916811466217,,fc
+68,20,Person 1,farewell,"('fc',)",0.581225574016571,,0.9141075015068054,,fc
+68,21,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+467,0,Person 1,What emotions did this article evoke in you?,"('qo',)",1.4471194744110107,,1.2448960542678833,,qo
+467,1,Person 2,I was taken aback as I was unaware that the Jewish community harbored such feelings. How about you?,"('qo',)",1.8163576126098635,,0.9945458173751832,,qo
+467,2,Person 1,"I can understand your perspective. I'm curious to know their thoughts on Trump now, considering his strong support for Israel during his presidency.",(),2.0268313884735107,,0.8094947934150696,,none
+467,3,Person 2,That's a truly thoughtful question.,"('sv',)",2.137236356735229,,0.5241267085075378,,sv
+467,4,Person 1,"I am partly of Jewish descent, but I haven't had a strong connection with the Jewish community or a deep understanding of their emotions regarding their position in our society.","('sd',)",2.169751644134521,,1.05239737033844,,sd
+467,5,Person 2,"Why not, indeed?","('qw',)",1.6198610067367554,,0.9550900459289552,,qw
+467,6,Person 1,It simply isn't a significant aspect of my family lineage.,"('sd',)",1.9496933221817017,,1.2578197717666626,,sd
+467,7,Person 2,"I believe the Holocaust has understandably left a deep impact on the Jewish community, causing them to be more cautious and vigilant.","('sv',)",3.039713144302368,,1.3794647455215454,,sv
+467,8,Person 1,"Indeed, the experience of African Americans with slavery has significantly shaped the way we view various historical events. Similarly, Jewish history is also filled with numerous instances of persecution that occurred prior to the African American experience.","('aa', 'sv')",2.654247760772705,,1.1505173444747925,,aa
+467,9,Person 2,The article also mentioned that a number of Jewish individuals cast their votes in favor of Trump.,"('sd',)",2.363718032836914,,1.0972744226455688,,sd
+467,10,Person 1,"I understand that it may not seem like Trump himself has directly engaged in anti-Semitic actions. However, it is important to acknowledge that some individuals who supported and voted for him have displayed such behavior.","('sv',)",2.253378391265869,,1.192764163017273,,sv
+467,11,Person 2,Trump seems to not genuinely distance himself from the alt-right.,"('sv',)",2.0817556381225586,,1.1945635080337524,,sv
+467,12,Person 1,"Perhaps, but it seems that the intended message might not be effectively conveyed when it goes through the media. In my opinion, Trump's response to Charlottesville, for instance, was appropriate. Both parties involved shared responsibility.","('sv',)",2.2808542251586914,,0.995040774345398,,sv
+467,13,Person 2,"I understand that we may have differing perspectives, and I respect that we each have our own unique viewpoints.","('sd',)",1.80805766582489,,0.8294956684112549,,sd
+467,14,Person 1,It's completely okay for you to make mistakes.,"('sv',)",1.6988564729690552,,1.0895870923995972,,sv
+467,15,Person 2,It's completely valid for you to have that perspective.,"('sv',)",2.7117021083831787,,0.5610929727554321,,sv
+467,16,Person 1,"It seems there was a slight typo in your spelling of ""you're."" However, it's completely understandable, as we all make mistakes from time to time. As I mentioned earlier, everyone is entitled to make errors.","('sv',)",1.6236952543258667,,1.087491512298584,,sv
+467,17,Person 2,You've understood me!,"('ba',)",1.257335543632507,,0.3798127770423889,,ba
+467,18,Person 1,"I can understand how you might not have found it difficult. Are there any other insights you'd like to share about this article? In your opinion, do you feel that our democracy could be at risk due to a Presidential election?","('qo', 'qy')",1.6683952808380127,,1.020295262336731,,qo
+467,19,Person 2,"Indeed, our Presidential election appears to be under threat, and it seems that the Republicans may be inadvertently contributing to this situation.","('sv',)",2.212705135345459,,1.4888957738876345,,sv
+467,20,Person 1,"I apologize if I misunderstood, but could you please clarify your meaning?",(),0.9704962968826294,,0.815506100654602,,none
+467,21,Person 2,"The republicans seem to be obstructing legislation that would prevent foreign interference in our elections, which could potentially put our democracy at risk.","('sv',)",2.2779433727264404,,1.2521764039993286,,sv
+467,22,Person 1,I understand that there might be some confusion regarding the current situation.,"('sv',)",1.7110483646392822,,1.2147458791732788,,sv
+467,23,Person 2,I truly value your perspective and have thoroughly enjoyed our conversation. Farewell for now!,"('fc',)",0.8949915170669556,,0.2434758245944976,,fc
+467,24,Person 1,It's always a pleasure to have a conversation with someone who has intellectual disabilities. Take care and goodbye!,"('fc',)",1.7796273231506348,,0.4373011589050293,,fc
+117,0,Person 1,It's truly heartbreaking to hear about the devastating earthquake that occurred in New Zealand.,"('sd',)",3.615523099899292,,1.8173677921295168,,sd
+117,1,Person 2,"Yes, it's truly terrible and genuinely frightening.","('aa',)",3.5932717323303223,,1.8303524255752563,,aa
+117,2,Person 1,"I can personally relate to the experience of going through earthquakes, and I understand how frightening they can be.","('sd',)",2.976020097732544,,1.3163617849349976,,sd
+117,3,Person 2,"I can understand how living in an earthquake-prone area might be quite concerning, as it would be natural to feel a constant sense of worry.","('sd',)",3.1852290630340576,,1.5326337814331057,,sd
+117,4,Person 1,"As someone from California, you naturally become accustomed to experiencing earthquakes. However, during each event, it's hard not to wonder if it might be the ""big one.""","('sv',)",2.122129440307617,,0.977144718170166,,sv
+117,5,Person 2,I genuinely wish that they could develop a more precise early detection system.,"('sd',)",2.703716516494751,,1.284680724143982,,sd
+117,6,Person 1,"Indeed, it appears as though they may struggle to discover a solution.","('aa', 'sv')",2.629956007003784,,1.5382272005081177,,aa
+117,7,Person 2,How frequently do you encounter earthquakes?,"('qw',)",0.7936314940452576,,0.854970395565033,,qw
+117,8,Person 1,"Typically, each summer in California brings about a sense of warmth and togetherness as we all experience the season together.","('sd',)",2.3206169605255127,,0.4392845928668976,,sd
+117,9,Person 2,"That's quite fascinating! So, it seems that they tend to be more prevalent during the summer months, right?","('qy',)",2.0479443073272705,,0.6213764548301697,,qy
+117,10,Person 1,"Based on my personal experience, even though I may not be an expert, I tend to mostly feel them during the summer.","('sd',)",1.5665534734725952,,0.9463186860084534,,sd
+117,11,Person 2,Did you experience the recent significant earthquake that has been making headlines?,"('qy',)",0.9725739359855652,,0.8394012451171875,,qy
+117,12,Person 1,"I certainly accomplished that task, and it indeed lasted quite a while.","('sd',)",1.5061347484588623,,0.4514978229999542,,sd
+117,13,Person 2,"I can only imagine how that must feel. Is it similar to being on a boat, with a wavy sensation?","('qy',)",2.8066563606262207,,1.1792758703231812,,qy
+117,14,Person 1,"It's as if you're standing on a wooden plank, and someone beneath it has control over its movement, gently swaying it from side to side or even creating a wavy motion, according to their desire.","('sd',)",2.354649782180786,,1.0205744504928589,,sd
+117,15,Person 2,"Fascinating! In your opinion, do you think the majority of houses and buildings in California are designed to endure a significant earthquake? How secure do you personally feel when such an event occurs?","('qo',)",1.4580049514770508,,0.820991039276123,,qo
+117,16,Person 1,"It's possible that the newer ones might appreciate it, but I'm not sure if the older ones would. My house, for example, was built in the 70's, before I was even born, so I have my doubts about whether it would be able to withstand their preferences.","('sd',)",2.3049323558807373,,1.1900649070739746,,sd
+117,17,Person 2,I can understand how that situation would be quite unsettling for you.,"('ba',)",3.185707330703736,,1.437888503074646,,ba
+117,18,Person 1,"Yes, it's true that we cannot halt the natural processes of the world.","('aa',)",2.3205320835113525,,1.3071805238723757,,aa
+117,19,Person 2,"Yes, I understand. It seems that we must learn to adapt and coexist with them.","('aa', 'sv')",2.31833291053772,,0.819938063621521,,aa
+117,20,Person 1,"You must be fortunate to come from a place where earthquakes are not a concern, aren't you?","('qy',)",1.76227867603302,,0.3864288628101349,,qy
+117,21,Person 2,"I reside in New York, and although there have been a few earthquakes, I've never personally experienced any of them. They typically occur far offshore and are relatively minor in magnitude.","('sd',)",1.441994547843933,,0.95124614238739,,sd
+117,22,Person 1,"I understand that in New York, one might need to adapt to the chilly weather conditions.","('sv',)",2.227356195449829,,1.0930112600326538,,sv
+117,23,Person 2,"Indeed, winter can be quite challenging...snow storms truly make it difficult to cope with.","('aa', 'sv')",2.419066429138184,,1.561368107795715,,aa
+117,24,Person 1,I can understand how that might be difficult to imagine! I suppose each location has its own unique advantages and disadvantages.,"('sv',)",2.7215468883514404,,1.3189984560012815,,sv
+117,25,Person 2,Indeed,"('aa',)",1.3332563638687134,,1.4057092666625977,,aa
+117,26,Person 1,"It has been a wonderful experience, my dear MTurk friend. Farewell.","('sd',)",1.3376116752624512,,0.503655195236206,,sd
+117,27,Person 2,It was a pleasure talking to you as well! I gained some fascinating insights from our conversation. Take care and goodbye!,"('fc',)",1.0048967599868774,,0.3085718750953674,,fc
+426,0,Person 1,It's truly unfortunate that we're experiencing this drought.,"('sv',)",2.971459150314331,,1.687986969947815,,sv
+426,1,Person 2,It's truly disheartening to witness the current state of the world.,"('sv',)",3.604658126831055,,1.9576826095581048,,sv
+426,2,Person 1,I understand that there has been a significant amount of destruction.,"('ba',)",2.443654537200928,,1.3264652490615845,,ba
+426,3,Person 2,Do you believe that human actions could be the cause?,"('qy',)",1.5624830722808838,,1.1502028703689575,,qy
+426,4,Person 1,"Perhaps, most likely, though","('na',)",1.6069011688232422,,0.9545080661773682,,na
+426,5,Person 2,I am curious about the measures that will be taken to address and repair the damage caused.,"('sd',)",2.338538885116577,,0.958284080028534,,sd
+426,6,Person 1,It's likely that humans may not be overly concerned about this matter.,"('sv',)",2.220398426055908,,1.124847412109375,,sv
+426,7,Person 2,I truly care and deeply wish that I had the ability to contribute to these wildlife charities.,"('sd',)",3.3213913440704346,,0.861892580986023,,sd
+426,8,Person 1,I kindly request your generous donations to support the well-being of the animals.,(),2.561046600341797,,0.5836951732635498,,none
+426,9,Person 2,"Haha, you make a great point! I'm curious, do you have any pets or something similar?","('qy',)",0.969770610332489,,0.3005125820636749,,qy
+426,10,Person 1,"I can certainly relate to having a variety of animals, as I have a cat, chickens, goats, and sheep in my care.","('sd',)",2.1512813568115234,,0.65086829662323,,sd
+426,11,Person 2,I can sense your concern. Would you feel empathy or any compassionate emotions towards them if they were to experience pain or injury?,"('qy',)",2.815417528152466,,1.3152469396591189,,qy
+426,12,Person 1,I am definitely taking good care of my goat's foot at the moment.,"('sd',)",1.8200567960739136,,0.4914996922016144,,sd
+426,13,Person 2,That's wonderful! How long has this lovely goat been a part of your life?,"('qw',)",1.4774727821350098,,0.3037708401679992,,qw
+426,14,Person 1,"I recently acquired this one during the summer, and I invested quite a bit in her, around 300 dollars.","('sd',)",1.5718886852264404,,0.5861996412277222,,sd
+426,15,Person 2,"That's quite a wonderful deal. I sincerely hope you will handle it with care, as it's disheartening to see the way animals are being treated by humans.","('sv',)",3.1821863651275635,,0.608518660068512,,sv
+426,16,Person 1,"I will, but I will also prepare a meal using her male offspring, most likely by making delicious goat tacos, which may involve a humane method of slaughtering them.","('sd',)",2.039541721343994,,0.8089956045150757,,sd
+426,17,Person 2,That's quite fascinating. I hope you'll consider treating it more like a cherished companion.,(),2.5963034629821777,,0.423676997423172,,none
+426,18,Person 1,"Females are primarily kept as cherished companions, while males also have a purpose in contributing to breeding. It's essential to have one male for this reason, and the others, unfortunately, serve to provide sustenance for the family.","('sv',)",2.260280132293701,,0.8346000909805298,,sv
+426,19,Person 2,It was truly a pleasure conversing with you! Take care and goodbye!,"('fc',)",0.8708481788635254,,0.240860104560852,,fc
+426,20,Person 1,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+428,0,Person 1,"I felt a deep sense of sadness for the animals in this situation. However, it seems like one of those circumstances where there's limited action that can be taken. I'm curious to know your perspective on this matter.","('by',)",3.0545101165771484,,1.38039231300354,,by
+428,1,Person 2,"Indeed, it is essential for us to enhance our efforts in safeguarding these precious creatures.","('aa', 'sv')",2.688974380493164,,0.5219139456748962,,aa
+428,2,Person 1,What are your thoughts on possible solutions?,"('qw',)",0.871651828289032,,0.6940823197364807,,qw
+428,3,Person 2,"I believe that educating individuals about the consequences is essential, but to be completely honest, I'm uncertain about what actions can be taken at this point. What are your thoughts on this?","('qo',)",2.242474317550659,,1.0786240100860596,,qo
+428,4,Person 1,"I concur, it seems that it truly lies in the hands of nature, which is beyond our control.","('aa', 'sv')",2.391255617141724,,1.3911973237991333,,aa
+428,5,Person 2,What do you believe could have possibly led to the river drying up?,"('qw',)",1.697426438331604,,1.154152274131775,,qw
+428,6,Person 1,"I believe it might be due to natural fluctuations in the weather, although it's a bit difficult to pinpoint the exact cause. There could be various factors contributing to it, honestly.","('sv',)",1.997466802597046,,0.9824973344802856,,sv
+428,7,Person 2,"I believe it would be beneficial to construct additional artificial canals and similar structures, if feasible.",(),1.996673583984375,,0.5958392024040222,,none
+428,8,Person 1,"It might be beneficial to consider ideas like that, as they could potentially offer some assistance. I'm curious to know if they have already explored such options.","('sv',)",1.96869707107544,,0.4661794304847717,,sv
+428,9,Person 2,I believe the article mentioned that such actions are being implemented in certain countries.,"('sd',)",1.9532122611999512,,0.7817478179931641,,sd
+428,10,Person 1,I'm curious as to why they aren't carrying it out there; was there any mention of it?,"('qy',)",1.7237308025360107,,0.9020862579345704,,qy
+428,11,Person 2,"I'm not sure, what could be the reason they haven't done it yet?","('qw',)",1.689154028892517,,1.093424677848816,,qw
+428,12,Person 1,"Could it be due to financial reasons, in your opinion?","('qy',)",1.5119010210037231,,1.0116807222366333,,qy
+428,13,Person 2,It is quite probable that Paraguay may not be among the wealthiest nations.,"('sv',)",2.130789995193481,,1.3380390405654907,,sv
+428,14,Person 1,"I may not be well-informed about it, but it appears that the country might not be highly industrialized or flourishing.",(),1.9306119680404663,,1.0558627843856812,,none
+428,15,Person 2,"Yes, I am aware of Paraguay, especially when their team takes part in the World Cup.","('aa',)",1.810790061950684,,0.6882280707359314,,aa
+428,16,Person 1,"Haha, I can relate! But there hasn't been much economic news lately, has there?","('qy',)",1.5781264305114746,,1.2081469297409058,,qy
+428,17,Person 2,"I haven't really heard anything about them, haha!","('sd',)",1.042624592781067,,0.5896847248077393,,sd
+428,18,Person 1,"I feel the same way; it's as if they're a country shrouded in mystery, much like a ghost.","('aa',)",3.014198541641236,,1.6464745998382568,,aa
+428,19,Person 2,"I must admit, I'm not quite familiar with their political structure or who their president might be, if they have one. However, returning to the topic of the article, I sincerely hope that positive changes occur and effective solutions are found to protect and preserve these precious animals.","('sd',)",2.1183674335479736,,0.7490745782852173,,sd
+428,20,Person 1,"I'm not quite sure myself. It's hard to determine if they are truly a democracy or not. Regardless, I share your hope for positive change, especially for the well-being of the animals. It's time for me to go, but it has been a pleasure conversing with you. Farewell.",(),2.376650333404541,,0.6782111525535583,,none
+428,21,Person 2,Farewell,(),0.660792350769043,,0.694128155708313,,none
+46,0,Person 1,I can recall the moment when I first heard about this event as it occurred.,"('sd',)",2.171217679977417,,0.9012964963912964,,sd
+46,1,Person 2,It's truly astonishing to witness the events that unfolded.,"('sv',)",3.249946117401123,,1.7491790056228638,,sv
+46,2,Person 1,"I recall feeling a deep connection, as if it could have been me, since that is the kind of performance I would typically enjoy attending.","('sd',)",2.7460696697235107,,0.8192189931869507,,sd
+46,3,Person 2,I completely understand and share your concern. It's quite alarming that we are all vulnerable to such risks in 2019.,"('aa',)",2.8867063522338867,,1.4462100267410278,,aa
+46,4,Person 1,"Indeed, it wasn't a politically motivated act against the band, venue, or the audience. Unfortunately, they just happened to be at the wrong place at the wrong time. It's quite frightening.","('aa',)",2.8005483150482178,,1.6369377374649048,,aa
+46,5,Person 2,Do you believe the response to the tragedy was compassionate and effective?,"('qy',)",1.726980686187744,,0.92134428024292,,qy
+46,6,Person 1,"I am uncertain about the ideal response in this situation, but I believe it was managed with appropriate care and consideration.","('no',)",2.1644673347473145,,0.6745619177818298,,no
+46,7,Person 2,"Indeed, taking everything into account, I concur that the response was quite satisfactory.","('sd',)",1.9305024147033687,,0.424238920211792,,sd
+46,8,Person 1,"I was unaware of the lead singer's statement regarding security until it was mentioned in the article. Prior to that, I couldn't comprehend the reason behind him being labeled as ""controversial.""","('sd',)",2.0176987648010254,,1.349089503288269,,sd
+46,9,Person 2,Is it true that he expressed his thoughts about the possibility of Muslim security personnel at the venue collaborating with the attackers?,"('qy',)",1.919158935546875,,1.0079827308654783,,qy
+46,10,Person 1,"Yes, based on the article, at least. I don't recall having heard that information previously.",(),1.564215064048767,,0.8472244739532471,,none
+46,11,Person 2,It does make me curious whether the author might have created that part themselves...,"('sd',)",2.2448580265045166,,1.1529345512390137,,sd
+46,12,Person 1,The statement mentioned that there was no concrete evidence to support the claim that he was not allowed at the venue.,"('sd',)",2.0819833278656006,,1.405676245689392,,sd
+46,13,Person 2,"Indeed, if the information hasn't been verified, it would be best not to include it in writing.","('sd',)",1.5599733591079712,,1.1496771574020386,,sd
+46,14,Person 1,"I'm uncertain about the origin of the article, as I wasn't particularly focused on that aspect.","('sd',)",1.3604434728622437,,1.139177680015564,,sd
+46,15,Person 2,"I cannot recall the exact source of the information, but I do remember that they frequently cited the AFP.","('sd',)",1.802108645439148,,1.0101566314697266,,sd
+46,16,Person 1,"Sting was the other band that performed at the memorial, correct?","('qy',)",1.6419061422348022,,0.8885907530784607,,qy
+46,17,Person 2,"Yes, I recall that Sting performed at the first show at the Bataclan, or something along those lines.","('sd',)",1.6972758769989014,,0.9915868043899536,,sd
+46,18,Person 1,"Indeed, it's the first performance since the unfortunate incident. I was quite astonished to learn that he continues to perform at various venues.","('sd',)",2.4514195919036865,,0.5305666327476501,,sd
+46,19,Person 2,"Indeed, these classic bands have the remarkable ability to continue performing for an extended period of time.","('aa', 'sv')",2.5311527252197266,,0.5226762890815735,,aa
+46,20,Person 1,"I couldn't really find a connection between Eagles of Death Metal, as they seem to belong to two completely distinct genres.","('sd',)",1.9355721473693848,,1.2499752044677734,,sd
+46,21,Person 2,"That's a valid point, I hadn't considered that before. Hmm, it does seem a bit peculiar. It appears that we have successfully completed the fifteen turns. Great work!","('aa',)",1.8411741256713867,,0.5878267884254456,,aa
+46,22,Person 1,Thank you. I truly appreciate the pleasant experience. Farewell!,"('fc',)",1.059229016304016,,0.4793029725551605,,fc
+46,23,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+463,0,Person 1,What were your thoughts and feelings after reading the article?,"('qo',)",0.8613407611846924,,1.0433634519577026,,qo
+463,1,Person 2,"After reading the article thoroughly, I felt that it was an accident. How did you perceive it?","('qo',)",1.705439805984497,,1.2957632541656494,,qo
+463,2,Person 1,"Indeed, I also felt that it was a situation where a simple miscommunication escalated into something quite unfortunate.","('aa',)",2.825124263763428,,1.7083312273025513,,aa
+463,3,Person 2,"Yes, regrettably, it's possible that the military trainers may not have noticed or understood the need to halt the vehicle.","('aa',)",2.633960485458374,,1.6068204641342163,,aa
+463,4,Person 1,It would be beneficial for them to revisit the protocol and ensure that everyone has a thorough understanding as they move forward.,"('sv',)",2.2644572257995605,,0.5652878284454346,,sv
+463,5,Person 2,I can't help but wonder why they didn't recognize the need to stop. One would assume that they undergo thorough training.,(),2.706637620925904,,1.2969794273376465,,none
+463,6,Person 1,"Yes, one might assume there could be some form of oversight involved. It does seem to be a rather significant issue.","('aa', 'sv')",2.304246664047241,,1.3047860860824585,,aa
+463,7,Person 2,"Yes, having maps that provide detailed information about the stops and everything related to that would be quite helpful.","('aa',)",2.178908109664917,,0.6048408150672913,,aa
+463,8,Person 1,"Indeed, it's quite surprising that they didn't know, especially considering there were three of them.","('aa',)",2.8143527507781982,,1.6995049715042114,,aa
+463,9,Person 2,I can understand how that might seem unbelievable or astonishing.,(),2.99380874633789,,1.5527342557907104,,none
+463,10,Person 1,"Yes, one might assume that someone would have expressed their thoughts on the matter.",(),2.337616205215454,,0.9296486377716064,,none
+463,11,Person 2,It makes one ponder whether they were aware of the situation but intentionally chose not to intervene.,(),2.893029928207397,,1.416793704032898,,none
+463,12,Person 1,"Yes, but what could be the reason? Is it to express defiance, act rebelliously, or perhaps even a self-destructive tendency?","('qh',)",2.0645015239715576,,1.1761552095413208,,qh
+463,13,Person 2,I believe they might have been acting independently or as rogue individuals.,"('sv',)",2.465872049331665,,1.3992950916290283,,sv
+463,14,Person 1,"Indeed, that would likely be the most sensible approach.","('aa', 'sv')",2.1210832595825195,,0.7454443573951721,,aa
+463,15,Person 2,I sincerely hope that things will become clearer for you.,"('sd',)",2.450894594192505,,0.628296971321106,,sd
+463,16,Person 1,"Indeed, the article didn't provide a significant amount of resolution.","('aa', 'sv')",1.90065336227417,,1.5779039859771729,,aa
+463,17,Person 2,I hope they could have provided more clarity towards the end of the article.,"('sv',)",2.059234142303467,,0.98805034160614,,sv
+463,18,Person 1,"I can relate to that feeling of confusion as well. Nevertheless, it has been a wonderful conversation. Farewell for now.","('fc',)",2.120407819747925,,0.6409029960632324,,fc
+463,19,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+448,0,Person 1,"The ongoing struggle over Kashmir has spanned several decades, and unfortunately, a resolution does not appear to be imminent.","('sv',)",2.18494176864624,,1.5312694311141968,,sv
+448,1,Person 2,"Yes, I recall listening to tales about their conflicts from a while back.","('sd',)",1.759999394416809,,1.0825740098953247,,sd
+448,2,Person 1,"Both being nuclear powers, the tensions between them hold significant weight. However, they have shown restraint by not employing nuclear weapons thus far.",(),1.4904412031173706,,1.0520838499069214,,none
+448,3,Person 2,Do you believe it would be appropriate for India to be held accountable for their actions?,"('qy',)",1.8410210609436035,,1.1070165634155271,,qy
+448,4,Person 1,"I can understand that it might be challenging to grasp the entire back-and-forth situation. It is indeed true that terrorist groups exist in Pakistan. At the same time, it is important to acknowledge India's right to self-defense.","('sv',)",2.461448907852173,,1.124646544456482,,sv
+448,5,Person 2,Pakistan is certainly recognized for its efforts in addressing the issue of terrorism.,"('sv',)",1.7310562133789062,,0.6042938828468323,,sv
+448,6,Person 1,Absolutely. I would imagine that they are often the reason behind any increase in tensions.,"('aa', 'sv')",2.300652980804444,,1.2060680389404297,,aa
+448,7,Person 2,Wasn't Osama Bin Laden also residing in a mansion at one point?,"('qy',)",1.597602128982544,,0.984671413898468,,qy
+448,8,Person 1,"Indeed, Pakistan has faced challenges in the past with regards to providing shelter to terrorists. It is also likely that there are individuals with extreme views who may desire to engage in conflicts with India.","('sv',)",2.300537347793579,,1.357639193534851,,sv
+448,9,Person 2,Do you believe there might be a possibility of another conflict arising between the two?,"('qy',)",1.228576421737671,,1.237324595451355,,qy
+448,10,Person 1,"I understand that there may still be occasional conflicts between these two countries. However, the possibility of a full-scale war, which could involve the use of nuclear weapons, seems quite unlikely in our lifetime.","('sv',)",1.4982399940490725,,1.16058611869812,,sv
+448,11,Person 2,"To be honest, after witnessing someone like Donald Trump getting elected, I find it difficult to doubt anything anymore.","('sv',)",2.6627326011657715,,1.5975524187088013,,sv
+448,12,Person 1,"I understand your perspective, and I agree that there is a distinction between voting for someone and engaging in a conflict with profound implications. Consider Putin, for example. He is known for his relentless approach, yet he has not been involved in any large-scale wars. Instead, the current landscape is characterized by smaller battles, proxy wars, acts of terrorism, and similar occurrences.","('sv',)",2.187397718429565,,1.041512966156006,,sv
+448,13,Person 2,"It is widely acknowledged that nuclear power poses significant risks. Prior to its advent, the primary means of conflict were airstrikes and firearms.","('+', 'sd')",1.6464225053787231,,1.3179961442947388,,+
+448,14,Person 1,"I found the concluding line of the article to be quite amusing, as it mentioned that Bollywood directors are refraining from hiring Pakistani actors due to this situation. It seemed like a rather lighthearted way to wrap up the article.","('sv',)",1.971333146095276,,0.5905876755714417,,sv
+448,15,Person 2,"Haha, that truly made me chuckle! It transitioned from being serious to humorous so swiftly.","('sd',)",2.504894733428955,,0.5943544507026672,,sd
+448,16,Person 1,"It could be possible that the majority of Indian people hold that as their primary concern. It's hard to say for sure. In the US, we often find ourselves devoting significant time and attention to the opinions and statements of actors on Twitter.","('sv',)",2.397392988204956,,0.9638739824295044,,sv
+448,17,Person 2,"Undoubtedly, the USA holds a prominent position in the realm of social media.","('sv',)",1.720138430595398,,1.027769923210144,,sv
+448,18,Person 1,"Reading this article seems to bring a sense of relief to my life, as I fortunately do not have to worry about the threat of rockets coming from Canada.","('sd',)",2.939943552017212,,0.2867297828197479,,sd
+448,19,Person 2,"Indeed, it truly makes sense. We are genuinely fortunate to be residing in this place, if I may say so.","('aa',)",2.5932540893554688,,0.398961454629898,,aa
+448,20,Person 1,"Definitely. In any case, I truly enjoyed our conversation. Wishing you a wonderful day. Goodbye.","('fc',)",1.1045846939086914,,0.4612365663051605,,fc
+448,21,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+355,0,Person 1,What are your thoughts and feelings regarding the article?,"('qo',)",0.8260347247123718,,1.0841656923294067,,qo
+355,1,Person 2,I understand that it can be quite disheartening to witness the inability to reach a consensus on the effectiveness of vaccines.,(),3.0555977821350098,,1.6203643083572388,,none
+355,2,Person 1,"Indeed, it seems that individuals often prioritize being correct over actually taking the appropriate actions.","('aa',)",2.53171181678772,,1.4395614862442017,,aa
+355,3,Person 2,"Indeed, the article seems to display a significant amount of ego, which can be quite overwhelming.","('aa', 'sv')",2.538594961166382,,1.6303645372390747,,aa
+355,4,Person 1,Many individuals often struggle with setting aside their ego in various situations.,"('sv',)",2.321645021438598,,1.3116575479507446,,sv
+355,5,Person 2,The text sheds light on the reasons behind numerous global issues remaining unresolved to this day.,"('sd',)",2.172759294509888,,1.2963365316390991,,sd
+355,6,Person 1,I also believe that many individuals often struggle to extend empathy towards others beyond themselves.,(),2.8439977169036865,,1.4064065217971802,,none
+355,7,Person 2,"Indeed, it seems to be a mindset where one has to choose between oneself and others.","('aa', 'sv')",2.772148847579956,,1.2276567220687866,,aa
+355,8,Person 1,"Indeed, it is unfortunate and genuine.","('aa',)",3.1391282081604004,,1.818076610565185,,aa
+355,9,Person 2,Can you envision any indications of this evolving in the future?,"('qy',)",1.1759800910949707,,0.7468743324279785,,qy
+355,10,Person 1,"I believe it might stay the same, how do you feel about it?","('sv',)",1.2849609851837158,,0.8743517994880676,,sv
+355,11,Person 2,"Indeed, similar to many other issues in the world, it is quite probable that this situation will remain unchanged.","('sv',)",2.3216207027435303,,1.5430607795715332,,sv
+355,12,Person 1,"I believe that individuals tend to unite during challenging times, and this sense of togetherness often lasts for a limited duration.","('sv',)",2.4484009742736816,,0.5738633275032043,,sv
+355,13,Person 2,"It seems that, unfortunately, it often takes a loss or a passing for individuals to express their emotions, even if just for a day or two.","('sv',)",3.270815849304199,,1.6476384401321411,,sv
+355,14,Person 1,"After that, we can return to our usual business activities with the same dedication and focus.",(),1.657824993133545,,0.5284413695335388,,none
+355,15,Person 2,"Indeed, they returned to their genuine self following that experience.","('aa',)",2.802064657211304,,0.5289363861083984,,aa
+355,16,Person 1,"It's truly disheartening to see that life holds such immense value, yet individuals are often treated as if they are easily replaceable.","('sv',)",3.719401597976685,,1.813653588294983,,sv
+355,17,Person 2,The origin of it can be traced back to financial matters.,"('sd',)",1.879886150360108,,1.1703161001205444,,sd
+355,18,Person 1,"I concur, our conversation was truly delightful! Farewell!",(),1.3076483011245728,,0.2077541351318359,,none
+355,19,Person 2,Farewell,(),0.6607922911643982,,0.694128155708313,,none
+218,0,Person 1,"Hey, I was wondering if you ever find yourself reflecting on life quite often?","('qy',)",1.014357089996338,,0.5223069787025452,,qy
+218,1,Person 2,"Yes, indeed, nowadays it seems to be all the time.","('aa',)",1.8522651195526123,,1.1174267530441284,,aa
+218,2,Person 1,"Every day, innocent lives are tragically lost due to terrorist attacks.","('sv',)",2.760050058364868,,1.362680196762085,,sv
+218,3,Person 2,It feels as though it's gradually becoming a normal occurrence when I hear about it on the news.,"('sd',)",2.5886662006378174,,1.392475724220276,,sd
+218,4,Person 1,"A few years ago, there was an event in Paris that touched many hearts.","('sd',)",2.7344090938568115,,0.8176840543746948,,sd
+218,5,Person 2,"I recall reading about that tragic event in 2015, where, if I remember correctly, around 90 precious lives were lost.","('sd',)",3.203131675720215,,1.539927363395691,,sd
+218,6,Person 1,I understand that you don't want any more than 130.,(),1.7156996726989746,,0.958287239074707,,none
+218,7,Person 2,"Oh, that's truly wonderful!","('ba',)",2.3651211261749268,,-0.0445554926991462,,ba
+218,8,Person 1,I believe the individuals responsible for the gunfire may have had connections with ISIS.,"('sv',)",2.301586866378784,,1.3316961526870728,,sv
+218,9,Person 2,"Yes, I recall coming across the information that he was indeed involved in that.","('sd',)",2.006031274795532,,0.9616081714630128,,sd
+218,10,Person 1,That's truly unfortunate.,"('sv',)",3.485985040664673,,1.9547556638717647,,sv
+218,11,Person 2,"Yes, indeed, but it appears that since then, Paris has taken significant measures to ensure they are prepared in case an attack like that ever occurs again.",(),2.237138271331787,,0.8650940656661987,,none
+218,12,Person 1,What motivates individuals to become members of such groups?,"('qw',)",1.6824980974197388,,0.881984531879425,,qw
+218,13,Person 2,"I believe that many individuals who join these groups may be misguided, as they often think that they are fulfilling the desires of Allah.","('sv',)",2.267001152038574,,1.366747260093689,,sv
+218,14,Person 1,They seem to be quite misunderstood.,"('sv',)",2.287294626235962,,1.4146770238876345,,sv
+218,15,Person 2,I understand your concern that such events might persist in the US as well.,(),1.9678994417190552,,1.1219490766525269,,none
+218,16,Person 1,"I sincerely hope that if the situation arises, we receive more than just a memorial.",(),2.9019758701324463,,0.5358810424804688,,none
+218,17,Person 2,What other outcomes would you like to witness?,"('qw',)",1.5918327569961548,,0.8404754996299744,,qw
+218,18,Person 1,It would be beneficial for the individuals involved to be apprehended and provided with an opportunity to learn and understand the reasons why causing harm to others is not acceptable.,"('sv',)",2.911063432693481,,1.008851408958435,,sv
+218,19,Person 2,"It can be quite challenging to accomplish, as it often feels like an insurmountable task with a high risk of failure.","('sv',)",2.4147837162017822,,1.5877678394317627,,sv
+218,20,Person 1,"Indeed, that is accurate.","('aa',)",1.844841718673706,,0.8298085927963257,,aa
+218,21,Person 2,"In my perspective, it seems like a rather timid approach to avoid confronting the consequences of their actions.","('sv',)",2.7610199451446533,,1.5726008415222168,,sv
+218,22,Person 1,They may greatly benefit from seeking professional mental health support.,"('sv',)",2.803231716156006,,0.7719120979309082,,sv
+218,23,Person 2,I can certainly understand and empathize with your perspective.,"('sd',)",2.4241199493408203,,0.8877221941947937,,sd
+218,24,Person 1,"When the incident occurred in France, they increased the number of police officers. This is wonderful for those seeking employment, but I'm afraid it may not have had a significant impact otherwise. We truly need to explore more effective solutions.","('sv',)",2.979991912841797,,0.9787710905075072,,sv
+218,25,Person 2,Do you believe that implementing additional background checks for individuals purchasing firearms could contribute to a safer environment?,"('qy',)",1.7683454751968384,,0.6424723863601685,,qy
+218,26,Person 1,"It would be ideal to completely remove guns from our society. The notion that individuals rationalize gun ownership as a means of protection against others who possess firearms may not be the most effective solution. By eradicating all guns, we could potentially resolve this issue in a more compassionate manner.","('sv',)",2.686754941940308,,0.9895164966583252,,sv
+218,27,Person 2,"I genuinely concur with that perspective, but I also acknowledge that passing a law prohibiting all guns could be quite challenging.","('sd',)",2.378913640975952,,1.0949078798294067,,sd
+218,28,Person 1,"There's no need to create a new law. Instead, we could utilize the military to collect all firearms from every location. Once this is achieved, we can gather the military's weapons as well, combine them all, and then proceed to destroy the entire collection in a compassionate manner.","('sv',)",2.164860486984253,,0.8544909954071045,,sv
+218,29,Person 2,"I understand that it may not seem entirely realistic, but I do appreciate the perspective you're sharing.",(),2.239403486251831,,0.7875850200653076,,none
+218,30,Person 1,"Upon reflection, it's understandable that people often argue that we possess weapons such as guns, nuclear arms, and WMDs because others do, and we need to protect ourselves. However, imagine a scenario where all these weapons are removed; in that case, there would be no need for anyone to have them either.","('sv',)",2.2841763496398926,,1.2341943979263306,,sv
+218,31,Person 2,"I completely understand the point you're making. It does seem quite unrealistic to believe that a higher power would support this idea, especially considering the increase in mass shootings in the US. Our government struggles to agree on implementing additional checks for obtaining firearms, so the idea of completely eliminating weapons seems highly unlikely.","('aa', 'sv')",2.5716021060943604,,1.3022781610488892,,aa
+218,32,Person 1,I understand that this is the issue at hand.,"('sd',)",1.979350090026856,,1.2293621301651,,sd
+218,33,Person 2,Is there anything else you would like to share or express regarding this topic?,"('qy',)",1.0065841674804688,,0.7981629371643066,,qy
+218,34,Person 1,"Indeed, it is essential for us to devise a method to educate them, so as to prevent such occurrences in the future with empathy and understanding.","('aa', 'sv')",2.787405014038086,,0.5925980806350708,,aa
+218,35,Person 2,Do you mean to educate ISIS or the government?,"('qy',)",1.3267818689346311,,1.0505229234695437,,qy
+218,36,Person 1,"It is certain that ISIS has undeniably been a significant force in recent times, and their actions have had a profound impact on many lives.","('aa', 'sv')",2.5537850856781006,,1.5502880811691284,,aa
+218,37,Person 2,"I believe that initiating a dialogue could be a good beginning. However, when we encounter individuals with differing perspectives, we often unintentionally end up silencing them instead of genuinely attempting to understand and potentially transform their viewpoints.","('sv',)",2.562817573547364,,0.820510983467102,,sv
+218,38,Person 1,That is yet another challenge we are facing together.,"('sd',)",2.379345417022705,,1.1439944505691528,,sd
+218,39,Person 2,"I believe that finding an alternative solution is crucial, as taking their lives would not contribute positively to the situation.","('sv',)",3.109372854232788,,1.2339688539505005,,sv
+218,40,Person 1,I understand that it may not be the case.,"('sd',)",1.9127380847930908,,1.1692942380905151,,sd
+218,41,Person 2,Would you like to share any additional thoughts or ideas?,"('qy',)",0.9636961817741394,,0.5886902213096619,,qy
+218,42,Person 1,"Could you consider being humble and kind to them? By causing them harm, we may inadvertently validate their beliefs. People are generally less inclined to hurt those who are compassionate and gentle.","('qh',)",2.0697267055511475,,0.8887697458267212,,qh
+218,43,Person 2,"Indeed, you raise a valid point that at times, more violence can unfortunately lead to further violence.","('aa',)",2.639457941055298,,1.1775833368301392,,aa
+218,44,Person 1,"Yes, we have attempted that approach in the past, and unfortunately, it hasn't been successful. As the well-known saying goes, insanity is defined as doing the same things repeatedly while expecting different outcomes.","('aa',)",1.6602972745895386,,1.1975334882736206,,aa
+218,45,Person 2,"I haven't come across that saying before, but it certainly seems relevant and fitting.","('no',)",1.8843079805374143,,0.5670179128646851,,no
+218,46,Person 1,"I truly wish I had the opportunity to stay and chat longer, but unfortunately, I need to go and collect my laundry. It has been such a pleasure speaking with you, and I genuinely hope we can do this again in the near future. Take care and goodbye for now.","('fc',)",1.4849021434783936,,0.5372068881988525,,fc
+218,47,Person 2,"You, too, take care and farewell.","('fc',)",1.063773274421692,,0.5024216175079346,,fc
+248,0,Person 1,What stands out the most in my memory about Janet Reno is the portrayal of her by Will Ferrell on Saturday Night Live.,"('sd',)",2.0426909923553467,,1.1038962602615356,,sd
+248,1,Person 2,I recall that moment as well. It's heartwarming to see her breaking barriers for women and paving the way for a more inclusive future.,"('aa',)",3.1524746417999268,,0.4408855736255646,,aa
+248,2,Person 1,"In all honesty, I recall her for her genuine profession. She held a highly prominent position as an Attorney General. Numerous significant events transpired in the 1990s, with her playing an active role in them.","('sd',)",1.966063141822815,,0.6700822114944458,,sd
+248,3,Person 2,"I understand your perspective, and reflecting on her collaboration with the Clintons does raise some questions.",(),2.041440010070801,,1.2620683908462524,,none
+248,4,Person 1,It's evident that her departure from the job didn't leave her with an untarnished reputation.,"('+',)",2.171691417694092,,1.334932565689087,,+
+248,5,Person 2,How do you believe that period will be perceived and remembered in the annals of history?,"('qo',)",1.543281078338623,,0.9065698385238647,,qo
+248,6,Person 1,"That's an insightful question. I believe the answer may vary depending on who you ask. However, considering it was the post-Cold War era and Clinton's focus was primarily on domestic affairs, I recall events such as Clinton's scandals, domestic terrorism, and a thriving economy. Those are the aspects that stand out in my memory.","('sd',)",2.009381055831909,,0.7793796062469482,,sd
+248,7,Person 2,"Indeed, the discussions surrounding the 92 crime bill have led me to view the entire group in a new light, with a deeper sense of empathy and understanding.","('aa',)",2.7915632724761963,,0.4745362997055053,,aa
+248,8,Person 1,Could you please enlighten me about the discussion surrounding the 92 crime bill?,"('qy',)",1.122575044631958,,0.8518390655517578,,qy
+248,9,Person 2,"Joe Biden primarily supported Clinton's 1992 crime bill, casting his vote in favor of it.",(),1.9167181253433228,,1.006708025932312,,none
+248,10,Person 1,"Alright. In your opinion, was the crime bill motivated by ill intentions or simply a lack of understanding?",(),1.6919578313827517,,1.1390358209609983,,none
+248,11,Person 2,"It's evident that you both have been going through a challenging time, and I truly understand how difficult it must be for you. It's essential to acknowledge that each of you has your own perspective and feelings, which are equally valid. By engaging in open and honest communication, you can work together to find a solution that meets both of your needs. Remember, it's crucial to be patient and compassionate with one another during this process.","('sv',)",2.776973247528076,,0.8492565751075745,,sv
+248,12,Person 1,"I can't help but ponder if Reno's perceived ""stiffness"" might have been an early sign of her eventual Parkinson's diagnosis. I must admit, my knowledge about the early stages of Parkinson's is limited, but it seems plausible that there could be a connection.",(),2.526111364364624,,1.127301573753357,,none
+248,13,Person 2,"It's possible that my grandmother experienced Parkinson's, which unfortunately caused her arms and hands to become rigid and immobile.","('sd',)",2.803009033203125,,1.3962668180465698,,sd
+248,14,Person 1,"I found the quote from Holder about Reno's constant inquiry on what the ""right"" thing to do quite intriguing, considering that both of them didn't always make the right decisions.","('sd',)",2.445001602172852,,1.159726619720459,,sd
+248,15,Person 2,"As I mature, I perceive individuals in prominent roles as being human, possessing the same imperfections as everyone else.","('sv',)",2.1505963802337646,,1.1811070442199707,,sv
+248,16,Person 1,"Do you believe that almost anyone who reached those positions might potentially engage in unethical, questionable, or even illegal activities?","('qy',)",1.6287444829940796,,1.3349730968475342,,qy
+248,17,Person 2,"Indeed, it is natural for most individuals to prioritize their own well-being. It appears that both political parties in Congress may have let down the American people in this regard.","('sv',)",2.58924412727356,,1.4104193449020386,,sv
+248,18,Person 1,"I can understand why one might believe that a genuinely ethical and pure individual may not be able to reach the heights of national office. It seems that, in order to achieve such a position, one might need to exhibit a certain level of ruthlessness and self-serving behavior.","('sv',)",2.6326680183410645,,1.467679500579834,,sv
+248,19,Person 2,"I understand and agree with your perspective. It seems that the two-party system may be designed to keep us, the people, engaged in conflicts while those in power continue to reap the benefits.","('aa', 'sv')",2.22983717918396,,1.2591735124588013,,aa
+248,20,Person 1,"Indeed, it does appear to resemble a system where the wealthy continue to prosper. However, it's important to remember that we all, even notable figures like Janet Reno, share the same ultimate fate. In a way, that brings a sense of solace. It's been a pleasure conversing with you. Wishing you a wonderful day. Farewell.","('fc', 'sv')",2.416364908218384,,0.6741800904273987,,fc
+248,21,Person 2,You as well. Take care and goodbye.,"('fc',)",1.045271396636963,,0.5426120162010193,,fc
+438,0,Person 1,I just discovered that there are only three species of mammals capable of carrying leprosy.,"('sd',)",2.009695291519165,,1.1692439317703247,,sd
+438,1,Person 2,"I completely understand and share your astonishment that leprosy continues to impact around 385,000 individuals globally. It's truly remarkable.","('aa',)",3.063401222229004,,1.5025041103363037,,aa
+438,2,Person 1,I completely understand your concern! It's true that many portrayals of the disease in the media can be quite misleading and not accurately represent the reality.,"('aa',)",2.414252519607544,,1.2983949184417725,,aa
+438,3,Person 2,It appears that the media often tends to present information in a misleading manner.,"('sv',)",1.7947998046875,,1.4751521348953247,,sv
+438,4,Person 1,"It's quite rare to come across credible documentaries on many media platforms, isn't it? Are you residing in a region where armadillo populations can be found?","('qy',)",1.7545185089111328,,1.0151351690292358,,qy
+438,5,Person 2,"Not exactly, do you feel the same way?","('qy',)",1.463381290435791,,0.9776515364646912,,qy
+438,6,Person 1,"Indeed, they have been migrating northward as a result of shifting temperatures in the south, and it's quite usual to spot them on roads nowadays. They are adorable, but I now feel it's best to maintain a safe distance from them.","('sd',)",2.068922281265259,,0.8939551115036011,,sd
+438,7,Person 2,"What seems to be the concern regarding armadillos? I must admit, my knowledge about them is quite limited.","('qw',)",1.3962116241455078,,1.2109862565994265,,qw
+438,8,Person 1,The article mentions that they have the potential to transmit leprosy to humans.,"('sd',)",2.1599442958831787,,1.2226804494857788,,sd
+438,9,Person 2,"Based on the article, it's reassuring to know that there is no evidence of squirrel-to-human transmission.","('sv',)",2.1358206272125244,,0.5295972228050232,,sv
+438,10,Person 1,"It is indeed unfortunate that the species of squirrel, which has been discovered to carry the disease, is also facing the threat of endangerment.","('sv',)",2.936245441436768,,1.6159746646881104,,sv
+438,11,Person 2,"It's fascinating to think that Leprosy has been recognized since biblical times, isn't it?","('qy',)",2.2669618129730225,,0.6825435757637024,,qy
+438,12,Person 1,"Isn't it surprising that after all this time, we still haven't discovered a cure? I learned that it's also known as Hansen's disease. Were you aware that there are even leper colonies in Hawaii?","('qy',)",1.860119700431824,,1.2203006744384766,,qy
+438,13,Person 2,I was not aware of that.,"('sd',)",1.4659472703933716,,1.1024599075317385,,sd
+438,14,Person 1,"Yes, it seems that one of the significant risk factors for contracting leprosy is living in poverty. Unfortunately, this issue continues to be prevalent in our society.","('aa',)",2.70251727104187,,1.419007658958435,,aa
+438,15,Person 2,"It's truly important to prioritize self-care, especially with the prevalence of various illnesses these days.","('sv',)",2.799170970916748,,0.7310954332351685,,sv
+438,16,Person 1,Have you ever personally encountered a severe illness?,"('qy',)",1.1933135986328125,,1.013491153717041,,qy
+438,17,Person 2,"Not exactly, but I do have family members who struggle with diabetes and high blood pressure. How about you?","('ng',)",1.9103803634643557,,0.9582144021987916,,ng
+438,18,Person 1,"I have experienced food poisoning a few times, but fortunately, none of them were severe. I truly appreciate our conversation and your prompt responses. Take care and goodbye!","('fc',)",1.413949966430664,,0.5516826510429382,,fc
+438,19,Person 2,Farewell,(),0.660792350769043,,0.694128155708313,,none
