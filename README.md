@@ -1,6 +1,6 @@
 # Empathy Style Transfer
 
-This repo is used for the experiments conducted in the EMNLP 2023 Findings paper "[Conditioning on Dialog Acts Improves Empathy Style Transfer](https://aclanthology.org/2023.findings-emnlp.884.pdf)".
+This repo is used for the experiments conducted in the EMNLP 2023 Findings paper [Conditioning on Dialog Acts Improves Empathy Style Transfer](https://aclanthology.org/2023.findings-emnlp.884.pdf).
 
 # Instruction
 
